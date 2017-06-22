@@ -1,4 +1,4 @@
-The Quantum Battery is a special battery the wirelessly shares power across all other quantum batteries (that are on the same frequency). ie. when a Quantum battery receives power, a Quantum battery 10000 blocks away also receives that energy. This works over any distance and even across dimensions.
+The Quantum Battery is a special battery that wirelessly shares power across all other quantum batteries (that are on the same frequency). ie. when a Quantum battery receives power, a Quantum battery 10000 blocks away also receives that energy. This works over any distance and even across dimensions.
 
 There are currently 10 frequencies a Quantum battery can be set to. These can be toggled using a machine wrench.
 
