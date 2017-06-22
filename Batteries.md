@@ -1,3 +1,5 @@
+Batteries are the core of the energy grid system, serving not only as a way to store energy, but also as the energy transmitters. The energy system in Mechanization is completely wireless, with batteries serving as the relay between generators and machines. As such, a battery is required to get started in Mechanization.
+
 **Tier 1 Battery**
 ***
 ![T1 Battery](http://i.imgur.com/na7UkU3.png?1)
