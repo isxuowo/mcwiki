@@ -5,8 +5,7 @@
 **Mechanization: Base Module**
 ***
 * World Generation
-* Machine Wrench
-* [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
+* [Machine Wrench](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Wrench)(https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
 * Quantum Battery
 
 Mechanization: Age Of Machines
