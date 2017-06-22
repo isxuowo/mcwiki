@@ -1,6 +1,7 @@
 ### Mechanization
 ***
 * [Overview](https://github.com/ImCoolYeah105/Mechanization/wiki)
+* [Instalation](https://github.com/ImCoolYeah105/Mechanization/wiki/Installion)
 
 ### Base Module
 ***
