@@ -1,7 +1,6 @@
 Mechanization
 
 Mechanization: Base Module
-
 * World Generation
 * Machine Wrench
 * Batteries
