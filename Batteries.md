@@ -6,7 +6,7 @@ Batteries are the core of the energy grid system, serving not only as a way to s
 
 Stats:
 * Capacity: 100000 kJ
-* 100 kJ/s
+* Transfer Rate: 100 kJ/s
 * Range: 24 blocks
 
 Tier 1 Frame Recipe: ____ Tier 1 Battery Recipe:
@@ -21,7 +21,7 @@ Tier 1 Frame Recipe: ____ Tier 1 Battery Recipe:
 
 Stats:
 * Capacity: 350000 kJ
-* 400 kJ/s
+* Transfer Rate: 400 kJ/s
 * Range: 32 blocks
 
 Tier 2 Frame Recipe: ____ Tier 2 Battery Recipe:
@@ -36,7 +36,7 @@ Tier 2 Frame Recipe: ____ Tier 2 Battery Recipe:
 
 Stats:
 * Capacity: 1000000 kJ
-* 1000 kJ/s
+* Transfer Rate: 1000 kJ/s
 * Range: 48 blocks
 
 Tier 3 Frame Recipe: ____ Tier 3 Battery Recipe:
