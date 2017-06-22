@@ -7,7 +7,5 @@
 * World Generation
 * [Machine Wrench](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Wrench)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
-* Quantum Battery
-
-### Age Of Machines
+* [Qunatum Battery](https://github.com/ImCoolYeah105/Mechanization/wiki/Quantum-Battery)chines
 ***
