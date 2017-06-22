@@ -6,7 +6,7 @@
 ***
 * World Generation
 * Machine Wrench
-* [https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries](Batteries)
+* [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
 * Quantum Battery
 
 Mechanization: Age Of Machines
