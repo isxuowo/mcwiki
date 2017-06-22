@@ -1,0 +1,1 @@
+There are currently 3 tiers of standard batteries.
