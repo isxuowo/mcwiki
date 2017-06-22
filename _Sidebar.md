@@ -1,7 +1,11 @@
-Mechanization
+**Mechanization**
+***
+
 * Overview
 
-Mechanization: Base Module
+**Mechanization: Base Module**
+***
+
 * World Generation
 * Machine Wrench
 * Batteries
