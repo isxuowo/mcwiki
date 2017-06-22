@@ -6,4 +6,4 @@ There are currently 10 frequencies a Quantum battery can be set to. These can be
 
 Quantum Frame Recipe: ___ Quantum Battery Recipe:
 
-![Quantum Frame](http://i.imgur.com/AglnFqX.png?1) ![Quantum Battery](http://i.imgur.com/omJGJ8R.png?1)
+![Quantum Frame](http://i.imgur.com/AglnFqX.png?1) ___ ![Quantum Battery](http://i.imgur.com/omJGJ8R.png?1)
