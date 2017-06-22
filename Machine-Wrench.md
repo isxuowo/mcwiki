@@ -4,4 +4,6 @@ Shift+Right clicking will safely break a machine and return it for future use. W
 
 Right Clicking will perform an special function. Generally this rotates the machine, however some machines use this function to change a setting or frequency.
 
+Recipe:
+
 ![Wrench Recipe](http://i.imgur.com/IjI0Usm.png?1)
