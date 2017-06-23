@@ -13,7 +13,9 @@
 ### Age of Machines
 ***
 * [Resources](https://github.com/ImCoolYeah105/Mechanization/wiki/Resources)
-* [Alloy Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Alloy_Furnace)
+* [Alloy Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Alloy-Furnace)
+* [Furnace Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Furnace-Generator)
+* [Solar Panel](https://github.com/ImCoolYeah105/Mechanization/wiki/Solar-Panel)
 * [Electric Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Electric-Furnace)
 * [Industrial Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Industrial-Furnace)
 * [Ore Grinder](https://github.com/ImCoolYeah105/Mechanization/wiki/Ore-Grinder)
