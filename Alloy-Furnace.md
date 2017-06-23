@@ -4,6 +4,8 @@ The Alloy Furnace is one of the most important machines available, as it allows 
 
 Note: The alloy furnace can only handle 1 job at a time. Attempting to stack ingredients will not work. Also, the machine will jam if the output slot has an item in it.
 
+Uses 20 kJ/s
+
 **Recipe:**
 
 ![Alloy Furnace Recipe](http://i.imgur.com/pRpLcIz.png?1)
