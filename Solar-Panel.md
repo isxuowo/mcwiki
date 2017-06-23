@@ -22,4 +22,4 @@ Generates 18 kJ/s
 
 **Recipe:**
 
-![Solar Panel Recipe](http://i.imgur.com/JJcLHqT.png?1)
+![Solar Array Recipe](http://i.imgur.com/DY5fO0K.png?1)
