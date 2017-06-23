@@ -10,7 +10,6 @@ Note: The alloy furnace can only handle 1 job at a time. Attempting to stack ing
 
 ## Recipes
 ***
-There are a total 7 alloys. These are created by combining various resources in an Alloy Furnace.
 * Conductive Alloy:
 
 ![Conductive Alloy](http://i.imgur.com/uraHTR1.png?1)
