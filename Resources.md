@@ -13,10 +13,17 @@ Advanced Machine Frame Recipe:
 ## Alloys
 ***
 There are a total 7 alloys. These are created by combining various resources in an Alloy Furnace.
-* Conductive Alloy: ![Conductive Alloy](http://i.imgur.com/uraHTR1.png?1)
-* Bronze: ![Bronze](http://i.imgur.com/aRfWoVX.png?1)
-* Steel: ![Steel](http://i.imgur.com/77JQSUT.png?1)
-* Structural Alloy: ![Structural Alloy](http://i.imgur.com/BsGStmV.png?1)
-* Crystal Composite: ![Crystal Composite](http://i.imgur.com/W9IpmED.png?1)
-* Ender Alloy: ![Ender Alloy](http://i.imgur.com/fQirSCZ.png?1)
-* Nether Alloy: ![Nether Alloy](http://i.imgur.com/EqAIzIs.png?1)
+* Conductive Alloy:
+![Conductive Alloy](http://i.imgur.com/uraHTR1.png?1)
+* Bronze:
+![Bronze](http://i.imgur.com/aRfWoVX.png?1)
+* Steel:
+![Steel](http://i.imgur.com/77JQSUT.png?1)
+* Structural Alloy:
+![Structural Alloy](http://i.imgur.com/BsGStmV.png?1)
+* Crystal Composite:
+![Crystal Composite](http://i.imgur.com/W9IpmED.png?1)
+* Ender Alloy:
+![Ender Alloy](http://i.imgur.com/fQirSCZ.png?1)
+* Nether Alloy:
+![Nether Alloy](http://i.imgur.com/EqAIzIs.png?1)
