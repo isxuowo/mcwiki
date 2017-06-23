@@ -2,7 +2,7 @@
 
 The Electric Furnace is a simply machine that acts exactly like a vanilla furnace, except that it uses power to smelt items instead of normal fuel.
 
-Uses 20 kJ/s when smelting.
+Uses 20 kJ/s
 
 **Recipe:**
 
