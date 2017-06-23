@@ -1,6 +1,6 @@
 ![Alloy Furnace](http://i.imgur.com/qLgOPwO.png?1)
 
-The Alloy Furnace is one of the most important machines available, as it allows you to create higher tier materials by combine various resources into stronger alloys.
+The Alloy Furnace is one of the most important machines available, as it allows for the creation of higher tier materials by combine various resources into stronger alloys.
 
 Note: The alloy furnace can only handle 1 job at a time. Attempting to stack ingredients will not work. Also, the machine will jam if the output slot has an item in it.
 
