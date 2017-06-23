@@ -9,6 +9,7 @@ The solar panel is a passive generator that creates power during the day.
 Generates 6 kJ/s
 
 **Recipe:**
+
 ![Solar Panel Recipe](http://i.imgur.com/JJcLHqT.png?1)
 
 ## Solar Array
@@ -20,4 +21,5 @@ The solar array is and upgraded version of the solar panel the generates more po
 Generates 18 kJ/s
 
 **Recipe:**
+
 ![Solar Panel Recipe](http://i.imgur.com/JJcLHqT.png?1)
