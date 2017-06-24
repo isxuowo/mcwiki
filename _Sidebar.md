@@ -31,9 +31,9 @@
 
 ### Nuclear Ascension
 ***
-* Hazmat Suit
-* Fission Reactor
-* Steam Turbine
+* [Hazmat Suit](https://github.com/ImCoolYeah105/Mechanization/wiki/Hazmat-Suit)
+* [Fission Reactor](https://github.com/ImCoolYeah105/Mechanization/wiki/Fission-Reactor)
+* [Steam Turbine](https://github.com/ImCoolYeah105/Mechanization/wiki/Steam-Turbine)
 
 ### Gadgets
 ***
