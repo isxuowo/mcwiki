@@ -31,6 +31,9 @@
 
 ### Nuclear Ascension
 ***
+* Hazmat Suit
+* Fission Reactor
+* Steam Turbine
 
 ### Gadgets
 ***
