@@ -6,4 +6,4 @@ Uses 40 kJ/s
 
 **Recipe:**
 
-[Block Breaker Recipe](http://i.imgur.com/2WMGXAd.png?1)
+![Block Breaker Recipe](http://i.imgur.com/2WMGXAd.png?1)
