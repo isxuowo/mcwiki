@@ -2,6 +2,10 @@
 
 The Fission Reactor uses uranium to boil water around it, which produces steam that can drive a turbine. To add fuel to the reactor, throw a uranium ingot on top of it (1 ingot at a time). A single ingot provides 60 secs of fuel.
 
+**Warning: Reactors will explode if they overheat! This will create a large explosion- enough to destroy obsidian. Be careful about how you set up your reactors!**
+
+**Recipe:**
+
 ![Fission Reactor Recipe](http://i.imgur.com/Zds3r7B.png?1)
 
 ### An Intro to Reactor Physics:
