@@ -37,3 +37,7 @@
 
 ### Gadgets
 ***
+* Tinker Table
+* Player Charging Pad
+* Guns
+* Other Gadgets
