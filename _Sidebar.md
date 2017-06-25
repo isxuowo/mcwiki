@@ -40,4 +40,4 @@
 * [Tinker Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Tinker-Table)
 * [Player Charging Pad](https://github.com/ImCoolYeah105/Mechanization/wiki/Player-Charging-Pad)
 * [Guns](https://github.com/ImCoolYeah105/Mechanization/wiki/Guns)
-* [Other Gadgets](https://github.com/ImCoolYeah105/Mechanization/wiki/Other Gadgets)
+* [Other Gadgets](https://github.com/ImCoolYeah105/Mechanization/wiki/Other-Gadgets)
