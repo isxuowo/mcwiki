@@ -32,6 +32,7 @@ Nuclear Ascention:
 * Uranium Refining
 
 Gadgets:
+* Transportation (TE viaduct)
 * XP Storage Mechanic
 * Muiltitool (powerfist)
 * Gun Aiming
