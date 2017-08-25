@@ -20,12 +20,12 @@ Attributes stack, so 2 pieces of armor with +50% speed yield +100% speed.
 
 **Custom Enchantments:**
 
-Custom enchantments are unique to Mechanization and do not interfere with normal enchanting. A piece of armor with a custom enchant can still have enchantments added in an anvil, and can even be enchanted in an enchanting table.
-Shielding: Applies a resistance 2 buff for 10 kJ/s - 1 Nether Star, 64 Obsidian, 4 Shulker Shells
-Slowfall: Slows your descent and negates fall damage, uses 100 kJ/s when falling - 64 chorus fruit, 4 rabbit's foot, 64 wool
-Saturation: hold shift to restore your hunger. Uses 20 kJ/hunger bar - 32 steak, 32 cooked porkshop, 16 golden apples
-Item Magnet: draws items towards you for 7 kJ/s - 64 iron ingots, 32 redstone dust, 24 glass
-Night Vision: Grants night vision for 3 kJ/s - 64 golden carrots, 32 redstone dust, 32 lapis lazuli
-True Invisibility: Look down and hold shift to turn completely invisible- including armor. While invisable you cannot move. Uses 100 kJ/s when active. - 1 nether star, 64 eye of ender, 32 diamonds.
-Water Breathing: Grants water breathing for 25 kJ/s when in water - 8 puffer fish, 32 redstone dust, 32 lapis lazuli
+* Custom enchantments are unique to Mechanization and do not interfere with normal enchanting. A piece of armor with a custom enchant can still have enchantments added in an anvil, and can even be enchanted in an enchanting table.
+* Shielding: Applies a resistance 2 buff for 10 kJ/s - 1 Nether Star, 64 Obsidian, 4 Shulker Shells
+* Slowfall: Slows your descent and negates fall damage, uses 100 kJ/s when falling - 64 chorus fruit, 4 rabbit's foot, 64 wool
+* Saturation: hold shift to restore your hunger. Uses 20 kJ/hunger bar - 32 steak, 32 cooked porkshop, 16 golden apples
+* Item Magnet: draws items towards you for 7 kJ/s - 64 iron ingots, 32 redstone dust, 24 glass
+* Night Vision: Grants night vision for 3 kJ/s - 64 golden carrots, 32 redstone dust, 32 lapis lazuli
+* True Invisibility: Look down and hold shift to turn completely invisible- including armor. While invisable you cannot move. Uses 100 kJ/s when active. - 1 nether star, 64 eye of ender, 32 diamonds.
+* Water Breathing: Grants water breathing for 25 kJ/s when in water - 8 puffer fish, 32 redstone dust, 32 lapis lazuli
 
