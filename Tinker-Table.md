@@ -6,6 +6,7 @@ The tinker table is a crafting station that can be used to apply special modifie
 
 ![Tinker Table Recipe](http://i.imgur.com/D43SE1o.png?1)
 
+
 **Armor Modifiers**
 ***
 There are currently 2 different types of modifiers that can be applied to armor- attributes and custom enchantments. Each piece of armor can receive one of each type of modifier.
@@ -28,6 +29,7 @@ Custom enchantments are unique to Mechanization and do not interfere with normal
 * Night Vision: Grants night vision for 3 kJ/s - 64 golden carrots, 32 redstone dust, 32 lapis lazuli
 * True Invisibility: Look down and hold shift to turn completely invisible- including armor. While invisable you cannot move. Uses 100 kJ/s when active. - 1 nether star, 64 eye of ender, 32 diamonds.
 * Water Breathing: Grants water breathing for 25 kJ/s when in water - 8 puffer fish, 32 redstone dust, 32 lapis lazuli
+
 
 **Gun Modifiers**
 ***
