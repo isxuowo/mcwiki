@@ -13,9 +13,11 @@ There are currently 2 different types of modifiers that can be applied to armor-
 **Attributes:**
 
 Attributes stack, so 2 pieces of armor with +50% speed yield +100% speed.
-+50% Speed - 64 Sugar, 16 Pistons, 16 Ender Pearls
-+5 Hearts - 8 Ghast Tears, 32 Redstone Blocks, 64 Glistering Melons
-+25% Attack Damage - 1 Nether Star, 32 Dragon's Breath, 64 Blaze Powder
-+0.5 Knockback Resistance - 16 Iron Blocks, 32 Emeralds, 64 Obsidian
+* +50% Speed - 64 Sugar, 16 Pistons, 16 Ender Pearls
+* +5 Hearts - 8 Ghast Tears, 32 Redstone Blocks, 64 Glistering Melons
+* +25% Attack Damage - 1 Nether Star, 32 Dragon's Breath, 64 Blaze Powder
+* +0.5 Knockback Resistance - 16 Iron Blocks, 32 Emeralds, 64 Obsidian
+
+
 
 
