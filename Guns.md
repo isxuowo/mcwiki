@@ -29,9 +29,9 @@ Parts are crafting ingredients used to make guns. All of the guns require a full
 Tier 1 Guns use the normal gun barrel.
 
 **Pistol:**
-Damage: Medium
-Fire-rate: Medium
-Ammo: Iron Nuggets
+* Damage: Medium
+* Fire-rate: Medium
+* Ammo: Iron Nuggets
 ![Pistol](http://i.imgur.com/UMSn4Px.png?1)
 
 **Rifle:**
