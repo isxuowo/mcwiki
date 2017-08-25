@@ -80,6 +80,6 @@ Tier 2 Guns use the laser gun barrel.
 **Rail Gun:**
 * Damage: Medium
 * Fire-rate: Low
-* Ammo: Gold Ingot and 50 rf/shot
+* Ammo: Gold Ingot and 50 kJ/shot
 * Special: penetrates through targets, hitting multiple enemies.
 ![Rail Gun](http://i.imgur.com/Csb2aIM.png?1) ![Rail Gun Recipe](http://i.imgur.com/RubHuhL.png?1)
