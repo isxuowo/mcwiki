@@ -9,4 +9,4 @@
 
 Video Tutorial
 ***
-![](https://youtu.be/DR28xsr1A4c)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DR28xsr1A4c/0.jpg)](https://www.youtube.com/watch?v=DR28xsr1A4c)
