@@ -6,3 +6,7 @@
 6. Drag the contents of the downloaded file into the world. Choose replace files if prompted.
 7. Enter the world in Minecraft and run the command '/reload'. Then run the command '/function mechanization:start'
 8. Have fun :)
+
+Video Tutorial
+***
+![](https://youtu.be/DR28xsr1A4c)
