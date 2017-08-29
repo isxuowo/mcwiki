@@ -32,22 +32,26 @@ Nuclear Ascention:
 * Uranium Refining
 
 Gadgets:
-* Transportation (TE viaduct)
+* Transportation Tubes (TE viaduct)
 * XP Storage Mechanic
 * Muiltitool (powerfist)
 * Gun Aiming
 * Flight
 * Particle Gene
-* Robots
+* ?Robots
 
-New Assembly Line Module: 
+New Module: Assembly Line
 * Various Autocrafting
 * Conveyor belts
 * Routers
+* Item processing
 * ?Infinite Range Item Transport
 
-New Mech Module:
-* Mechs!
+New Module: Mechanized Warfare
+* Transport vehicles
+* Tanks
+* Mechs
+* Planes, Helicopters
 
-New Minecart Module
+New Module: Rail Stuffs
 * Improved Rails
