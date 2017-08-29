@@ -13,7 +13,7 @@ Current Features:
 
 _
 
-**Video Overviews of Mechanization**
+## **Video Overviews of Mechanization**
 ***
 **The Progression Update:**
 
