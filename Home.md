@@ -13,4 +13,10 @@ Current Features:
 
 **Video Overviews of Mechanization**
 ***
-EhxSkXbYKgk
+**The Progression Update:**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EhxSkXbYKgk/0.jpg)](https://www.youtube.com/watch?v=EhxSkXbYKgk)
+
+**Main Overview:**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EhxSkXbYKgk/0.jpg)](https://www.youtube.com/watch?v=EhxSkXbYKgk)
