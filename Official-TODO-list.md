@@ -32,10 +32,12 @@ Nuclear Ascention:
 * Uranium Refining
 
 Gadgets:
+* Batteries instead of arbitrary "internal buffer"
 * Transportation Tubes (TE viaduct)
 * XP Storage Mechanic
 * Muiltitool (powerfist)
 * Gun Aiming
+* Gun attachments
 * Flight
 * Particle Gene
 * ?Robots
