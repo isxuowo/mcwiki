@@ -4,6 +4,7 @@ Base Module:
 * Energy Relays
 * Move alloy furnace to this module
 * Switch to normal recipes when functionality is introduced
+* Custom Advancements
 
 Age Of Machines:
 * Void Ore Miner
