@@ -41,8 +41,7 @@ Gadgets:
 * Transportation Tubes (TE viaduct)
 * XP Storage Mechanic
 * Muiltitool (powerfist)
-* Gun Aiming
-* Gun attachments
+* Gun Improvements (ADS, attachments, magazines)
 * Flight
 * Particle Gene
 * New tinker table system
