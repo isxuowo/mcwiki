@@ -50,6 +50,11 @@ Gadgets:
 * ?Robots
 * ?Turrets
 
+New Module: Agriculture
+* Resource crops
+* Cross-breading
+* Plant stats
+
 New Module: Assembly Line
 * Various Autocrafting
 * Conveyor belts
