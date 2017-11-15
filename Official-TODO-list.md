@@ -19,11 +19,10 @@ Age Of Machines:
 * Fertalizer
 * Lightning Generator
 * Ender Pearl Generator
-* tnt generator
+* TNT generator
 * redstone generator
 * biodesiel generator
 * XP generator
-* ?Magma Generator
 * Item Repairer
 * ?Super Piston
 * ?Storage System
@@ -47,20 +46,16 @@ Gadgets:
 * Particle Gene
 * New tinker table system
 * New armor and weapon modifier system
-* ?Robots
-* ?Turrets
-
-New Module: Agriculture
-* Resource crops
-* Cross-breading
-* Plant stats
 
 New Module: Assembly Line
-* Various Autocrafting
+* Autocrafting
 * Conveyor belts
 * Routers
 * Item processing
 * ?Infinite Range Item Transport
+
+New Module: Rail Stuffs
+* Improved Rails, like Railcraft
 
 New Module: Mechanized Warfare
 * Transport vehicles
@@ -68,10 +63,14 @@ New Module: Mechanized Warfare
 * Mechs
 * Planes, Helicopters
 * ICBMs
+* Base Defences: Turrets, Tesla Coil, etc.
 * ?Force Field
 
-New Module: Rail Stuffs
-* Improved Rails
+New Module: Agriculture
+* Crop stuff, like Agricraft/IC2 crops/Magical Crops. Will replace Elder Botany.
+* Resource crops
+* Cross-breading
+* Plant stats
 
 New Module: space
 * Like Galacticraft, but different
