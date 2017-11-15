@@ -6,6 +6,7 @@ Base Module:
 * Move alloy furnace to this module
 * Switch to normal recipes when functionality is introduced
 * Custom Advancements
+* ?Some sort of cabled power vs. 'wireless'
 
 Age Of Machines:
 * Void Ore Miner
@@ -13,17 +14,19 @@ Age Of Machines:
 * Lava Production Mechanic
 * Stone Farm
 * Enhanced Beacon
-* weather/time control
+* Weather/time control
 * Fisher
 * Deep Storage Unit
 * Fertalizer
 * Lightning Generator
 * Ender Pearl Generator
-* TNT generator
-* redstone generator
-* biodesiel generator
+* Explosion generator
+* Tedstone generator
+* Biodesiel generator
 * XP generator
 * Item Repairer
+* ?Blast Furnace
+* ?Block Placer
 * ?Super Piston
 * ?Storage System
 * ?Upgrade system
@@ -46,6 +49,7 @@ Gadgets:
 * Particle Gene
 * New tinker table system
 * New armor and weapon modifier system
+* Item Magnet
 
 New Module: Assembly Line
 * Autocrafting
