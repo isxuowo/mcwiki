@@ -62,6 +62,7 @@ New Module: Mechanized Warfare
 * Tanks
 * Mechs
 * Planes, Helicopters
+* New explosives
 * ICBMs
 * Base Defences: Turrets, Tesla Coil, etc.
 * ?Force Field
