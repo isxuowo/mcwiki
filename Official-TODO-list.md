@@ -21,7 +21,7 @@ Age Of Machines
 * Lightning Generator
 * Ender Pearl Generator
 * Explosion generator
-* Tedstone generator
+* Redstone generator
 * Biodesiel generator
 * XP generator
 * Item Repairer
