@@ -8,7 +8,8 @@ Base Module:
 * Custom Advancements
 * ?Some sort of cabled power vs. 'wireless'
 
-Age Of Machines:
+Age Of Machines
+* Disenchanter
 * Void Ore Miner
 * Mob Spawning Mechanics
 * Lava Production Mechanic
