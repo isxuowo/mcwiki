@@ -2,7 +2,6 @@ This is the official todo page for Mechanization. Ideas denoted with a '?' are p
 
 Base Module:
 * Energy Relays
-* Wrench Improvements
 * Move alloy furnace to this module
 * Switch to normal recipes when functionality is introduced
 * Custom Advancements
