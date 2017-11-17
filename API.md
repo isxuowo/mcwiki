@@ -9,4 +9,5 @@ Mechanization is modularized into a set of event calls and scoreboard informatio
 Mechanization's primary feature is the energy grid. To create a device that interacts with the grid, give an entity one of these tags:
 * mech_transmitter: Indicates that this device generates power, and should have power taken from it and put into batteries.
 * mech_reciever: Indicates that this device uses power, and should take power from batteries.
+
 Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value. Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption.
