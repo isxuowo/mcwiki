@@ -1,7 +1,6 @@
 This is the official todo page for Mechanization. Ideas denoted with a '?' are possible additions, usually because they may be too difficult or impractical to implement. Please check this list before posting suggestions.
 
 Base Module:
-* Energy Relays
 * Move alloy furnace to this module
 * Switch to normal recipes when functionality is introduced
 * Custom Advancements
