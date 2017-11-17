@@ -3,7 +3,6 @@ Mechanization is modularized into a set of event calls and scoreboard informatio
 *Important notice: this page is being developed along side the 1.13 release of Mechanization, and therefor most of the information is not applicable as of right now. Once released this information will be up-to-date and valid.
 
 # Energy API
-
 ***
 
 Mechanization's primary feature is the energy grid. To create a device that interacts with the grid, give an entity one of these tags:
@@ -13,3 +12,7 @@ Mechanization's primary feature is the energy grid. To create a device that inte
 Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value. Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption.
 
 Note: it is not currently possible to create custom batteries without extensive scripting involved.
+
+# Events
+***
+
