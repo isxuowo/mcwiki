@@ -23,3 +23,7 @@ There are several event hooks built into mechanization. These are generally prov
 1. mech_meter_readout: triggers when player right clicks a multimeter. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
 2. mech_meter_idlock: triggers when player shift+right clicks with a multimeter. By default, locks given machine to provided network id. Really shouldn’t be altered, but can be if necessary.
 * World gen event hooks are currently not implemented, but are planned.
+
+# Tips
+***
+* While your free to create any content in an add on if you want, it’s generally better to avoid overlapping content for performance reasons. Check out the Todo page for a list of planned features.
