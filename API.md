@@ -15,9 +15,11 @@ Note: it is not currently possible to create custom batteries without extensive 
 
 # Events
 ***
-There are several event hooks built into mechanization. These are provided using an entity with a tag.
-* There are two events associated with the wrench. When used, a entity is spawned inside the block the player is looking at.
-1. mech_wrench_break: triggers when player shift+uses wrench. Should be used to safely break the machine.
+There are several event hooks built into mechanization. These are generally provided using an entity with a tag at the location of the event.
+* There are two events associated with the wrench. When used, an entity is spawned inside the block the player is looking at, so commands can be run at the block.
+1. mech_wrench_break: triggers when player shift+right clicks a wrench. Should be used to safely break the machine.
 2. mech_wrench_function: triggers when player right clicks the wrench. Should be used to apply a function to the machine, i.e. changing modes or rotating.
-
+* There are two events associated with the multimeter. When used, an entity is spawned inside the block the player is looking at, so commands can be run at the block.
+1. mech_meter_readout: triggers when player right clicks a multimeter. By default, prints out how much power the de ice is currently holding. Can be used to print out additional information.
+2. mech_meter_idlock: triggers when player shift+right clicks with a multimeter. By default, locks given machine to provided network id. 
 
