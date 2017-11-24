@@ -15,4 +15,9 @@ Note: it is not currently possible to create custom batteries without extensive 
 
 # Events
 ***
+There are several event hooks built into mechanization. These are provided using an entity with a tag.
+* There are two events associated with the wrench. When used, a entity is spawned inside the block the player is looking at.
+1. mech_wrench_break: triggers when player shift+uses wrench. Should be used to safely break the machine.
+2. mech_wrench_function: triggers when player right clicks the wrench. Should be used to apply a function to the machine, i.e. changing modes or rotating.
+
 
