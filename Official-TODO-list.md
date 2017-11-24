@@ -2,6 +2,7 @@ This is the official todo page for Mechanization. Ideas denoted with a '?' are p
 
 Base Module:
 * Move alloy furnace to this module
+* ?Alloy furnace api hook
 * Switch to normal recipes when functionality is introduced
 * Custom Advancements
 * ?Some sort of cabled power vs. 'wireless'
@@ -38,6 +39,7 @@ Nuclear Ascention:
 * Advanced Item Dupe Method
 * Nuclear Bombs
 * Advanced Uranium Refining
+* Nuclear fuel processing
 
 Gadgets:
 * Batteries instead of arbitrary "internal buffer"
