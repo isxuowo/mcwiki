@@ -39,7 +39,7 @@ Nuclear Ascention:
 * Advanced Item Dupe Method
 * Nuclear Bombs
 * Advanced Uranium Refining
-* Nuclear fuel processing
+* Nuclear fuel reprocessing
 
 Gadgets:
 * Batteries instead of arbitrary "internal buffer"
