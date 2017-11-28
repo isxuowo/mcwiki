@@ -24,6 +24,28 @@ There are several event hooks built into mechanization. These are generally prov
 2. mech_meter_idlock: triggers when player shift+right clicks with a multimeter. By default, locks given machine to provided network id. Really shouldn’t be altered, but can be if necessary.
 * World gen event hooks are currently not implemented, but are planned.
 
+# Scoreboard Information
+***
+* mech_timer: used when anything requires time. Has 2 fake players "timer" and "timer250" timer is a 20 tick clock, timer250 is a 250 tick clock. You can use them to put machines on a delay.
+* mech_data: used for storing constants and for math. Also used to store an extra bit of data on machines. Could be anything.
+* mech_power: indicates power level on a machine/generator/battery.
+* mech_uuid: used whenever something needs a unique id. Uses the fake player incrID. You should always get a new id from this fake player, and increment it by 1 when you do.
+* mech_x, mech_y, mech_z: used when position or rotation cords need to be stored.
+
+# Helper Functions
+***
+These function files are in the API. Generally they require scoreboard inputs using fake players. These inputs are specified in the individual function file header.
+* function mechanization:base/math/sine - Calculates sine given angle in degrees.
+* function mechanization:base/math/cosine - Calculates cosine given angle in degrees.
+* function mechanization:base/math/tangent- Calculates tangent given angle in degrees.
+* function mechanization:base/math/power- Raised number to specified power.
+* function mechanization:base/raytrace/start_ray- Spawns an instant raycast at entity.
+* function mechanization:base/raytrace/start_dynamic_ray- Spawns a dynamic raycast at entity.
+
+# Additional Information
+***
+* The world spawn is set to x=0,z=0. This way the spawn chunk cords are always known.
+
 # Tips
 ***
 * While your free to create any content in an add on if you want, it’s generally better to avoid overlapping content for performance reasons. Check out the Todo page for a list of planned features.
