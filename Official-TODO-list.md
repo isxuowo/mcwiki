@@ -8,6 +8,7 @@ Base Module:
 * ?Some sort of cabled power vs. 'wireless'
 * Add world gen event hooks to api
 * Energy Item API Hooks (like portable batteries, powered armor, etc.)
+* Add an ore dictionary API system
 
 Age Of Machines
 * Disenchanter
