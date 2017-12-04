@@ -49,3 +49,4 @@ These function files are in the API. Generally they require scoreboard inputs us
 # Tips
 ***
 * While your free to create any content in an add on if you want, it’s generally better to avoid overlapping content for performance reasons. Check out the Todo page for a list of planned features.
+* Need an API hook or think that something should be added to the API? Please post a suggestion in the issue tracker.
