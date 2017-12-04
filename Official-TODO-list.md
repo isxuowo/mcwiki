@@ -7,6 +7,7 @@ Base Module:
 * Custom Advancements
 * ?Some sort of cabled power vs. 'wireless'
 * Add world gen event hooks to api
+* Energy Item API Hooks (like portable batteries, powered armor, etc.)
 
 Age Of Machines
 * Disenchanter
