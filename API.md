@@ -34,7 +34,7 @@ There are several event hooks built into mechanization. These are generally prov
 
 # Helper Functions
 ***
-These function files are in the API. Generally they require scoreboard inputs using fake players. These inputs are specified in the individual function file header.
+These function files are in the API. Generally they require scoreboard inputs using fake players. These inputs are specified in the individual functions' file headers.
 * function mechanization:base/math/sine - Calculates sine given angle in degrees.
 * function mechanization:base/math/cosine - Calculates cosine given angle in degrees.
 * function mechanization:base/math/tangent- Calculates tangent given angle in degrees.
@@ -42,9 +42,19 @@ These function files are in the API. Generally they require scoreboard inputs us
 * function mechanization:base/raytrace/start_ray- Spawns an instant raycast at entity.
 * function mechanization:base/raytrace/start_dynamic_ray- Spawns a dynamic raycast at entity.
 
+# Ore Dictonary
+***
+The purpose of the ore dictionary is essentially the same as in modded Minecraft- to improve compatibility by having an easy way of identifying certain items in a predictable manner. Generally, this isn't done by interfacing with the API, but is done on your own.
+
+Adding items to ore dict: inside the tag:{} nbt list, add the following string array tag: OreDict:[]. Then, add any ore dictionary entries to the array. For example, OreDict:["ingotSteel"]. Multiple entries can be specified. Naming conventions should follow the normal conventions for modded Minecraft (why reinvent the wheel).
+
+Using ore dict items in recipes: Just test for the needed ore dict entry in the array (example coming when nbt data support is added to custom recipes).
+
+Following these conventions will allow easy cross-datapack compatibility with recipes, and will simplify recipe creation in the long run.
+
 # Additional Information
 ***
-* The world spawn is set to x=0,z=0. This way the spawn chunk cords are always known.
+* The world spawn is set to x=0, z=0. This way the spawn chunk cords are always known.
 
 # Tips
 ***
