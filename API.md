@@ -4,6 +4,8 @@ Mechanization is modularized into a set of event calls and scoreboard informatio
 
 You can download the most recent 1.13 snapshot (Version 0.1.0) build [here](https://www.dropbox.com/s/ekcr2kfibywon9d/Mechanization_1.13_Snapshot.zip?dl=1).
 
+And the resource pack [here](https://www.dropbox.com/s/8y9jx23x3wvbcju/Mechanization_Snapshot_Resources.zip?dl=1).
+
 # Energy API
 ***
 
