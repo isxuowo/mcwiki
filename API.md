@@ -2,6 +2,8 @@ Mechanization is modularized into a set of event calls and scoreboard informatio
 
 *Important notice: this page is being developed along side the 1.13 release of Mechanization, and therefor most of the information is not applicable as of right now. Once released this information will be up-to-date and valid.
 
+You can download the most recent 1.13 snapshot (Version 0.1.0) build [here](https://www.dropbox.com/s/ekcr2kfibywon9d/Mechanization_1.13_Snapshot.zip?dl=1).
+
 # Energy API
 ***
 
