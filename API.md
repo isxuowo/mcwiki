@@ -16,23 +16,25 @@ Note: it is not currently possible to create custom batteries without extensive 
 # Events
 ***
 There are several event hooks built into mechanization. These are generally provided using an entity with a tag at the location of the event.
-* There are two events associated with the wrench. When used, an entity is spawned inside the block the player is looking at, so commands can be run at the block.
-1. mech_wrench_break: triggers when player shift+right clicks a wrench. Should be used to safely break the machine.
-2. mech_wrench_function: triggers when player right clicks the wrench. Should be used to altar a machine setting, i.e. changing modes or rotating.
-* mech_meter_readout: triggers when player right clicks a multimeter. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
+* mech_wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break the machine.
+* mech_wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
+* mech_meter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
 * mech_activegen: indicates a chunk is ready to custom generation.
 * mech_sneaking: indicates a player is currently sneaking
-* mech_usestick: indicates a player has used an unbreakable carrot on a stick. The players also has a scoreboard value for mech_usedid, which indicates the damage of the carrot on a stick.
-* mech_useflint: indicates a player has used an unbreakable flint and steel. The players also has a scoreboard value for mech_usedid, which indicates the damage of the flint and steel.
+* mech_usestick: triggers when a player has used an unbreakable carrot on a stick. The players also has a scoreboard value for mech_usedid, which indicates the damage of the carrot on a stick.
+* mech_useflint: triggers when a player has used an unbreakable flint and steel. The players also has a scoreboard value for mech_usedid: which indicates the damage of the flint and steel.
+* mech_placehead: triggers when player places a player head, at the location of the head. Used internally to place custom machines/blocks based on type of head.
+* mech_placeobject: triggers when a player uses an unbreakable flint and steel, at the location they are looking. Used internally to place custom machines/blocks. Marker entity will have a mech_data value indicating flint and steel damage.
 
 # Scoreboard Information
 ***
 * mech_timer: used when anything requires time. Has 2 fake players "timer" and "timer250" timer is a 20 tick clock, timer250 is a 250 tick clock. You can use them to put machines on a delay.
-* mech_data: used for storing constants and for math. Also used to store an extra bit of data on machines. Could be anything.
+* mech_data: used for storing constants (see start function for pre-defined constants) and for math. Also used to store an extra bit of data on machines. Could be anything.
 * mech_power: indicates power level on a machine/generator/battery.
 * mech_uuid: used whenever something needs a unique id. Uses the fake player incrID. You should always get a new id from this fake player, and increment it by 1 when you do.
 * mech_x, mech_y, mech_z: used when position or rotation cords need to be stored.
 * mech_gridid: used internally to specify machines' grid ids. You probably shouldn't mess with this.
+* mech_usedid: used internally to indicate what damage a carrot on a stick or flint and steel had when used.
 
 # Helper Functions
 ***
