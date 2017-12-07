@@ -4,9 +4,7 @@ Base Module:
 * Switch to normal recipes when functionality is introduced
 * Custom Advancements
 * ?Some sort of cabled power vs. 'wireless'
-* Add world gen API hooks
 * Energy Item API hooks (like portable batteries, powered armor, etc.)
-* Add an ore dictionary system to API
 
 Age Of Machines
 * Disenchanter
