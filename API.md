@@ -8,8 +8,6 @@ And the resource pack [here](https://www.dropbox.com/s/8y9jx23x3wvbcju/Mechaniza
 
 Installation: Put Mechanization_1.13_Snapshot.zip into to /datapacks folder for the world you want to install it for. Enter the world and run the commands /reload and /function mechanization:start
 
-Put the resourcepack into your resourcepacks folder and select it.
-
 # Energy API
 ***
 
