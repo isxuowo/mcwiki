@@ -2,7 +2,7 @@ Mechanization is modularized into a set of event calls and scoreboard informatio
 
 *Important notice: this page is being developed along side the 1.13 release of Mechanization, and therefor most of the information is not applicable as of right now. Once released this information will be up-to-date and valid.
 
-You can download the most recent 1.13 snapshot (Version 0.1.1) build [here](https://www.dropbox.com/s/wqppys8xhwe8zai/Mechanization_1.13_Snapshot.zip?dl=1).
+You can download the most recent 1.13 snapshot (Version 0.1.2) build [here](https://www.dropbox.com/s/y16ocq6njz5zszz/Mechanization_1.13_Snapshot.zip?dl=1).
 
 And the resource pack [here](https://www.dropbox.com/s/8y9jx23x3wvbcju/Mechanization_Snapshot_Resources.zip?dl=1).
 
