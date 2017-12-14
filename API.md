@@ -4,7 +4,7 @@ Mechanization is modularized into a set of event calls and scoreboard informatio
 
 You can download the most recent 1.13 snapshot (Version 0.2.1) build [here](https://www.dropbox.com/s/cw67jjhlp0p7ezg/MechanizationSnapshot.zip?dl=1).
 
-And the resource pack [here](https://www.dropbox.com/s/nfvl386qko6prtz/MechanizationResourcePack.zip?dl=1).
+And the resource pack [here](https://www.dropbox.com/s/nfvl386qko6prtz/MechanizationResourcePack.zip?dl=1), (last updated in Version 0.2.1).
 
 Installation: Put Mechanization_1.13_Snapshot.zip into to /datapacks folder for the world you want to install it for. Enter the world and run the commands /reload and /function mechanization:start
 
