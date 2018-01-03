@@ -49,8 +49,6 @@ These function files are in the API. Generally they require scoreboard inputs us
 * function mechanization:base/math/cosine - Calculates cosine given angle in degrees.
 * function mechanization:base/math/tangent- Calculates tangent given angle in degrees.
 * function mechanization:base/math/power- Raised number to specified power.
-* function mechanization:base/raytrace/start_ray- Spawns an instant raycast at entity.
-* function mechanization:base/raytrace/start_dynamic_ray- Spawns a dynamic raycast at entity.
 
 # Ore Dictonary
 ***
