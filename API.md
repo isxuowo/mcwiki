@@ -31,6 +31,7 @@ There are several event hooks built into mechanization. These are generally prov
 * mech_useflint: triggers when a player has used an unbreakable flint and steel. The players also has a scoreboard value for mech_usedid: which indicates the damage of the flint and steel.
 * mech_placehead: triggers when player places a player head, at the location of the head. Used internally to place custom machines/blocks based on type of head.
 * mech_placeobject: triggers when a player uses an unbreakable flint and steel, at the location they are looking. Used internally to place custom machines/blocks. Marker entity will have a mech_data value indicating flint and steel damage.
+* mech_upgraded: added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
 
 # Scoreboard Information
 ***
