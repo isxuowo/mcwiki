@@ -43,14 +43,6 @@ There are several event hooks built into mechanization. These are generally prov
 * mech_gridid: used internally to specify machines' grid ids. You probably shouldn't mess with this.
 * mech_usedid: used internally to indicate what damage a carrot on a stick or flint and steel had when used.
 
-# Helper Functions
-***
-These function files are in the API. Generally they require scoreboard inputs using fake players. These inputs are specified in the individual functions' file headers.
-* function mechanization:base/math/sine - Calculates sine given angle in degrees.
-* function mechanization:base/math/cosine - Calculates cosine given angle in degrees.
-* function mechanization:base/math/tangent- Calculates tangent given angle in degrees.
-* function mechanization:base/math/power- Raised number to specified power.
-
 # Ore Dictonary
 ***
 The purpose of the ore dictionary is essentially the same as in modded Minecraft- to improve compatibility by having an easy way of identifying certain items in a predictable manner. Generally, this isn't done by interfacing with the API, but rather is done on your own.
