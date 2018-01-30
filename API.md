@@ -27,8 +27,7 @@ There are several event hooks built into mechanization. These are generally prov
 * mech_meter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
 * mech_activegen: indicates a chunk is ready to custom generation.
 * mech_sneaking: indicates a player is currently sneaking
-* mech_useflint: triggers when a player has used an unbreakable flint and steel. The players also has a scoreboard value for mech_usedid: which indicates the damage of the flint and steel.
-* mech_placeobject: triggers when a player uses an unbreakable flint and steel or places a player head, at the location they are looking. Used internally to place custom machines/blocks. Marker entity will have a mech_data value indicating flint and steel damage.
+* mech_placeobject: triggers when a player places a player head, at the location they are looking. Used internally to place custom machines/blocks. Marker entity will have a mech_data value indicating flint and steel damage.
 * mech_right_click: give an item the nbt data tag.ClickDetect:1 to turn on right click detection while holding that item. This tag is then applied to anyone who right clicks (imperfect detection, may fail when players looks around very fast).
 * mech_upgraded: added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
 
