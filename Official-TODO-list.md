@@ -1,10 +1,11 @@
-This is the official todo page for Mechanization. Ideas denoted with a '?' are possible additions, usually because they may be too difficult or impractical to implement. Please check this list before posting suggestions.
+This is the official todo page for Mechanization. Ideas denoted with a '?' are possible additions, usually because they may be too difficult or impractical to implement. Ideas denoted with a '✓' are implemented but not yet released. Please check this list before posting suggestions.
 
 Base Module:
 * Switch to normal recipes when functionality is introduced
 * Custom Advancements
 * ?Some sort of cabled power vs. 'wireless'
 * Energy Item API hooks (like portable batteries, powered armor, etc.)
+* ✓ Upgrade system
 
 Age Of Machines
 * Disenchanter
@@ -28,7 +29,6 @@ Age Of Machines
 * ?Block Placer
 * ?Super Piston
 * ?Storage System
-* ?Upgrade system
 * ?Elevator
 
 Nuclear Ascention:
