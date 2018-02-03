@@ -20,7 +20,6 @@ Age Of Machines
 * Redstone generator
 * Biodesiel generator
 * Item Repairer
-* ?Blast Furnace
 * ?Block Placer
 * ?Super Piston
 * ?Storage System
