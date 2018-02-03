@@ -11,7 +11,7 @@ Age Of Machines
 * Disenchanter
 * Void Ore Miner
 * Mob Spawning Mechanics
-* Lava Production Mechanic
+* ✓ Lava Production Mechanic
 * Enhanced Beacon
 * Weather/time control
 * Fisher
