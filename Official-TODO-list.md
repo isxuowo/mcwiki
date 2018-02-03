@@ -9,7 +9,6 @@ Base Module:
 
 Age Of Machines
 * Disenchanter
-* Void Ore Miner
 * Mob Spawning Mechanics
 * ✓ Lava Production Mechanic
 * Enhanced Beacon
