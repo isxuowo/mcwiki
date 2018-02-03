@@ -14,7 +14,7 @@ Age Of Machines
 * ✓ Lava Production Mechanic
 * Enhanced Beacon
 * Weather/time control
-* Fisher
+* ✓ Fisher
 * Deep Storage Unit
 * ✓ Fertalizer
 * Ender Pearl Generator
