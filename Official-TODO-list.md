@@ -16,7 +16,7 @@ Age Of Machines
 * Weather/time control
 * Fisher
 * Deep Storage Unit
-* Fertalizer
+* ✓ Fertalizer
 * Ender Pearl Generator
 * Explosion generator
 * Redstone generator
