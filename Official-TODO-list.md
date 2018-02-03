@@ -20,7 +20,6 @@ Age Of Machines
 * Explosion generator
 * Redstone generator
 * Biodesiel generator
-* XP generator
 * Item Repairer
 * ?Blast Furnace
 * ?Block Placer
