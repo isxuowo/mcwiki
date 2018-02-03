@@ -17,7 +17,6 @@ Age Of Machines
 * Fisher
 * Deep Storage Unit
 * Fertalizer
-* Lightning Generator
 * Ender Pearl Generator
 * Explosion generator
 * Redstone generator
