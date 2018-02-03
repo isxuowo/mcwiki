@@ -17,7 +17,6 @@ Age Of Machines
 * Deep Storage Unit
 * ✓ Fertalizer
 * Ender Pearl Generator
-* Explosion generator
 * Redstone generator
 * Biodesiel generator
 * Item Repairer
