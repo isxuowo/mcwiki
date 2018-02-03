@@ -12,7 +12,6 @@ Age Of Machines
 * Void Ore Miner
 * Mob Spawning Mechanics
 * Lava Production Mechanic
-* Stone Farm
 * Enhanced Beacon
 * Weather/time control
 * Fisher
