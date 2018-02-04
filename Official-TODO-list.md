@@ -19,7 +19,7 @@ Age Of Machines
 * Biodesiel generator
 * Item Repairer
 * ?Block Placer
-* ?Super Piston (cane move entities/tile entities)
+* ?Super Piston (can move entities/tile entities)
 * ?Storage System
 * ?Elevator
 * ?Laser Drill
