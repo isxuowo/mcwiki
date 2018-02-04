@@ -22,24 +22,24 @@ Note: it is not currently possible to create custom batteries without extensive 
 # Events
 ***
 There are several event hooks built into mechanization. These are generally provided using an entity with a tag at the location of the event.
-* mech_wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break the machine.
+* mech_wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break machines.
 * mech_wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
 * mech_meter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
 * mech_activegen: indicates a chunk is ready to custom generation.
 * mech_sneaking: indicates a player is currently sneaking
-* mech_placeobject: triggers when a player places a player head, at the location they are looking. Used internally to place custom machines/blocks. Marker entity will have a mech_data value indicating flint and steel damage.
+* mech_placeobject: triggers when a player places a player head, at the location they are looking. Used internally to place custom machines/blocks.
 * mech_right_click: give an item the nbt data tag.ClickDetect:1 to turn on right click detection while holding that item. This tag is then applied to anyone who right clicks (imperfect detection, may fail when players looks around very fast).
 * mech_upgraded: added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
 
 # Scoreboard Information
 ***
 * mech_timer: used when anything requires time. Has 2 fake players "timer" and "timer100" timer is a 20 tick clock, timer250 is a 100 tick clock. You can use them to put machines on a delay.
-* mech_data: used for storing constants (see start function for pre-defined constants) and for math. Also used to store an extra bit of data on machines. Could be anything.
+* mech_data: For math, temp variables and other misc data storage. Also used to store an extra bit of data on machines. Could be anything.
 * mech_power: indicates power level on a machine/generator/battery.
 * mech_uuid: used whenever something needs a unique id. Uses the fake player incrID. You should always get a new id from this fake player, and increment it by 1 when you do.
 * mech_x, mech_y, mech_z: used when position or rotation cords need to be stored.
 * mech_gridid: used internally to specify machines' grid ids. You probably shouldn't mess with this.
-* mech_usedid: used internally to indicate what damage a carrot on a stick or flint and steel had when used.
+* mech_usedid: used internally to indicate what damage an item had when used. Paired with the 'mech_right_clicked' tag.
 
 # Ore Dictonary
 ***
