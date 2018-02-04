@@ -15,7 +15,7 @@ Mechanization's primary feature is the energy grid. To create a device that inte
 * mech_transmitter: Indicates that this device generates power, and should have power taken from it and put into batteries.
 * mech_reciever: Indicates that this device uses power, and should take power from batteries.
 
-Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value. Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption. While initializing the mech_power score for a device is not mandatory, it is recommended to help prevent issues with the Grid ID system.
+Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value (which should be initialized to 0, not done automatically). Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption.
 
 Note: it is not currently possible to create custom batteries without extensive scripting involved.
 
