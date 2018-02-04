@@ -33,7 +33,7 @@ There are several event hooks built into mechanization. These are generally prov
 
 # Scoreboard Information
 ***
-* mech_timer: used when anything requires time. Has 2 fake players "timer" and "timer250" timer is a 20 tick clock, timer250 is a 250 tick clock. You can use them to put machines on a delay.
+* mech_timer: used when anything requires time. Has 2 fake players "timer" and "timer100" timer is a 20 tick clock, timer250 is a 100 tick clock. You can use them to put machines on a delay.
 * mech_data: used for storing constants (see start function for pre-defined constants) and for math. Also used to store an extra bit of data on machines. Could be anything.
 * mech_power: indicates power level on a machine/generator/battery.
 * mech_uuid: used whenever something needs a unique id. Uses the fake player incrID. You should always get a new id from this fake player, and increment it by 1 when you do.
