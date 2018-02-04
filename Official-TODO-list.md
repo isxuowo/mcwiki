@@ -11,7 +11,6 @@ Age Of Machines
 * Disenchanter
 * ✓ Mob Spawning Mechanics
 * ✓ Lava Production Mechanic
-* Enhanced Beacon
 * Weather/time control
 * ✓ Fisher
 * Deep Storage Unit
