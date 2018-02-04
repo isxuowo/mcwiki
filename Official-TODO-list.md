@@ -22,6 +22,7 @@ Age Of Machines
 * ?Super Piston
 * ?Storage System
 * ?Elevator
+* ?Laser Drill
 
 Nuclear Ascention:
 * Fusion reactors
