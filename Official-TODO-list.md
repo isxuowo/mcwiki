@@ -9,20 +9,20 @@ Base Module:
 
 Age Of Machines
 * Disenchanter
-* ✓ Mob Spawning Mechanics
+* ✓ Enhanced Mob Spawner
 * ✓ Lava Production Mechanic
 * ✓ Fisher
 * Deep Storage Unit
-* ✓ Fertalizer
+* ✓ Crop Growth Accelerator
 * Ender Pearl Generator
 * Redstone generator
 * Biodesiel generator
 * Item Repairer
-* ?Block Placer
-* ?Super Piston (can move entities/tile entities)
-* ?Storage System
-* ?Elevator
-* ?Laser Drill
+* ? Block Placer
+* ? Super Piston (can move entities/tile entities)
+* ? Storage System
+* ? Elevator
+* ? Laser Drill
 
 Nuclear Ascention:
 * Fusion reactors
