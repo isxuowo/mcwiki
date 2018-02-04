@@ -1,4 +1,4 @@
-This is the official todo page for Mechanization. Ideas denoted with a '?' are possible additions, usually because they may be too difficult or impractical to implement. Ideas denoted with a '✓' are implemented but not yet released. Please check this list before posting suggestions.
+This is the official todo page for Mechanization. Ideas denoted with a '?' are possible additions, usually because they may be too difficult or impractical to implement. Ideas denoted with a '✓' are implemented but not yet officially released. May be available in snapshot/beta builds. Please check this list before posting suggestions.
 
 Base Module:
 * Switch to normal recipes when functionality is introduced
