@@ -9,7 +9,7 @@ Base Module:
 
 Age Of Machines
 * Disenchanter
-* Mob Spawning Mechanics
+* ✓ Mob Spawning Mechanics
 * ✓ Lava Production Mechanic
 * Enhanced Beacon
 * Weather/time control
