@@ -18,8 +18,8 @@ Age Of Machines
 * Redstone generator
 * Biodesiel generator
 * Item Repairer
+* ✓ Super Piston (can move entities/tile entities)
 * ? Block Placer
-* ? Super Piston (can move entities/tile entities)
 * ? Storage System
 * ? Elevator
 * ? Laser Drill
