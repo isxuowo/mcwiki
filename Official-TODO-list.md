@@ -22,7 +22,7 @@ Age Of Machines
 * ? Block Placer
 * ? Storage System
 * ? Elevator
-* ? Laser Drill
+* ? Void Miner
 
 Nuclear Ascention:
 * Fusion reactors
