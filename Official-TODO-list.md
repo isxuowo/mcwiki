@@ -15,7 +15,6 @@ Age Of Machines
 * Deep Storage Unit
 * ✓ Crop Growth Accelerator
 * Ender Pearl Generator
-* Redstone generator
 * Biodesiel generator
 * Item Repairer
 * ✓ Super Piston (can move entities/tile entities)
