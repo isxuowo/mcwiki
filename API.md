@@ -6,7 +6,7 @@ You can download the most recent 1.13 snapshot (Version 0.3.0) build [here](http
 
 And the resource pack [here](https://www.dropbox.com/s/030kabg3pylzk29/MechanizationResourcePack.zip?dl=1), (last updated in Version 0.3.0).
 
-Installation: Put Mechanization_1.13_Snapshot.zip into to /datapacks folder for the world you want to install it for. Enter the world and run the commands /reload and /function mechanization:start
+Installation: Put Mechanization_1.13_Snapshot.zip into to /datapacks folder for the world you want to install it for. Enter the world and run the command /reload.
 
 # Energy API
 ***
