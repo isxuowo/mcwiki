@@ -1,0 +1,1 @@
+This page holds information for the 1.12 version of Mechanization. Please note that besides serious bugs, I do not support older versions of Mechanization.
