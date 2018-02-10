@@ -12,16 +12,16 @@ Age Of Machines
 * ✓ Enhanced Mob Spawner
 * ✓ Lava Production Mechanic
 * ✓ Fisher
-* Deep Storage Unit
 * ✓ Crop Growth Accelerator
 * Ender Pearl Generator
-* Biodesiel generator
-* Item Repairer
+* ✓ Biodesiel generator
+* ✓ Item Repairer
 * ✓ Super Piston (can move entities/tile entities)
 * ? Block Placer
 * ? Storage System
 * ? Elevator
 * ? Void Miner
+* ? Deep Storage Unit
 
 Nuclear Ascention:
 * Fusion reactors
