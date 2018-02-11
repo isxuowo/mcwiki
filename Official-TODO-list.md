@@ -8,7 +8,7 @@ Base Module:
 * ✓ Upgrade system
 
 Age Of Machines
-* Disenchanter
+* ✓ Disenchanter
 * ✓ Enhanced Mob Spawner
 * ✓ Lava Production Mechanic
 * ✓ Fisher
