@@ -2,11 +2,7 @@ Mechanization is modularized into a set of event calls and scoreboard informatio
 
 *Important notice: this page is being developed along side the 1.13 release of Mechanization, and therefor most of the information is not applicable as of right now. Once released this information will be up-to-date and valid.
 
-You can download the most recent 1.13 snapshot (Version 0.3.0) build [here](https://www.dropbox.com/s/kppubwx3bnxnarc/MechanizationSnapshot.zip?dl=1).
-
-And the resource pack [here](https://www.dropbox.com/s/030kabg3pylzk29/MechanizationResourcePack.zip?dl=1), (last updated in Version 0.3.0).
-
-Installation: Put Mechanization_1.13_Snapshot.zip into to /datapacks folder for the world you want to install it for. Enter the world and run the command /reload.
+Mechanization is now in prerelease, downloads moved to main page.
 
 # Energy API
 ***
