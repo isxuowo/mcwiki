@@ -13,7 +13,7 @@ Age Of Machines
 * ✓ Lava Production Mechanic
 * ✓ Fisher
 * ✓ Crop Growth Accelerator
-* Ender Pearl Generator
+* ✓ Ender Generator
 * ✓ Biodesiel generator
 * ✓ Item Repairer
 * ✓ Super Piston (can move entities/tile entities)
