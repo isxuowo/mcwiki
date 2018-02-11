@@ -20,5 +20,5 @@
 3. Drop the downloaded resource pack here and enable it.
 4. Go up one folder from the resource pack folder to your main Minecraft directory.\
 5. Go to save, then the world you want to install Mechanization into (recommended to create a new world).
-6. Drop the downloaded Mechanization Datapack here.
+6. Drop the downloaded Mechanization Datapack in the datapacks folder.
 7. Enter the world and type /reload. You're good to go :)
