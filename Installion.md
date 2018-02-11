@@ -15,7 +15,7 @@
 
 # For MC 1.13
 ***
-1. Download the latest version of Mechanization from the main page, along with the resource pack.
+1. Download the latest version of Mechanization from the [main page](https://github.com/ImCoolYeah105/Mechanization), along with the resource pack.
 2. Launch Minecraft, then go to options -> resourcepacks -> open resource pack folder.
 3. Drop the downloaded resource pack here and enable it.
 4. Go up one folder from the resource pack folder to your main Minecraft directory.\
