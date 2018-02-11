@@ -1,6 +1,6 @@
 # For MC 1.12
 ***
-1. Download Mechanization from the link provided on the main page
+1. Download Mechanization from the link provided on the [main page](https://github.com/ImCoolYeah105/Mechanization)
 2. Unzip the downloaded file
 3. In the Minecraft launcher, go to 'Launch Options,' click on the profile you are using, and then click on the green arrow found on the right hand side. This will bring up the main Minecraft directory.
 4. Launch Minecraft and create a new world (it's recommended to use a new world, but you can install this in an already existing world).
