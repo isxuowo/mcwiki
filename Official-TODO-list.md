@@ -26,10 +26,8 @@ Age Of Machines
 Nuclear Ascention:
 * Fusion reactors
 * Particle Accelerators
-* Advanced Item Dupe Method
-* Nuclear Bombs
-* Advanced Uranium Refining
-* Nuclear fuel reprocessing
+* ✓ Advanced Uranium Refining
+* ✓ Nuclear fuel reprocessing
 
 Gadgets:
 * Batteries instead of arbitrary "internal buffer"
