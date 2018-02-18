@@ -18,18 +18,15 @@
 ### Age of Machines
 ***
 * [Resources](https://github.com/ImCoolYeah105/Mechanization/wiki/Resources)
+* [Energy Generators](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Generators)
 * [Alloy Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Alloy-Furnace)
-* [Furnace Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Furnace-Generator)
-* [Solar Panel](https://github.com/ImCoolYeah105/Mechanization/wiki/Solar-Panel)
 * [Electric Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Electric-Furnace)
-* [Industrial Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Industrial-Furnace)
-* [Ore Grinder](https://github.com/ImCoolYeah105/Mechanization/wiki/Ore-Grinder)
+* [Grinder](https://github.com/ImCoolYeah105/Mechanization/wiki/Grinder)
 * [Tree Feller](https://github.com/ImCoolYeah105/Mechanization/wiki/Tree-Feller)
 * [Auto Farm](https://github.com/ImCoolYeah105/Mechanization/wiki/Automatic-Farm)
 * [Mob Grinder](https://github.com/ImCoolYeah105/Mechanization/wiki/Mob-Grinder)
 * [Quarry](https://github.com/ImCoolYeah105/Mechanization/wiki/Quarry)
 * [Block Breaker](https://github.com/ImCoolYeah105/Mechanization/wiki/Block-Breaker)
-* [Gravity Manipulator](https://github.com/ImCoolYeah105/Mechanization/wiki/Gravity-Manipulator)
 * [Chunk Loader](https://github.com/ImCoolYeah105/Mechanization/wiki/Chunk-Loader)
 * [Teleporter](https://github.com/ImCoolYeah105/Mechanization/wiki/Teleporter)
 
