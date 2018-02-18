@@ -9,7 +9,7 @@
 
 ### Base Module
 ***
-* [Tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Wrench)
+* [Tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Tools)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
 * [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
 * [Machine Upgrade](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Upgrade)
