@@ -10,7 +10,7 @@
 ### Base Module
 ***
 * [Tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Tools)
-* [Machine Crafter](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Crafter)
+* [Machine Crafting Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Crafting-Table)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
 * [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
 * [Machine Upgrade](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Upgrade)
