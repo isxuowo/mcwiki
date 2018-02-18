@@ -1,35 +1,12 @@
-![Alloy Furnace](http://i.imgur.com/qLgOPwO.png?1)
+![Alloy Furnace](https://i.imgur.com/uFrJM3J.png?1)
 
-The Alloy Furnace is one of the most important machines available, as it allows for the creation of higher tier materials by combine various resources into stronger alloys.
+The alloy furnace is an important machine for anyone who wants to progress in Mechanization. It combines various resources into alloys and other materials that can be used to create higher- tier machines. Uses 32 kW.
 
-Note: The alloy furnace can only handle 1 job at a time. Attempting to stack ingredients will not work. Also, the machine will jam if the output slot has an item in it.
+When Upgraded: Halves processing time.
 
-Uses 20 kJ/s
+Recipe:
 
-**Recipe:**
+![Alloy Furnace Recipe](https://i.imgur.com/akRGa7y.png?1)
 
-![Alloy Furnace Recipe](http://i.imgur.com/pRpLcIz.png?1)
+### Alloys
 
-## Recipes
-***
-* Conductive Alloy:
-
-![Conductive Alloy](http://i.imgur.com/uraHTR1.png?1)
-* Bronze:
-
-![Bronze](http://i.imgur.com/aRfWoVX.png?1)
-* Steel:
-
-![Steel](http://i.imgur.com/77JQSUT.png?1)
-* Structural Alloy:
-
-![Structural Alloy](http://i.imgur.com/BsGStmV.png?1)
-* Crystal Composite:
-
-![Crystal Composite](http://i.imgur.com/W9IpmED.png?1)
-* Ender Alloy:
-
-![Ender Alloy](http://i.imgur.com/fQirSCZ.png?1)
-* Nether Alloy:
-
-![Nether Alloy](http://i.imgur.com/EqAIzIs.png?1)
