@@ -1,6 +1,8 @@
 ![Logo](http://i.imgur.com/kNajiaw.png)
 Welcome to the Mechanization wiki!
 
+* Notice: the wiki is currently being updated to 1.13. Things may be mismatched or incomplete. For 1.12 information, see the [1.12 archive page](https://github.com/ImCoolYeah105/Mechanization/wiki/1.12-Archive).
+
 Mechanization is a large scale Minecraft function script that emulates popular technology mods like Thermal Expansion and Industrial Craft 2.
 
 Current Features:
