@@ -26,7 +26,7 @@ Recipe:
 
 ![Bio Generator](https://i.imgur.com/jKNlKFA.png?1)
 
-The Bio Generator produces between 1-27 kW based on the variety of plant matter provided. Each type of plant matter has a different power output, and each unique type of plant matter adds its output to the overall output (see bellow table).
+The Bio Generator produces between 1-27 kW based on the variety of plant matter provided. Each type of plant matter has a different power output, and each unique type of plant matter adds its output to the overall output (see below table).
 
 When Upgraded: Increases power output by 50%.
 
@@ -41,3 +41,15 @@ When Upgraded: Increases power output by 50%.
 Recipe:
 
 ![Bio Generator Recipe](https://i.imgur.com/Y2CT9Xk.png?1)
+
+## Ender Generator
+
+![Ender Generator](https://i.imgur.com/vrobVdK.png?1)
+
+Appears to be able to convert items from The End into raw energy at 32 kW, with rarer items producing power for longer. Hopefully the strange sounds coming from the generator isn't a fracture in space time or anything...
+
+When Upgraded: Increases fuel efficiency by 50%.
+
+Recipe:
+
+![Ender Generator Recipe](https://i.imgur.com/k6A4qKf.png?1)
