@@ -1,9 +1,9 @@
-![Electric Furnace](http://i.imgur.com/1fhsbIX.png?1)
+![Electric Furnace](https://i.imgur.com/R1cHh3m.png?1)
 
-The Electric Furnace is a simply machine that acts exactly like a vanilla furnace, except that it uses power to smelt items instead of normal fuel.
+The Electric Furnace is very similar to a normal furnace, accept that it runs on power and smelts 25% faster.
 
-Uses 20 kJ/s
+When Upgraded: Increases speed to 1 second per item.
 
-**Recipe:**
+Recipe:
 
-![Electric Furnace Recipe](http://i.imgur.com/hpLfJQK.png?1)
+![Electric Furnace Recipe](https://i.imgur.com/U1zAVpH.png?1)
