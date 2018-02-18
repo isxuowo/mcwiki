@@ -21,4 +21,16 @@ Machine frames are a crafting ingredient used to make most machines.
 
 ## Alloys
 
-More advanced machines will require alloys made in the alloy furnace.
+More advanced machines will require alloys made in the [Alloy Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Alloy-Furnace).
+
+| Alloy | Recipe |
+|-------|--------|
+| Steel Ingot | ![steel ingot](https://i.imgur.com/kMoqH7I.png?1) |
+| Structural Ingot | ![structural ingot](https://i.imgur.com/3VbY6IN.png?1) |
+| Conductive Ingot | ![conductive ingot](https://i.imgur.com/Wkppqn1.png?1) |
+| Titanium Steel Ingot | ![titanium steel ingot](https://i.imgur.com/mTCH9zD.png?1) |
+| Reinforced Structural Ingot | ![reinforced structural ingot](https://i.imgur.com/uY5iKav.png?1) |
+| Super Conductive Ingot | ![super conductive ingot](https://i.imgur.com/msvB7t0.png?1) |
+| Crystal Composite | ![crystal composite](https://i.imgur.com/HyGrgeo.png?1) |
+| Nether Ingot | ![nether ingot](https://i.imgur.com/Ht4uaYD.png?1) |
+| Ender Ingot | ![ender ingot](https://i.imgur.com/np1FAgR.png?1) |
