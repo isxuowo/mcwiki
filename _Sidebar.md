@@ -9,10 +9,10 @@
 
 ### Base Module
 ***
-* [Ore Generation](https://github.com/ImCoolYeah105/Mechanization/wiki/Ore-Generation)
-* [Machine Wrench](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Wrench)
+* [Tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Wrench)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
-* [Quantum Battery](https://github.com/ImCoolYeah105/Mechanization/wiki/Quantum-Battery)
+* [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
+* [Machine Upgrade](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Upgrade)
 
 ### Age of Machines
 ***
