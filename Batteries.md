@@ -9,4 +9,4 @@ Batteries are the core of the energy grid system, serving not only as a way to s
 | Tier 3 Battery | 1,000,000_kJ | 1000 kW | 24 Blocks | ![T3 Battery Recipe](https://i.imgur.com/8I7kpqo.png?1) |
 | Quantum Battery | 500,000 kJ | 1000 kW | 16 Blocks* | ![Q Battery Recipe](https://i.imgur.com/Xn5VtfU.png?1) |
 
-*The Quantum Battery is special in that, like an Ender Chest, it shares its contents across all other Quantum Batteries set to the same grid id. This works over any distance and across dimensions, meaning a Quantum Battery can be used to transfer power over any range.
+*The Quantum Battery is special in that, like an Ender Chest, it shares its power across all other Quantum Batteries set to the same grid id. This works over any distance and across dimensions, meaning a Quantum Battery can be used to transfer power over any range.
