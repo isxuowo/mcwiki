@@ -4,7 +4,7 @@
 
 The Furnace Generator is the first generator obtainable in Mechanization. It produces 16 kW using basic furnace fuels.
 
-When Upgraded: Produces 24 kW.
+When Upgraded:Increases power output by 50%.
 
 Recipe: 
 
