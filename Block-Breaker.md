@@ -1,9 +1,9 @@
-![Block Breaker](http://i.imgur.com/Quob7Rq.png?1)
+![Block Breaker](https://i.imgur.com/PL8gmto.png?1)
 
-The block breaker is a unique machine, in that it is not technically a block. Instead, is serves as a "null chamber," where any block pushed in will break, dropping itself as an item.
+The block breaker is a unique machine, in that it is not technically a block. Instead, is serves as a "null chamber," where any block pushed in will break, dropping itself as an item. Uses 24 kW.
 
-Uses 40 kJ/block
+When Upgraded: This machine cannot be ungraded.
 
-**Recipe:**
+Recipe:
 
-![Block Breaker Recipe](http://i.imgur.com/2WMGXAd.png?1)
+![Block Breaker Recipe](https://i.imgur.com/yYccgoi.png?1)
