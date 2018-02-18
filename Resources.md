@@ -15,6 +15,7 @@
 Machine frames are a crafting ingredient used to make most machines.
 
 |   | Recipe |
+|---|--------|
 | Tier 1 | ![T1 Machine Frame](https://i.imgur.com/CYil1rd.png?1) |
 | Tier 2 | ![T2 Machine Frame](https://i.imgur.com/IKAiwRo.png?1) |
 | Tier 3 | ![T3 Machine Frame](https://i.imgur.com/rugWDwg.png?1) |
