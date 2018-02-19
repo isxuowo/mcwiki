@@ -1,10 +1,10 @@
-#### Ores
+## Ores
 
 ![Uranium Ore](https://i.imgur.com/HlIFYGX.png?1)
 
 Uranium Ore: Rare Ore that spawns between Y-1 and Y-24. Can be refined in a Grinder from Age of Machines.
 
-#### Fuel Cells
+## Fuel Cells
 
 ![Fuel Cells](https://i.imgur.com/tFvFKva.png?1)
 
