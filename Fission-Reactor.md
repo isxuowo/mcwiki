@@ -23,25 +23,25 @@ The next part of the reactor, the cooling unit, is also the most complicated. Ea
 
 | Block | Max Heat Exchanged (per neighbor) | Max Heat Converted to Steam |
 |-------|-----------------------------------|-----------------------------|
-| Iron | 75 | 25 |
-| Gold | 50 | 50 |
-| Emerald | 25 | 75 |
-| Diamond | 10 | 100 |
+| Iron | 75 °C | 25 °C |
+| Gold | 50 °C | 50 °C |
+| Emerald | 25 °C | 75 °C |
+| Diamond | 10 °C | 100 °C |
 
 **Exchangers:** High exchange rate with neighbors and some cooling, but no steam conversion.
 
 | Block | Max Heat Exchanged (per neighbor) | Max Amount Cooled |
 |-------|-----------------------------------|-------------------|
-| Obsidian | 60 | 40 |
-| Coal | 70 | 30 |
-| Redstone | 80 | 20 |
-| Quartz | 90 | 10 |
+| Obsidian | 60 °C | 40 °C |
+| Coal | 70 °C | 30 °C |
+| Redstone | 80 °C | 20 °C |
+| Quartz | 90 °C | 10 °C |
 
 **Coolers:** Medium Cooling and Steam conversion, but does not exchange heat with neighbors.
 
 | Block | Max Heat Converted to Steam | Max Amount Cooled |
 |-------|-----------------------------------|-------------------|
-| Snow | 10 | 10 |
-| Lapis | 20 | 20 |
-| Ice | 30 | 30 |
-| Packed Ice | 40 | 40 |
+| Snow | 10 °C | 10 °C |
+| Lapis | 20 °C | 20 °C |
+| Ice | 30 °C | 30 °C |
+| Packed Ice | 40 °C | 40 °C |
