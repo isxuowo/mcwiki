@@ -6,4 +6,4 @@ When Upgraded: Currently does not have any upgrade effects (ideas?).
 
 Recipe:
 
-![Centrifuge Recipe](https://i.imgur.com/eiQrqAE.png?1)
+![Centrifuge Recipe](https://i.imgur.com/URdaTi0.png?1)
