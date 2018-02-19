@@ -1,9 +1,9 @@
-![Steam Turbine](http://i.imgur.com/H00Fi7e.png?1)
+![Steam Turbine](https://i.imgur.com/v1P8Hu0.png?1)
 
-The Steam Turbine will collect steam output from reactors and convert it into power.
+A required part of the Fission Reactor multiblock. Process steam produced by the reactor into power, up to 50 kW.
 
-Generates 24 kJ/steam
+When Upgraded: Currently does not have any upgrades (ideas?).
 
-**Recipe:**
+Recipe:
 
-![Steam Turbine Recipe](http://i.imgur.com/AdBUKgc.png?1)
+![Steam Turbine Recuipe](https://i.imgur.com/Qwdh6PM.png?1)
