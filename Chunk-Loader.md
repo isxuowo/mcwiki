@@ -1,11 +1,9 @@
-![Chunk Loader](http://i.imgur.com/WmGSOQw.png?1)
+![Chunk Loader](https://i.imgur.com/8lvCfIy.png?1)
 
-The Chunk Loader with keep a 3x3 chunk area loaded. This is persistent, meaning it will work even after reloading the world/server. However, it will only work properly in the Overworld.
+The Chunk Loader is a powerful device that will keep a 3x3 area in the Overworld loaded at all times. Uses 256 kW.
 
-Note: do to the way Minecraft unloads chunks, the area covered by the loader may become temporarily unloaded for a few seconds at a time.
+When Upgraded: Allows the Chunk Loader to load chunks in the Nether and the End. Note: This will only load 1 chunk in other dimensions, and costs double the power. This is due to chunk loading other dims being very laggy.
 
-Uses 300 kJ/s
+Recipe:
 
-**Recipe:**
-
-![Chunk Loader Recipe](http://i.imgur.com/dxlPqPo.png?1)
+![Chunk Loader Recipe](https://i.imgur.com/dNEVz9y.png?1)
