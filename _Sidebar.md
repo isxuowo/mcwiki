@@ -40,7 +40,7 @@
 
 ### Nuclear Ascension
 ***
-* [Resources](https://github.com/ImCoolYeah105/Mechanization/wiki/Nuclear-Ascension-Resources)
+* [Nuclear Resources](https://github.com/ImCoolYeah105/Mechanization/wiki/Nuclear-Ascension-Resources)
 * [Centrifuge](https://github.com/ImCoolYeah105/Mechanization/wiki/Centrifuge)
 * [Fission Reactor](https://github.com/ImCoolYeah105/Mechanization/wiki/Fission-Reactor)
 * [Control Rod](https://github.com/ImCoolYeah105/Mechanization/wiki/Control-Rod)
