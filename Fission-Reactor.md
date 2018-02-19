@@ -6,7 +6,7 @@ Recipe:
 
 ![Fission Reactor Recipe](https://i.imgur.com/WLlB6sm.png?1)
 
-## Introduction to Mechanization Nuclear Physics
+## An Introduction to Mechanization Nuclear Physics
 
 ![Fission Reactor Multiblock](https://i.imgur.com/Gmf4LQF.png)
 
