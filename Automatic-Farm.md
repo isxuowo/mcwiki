@@ -1,9 +1,7 @@
-![Auto Farm](http://i.imgur.com/ha2RObZ.png?1)
+![Auto Farm](https://i.imgur.com/0GLseOH.png?1)
 
-The Automatic Farm is one of the pinnacles of engineering. It will automatically harvest and replant all crops in a 7x7 area around the machine.
+The Auto Farm will automatically harvest and replant all crops in a 7x7 area around it, dropping the harvested items on top of itself. Uses 48 kW.
 
-Uses 80 kJ/s
+When Upgraded: Expands area to 9x9.
 
-**Recipe:**
-
-![Auto Farm Recipe](http://i.imgur.com/ZHxSvzU.png?1)
+![Auto Farm Recipe](https://i.imgur.com/XRYqQ5Y.png?1)
