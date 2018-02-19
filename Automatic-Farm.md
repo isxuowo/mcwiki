@@ -4,4 +4,6 @@ The Auto Farm will automatically harvest and replant all crops in a 7x7 area aro
 
 When Upgraded: Expands area to 9x9.
 
+Recipe:
+
 ![Auto Farm Recipe](https://i.imgur.com/XRYqQ5Y.png?1)
