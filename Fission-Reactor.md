@@ -39,7 +39,7 @@ The next part of the reactor, the cooling unit, is also the most complicated. Ea
 
 **Coolers:** Medium Cooling and Steam conversion, but does not exchange heat with neighbors.
 
-| Block | Max Heat Exchanged (per neighbor) | Max Amount Cooled |
+| Block | Max Heat Converted to Steam | Max Amount Cooled |
 |-------|-----------------------------------|-------------------|
 | Snow | 10 | 10 |
 | Lapis | 20 | 20 |
