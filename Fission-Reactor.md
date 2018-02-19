@@ -19,7 +19,7 @@ The reaction starts in the Fission Reactor block using Nuclear Fuels. Once start
 
 The next part of the reactor, the cooling unit, is also the most complicated. Each reactor cycle, the reactor will push its heat (equivalent to its temperature) into the 4 block placed around the reactor core. The block then creates some steam depending on how much heat there is, then divides its heat among its neighbors. The block will then cool some of the remaining heat. Every block has a different amount of heat it can transfer into power, divide among its neighbors, and cool off (See table). You will have to play around with them to find the optimal cooling unit.
 
-Boilers: High heat -> steam conversion rate, but low exchange rate with neighbors and no cooling.
+**Boilers:** High heat -> steam conversion rate, but low exchange rate with neighbors and no cooling.
 
 | Block | Max Heat Exchanged (per neighbor) | Max Heat Converted to Steam |
 |-------|-----------------------------------|-----------------------------|
@@ -28,7 +28,7 @@ Boilers: High heat -> steam conversion rate, but low exchange rate with neighbor
 | Emerald | 25 | 75 |
 | Diamond | 10 | 100 |
 
-Exchangers: High exchange rate with neighbors and some cooling, but no steam conversion.
+**Exchangers:** High exchange rate with neighbors and some cooling, but no steam conversion.
 
 | Block | Max Heat Exchanged (per neighbor) | Max Amount Cooled |
 |-------|-----------------------------------|-------------------|
@@ -37,7 +37,7 @@ Exchangers: High exchange rate with neighbors and some cooling, but no steam con
 | Redstone | 80 | 20 |
 | Quartz | 90 | 10 |
 
-Coolers: Medium Cooling and Steam conversion, but does not exchange heat with neighbors.
+**Coolers:** Medium Cooling and Steam conversion, but does not exchange heat with neighbors.
 
 | Block | Max Heat Exchanged (per neighbor) | Max Amount Cooled |
 |-------|-----------------------------------|-------------------|
