@@ -6,4 +6,4 @@ When Upgraded: Fishes twice as fast.
 
 Recipe:
 
-![Auto Fisher Recipe](https://i.imgur.com/t0JJh1K.png)
+![Auto Fisher Recipe](https://i.imgur.com/t0JJh1K.png?1)
