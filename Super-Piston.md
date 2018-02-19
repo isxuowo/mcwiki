@@ -5,9 +5,9 @@ Super pistons are a special version of the normal piston that can move around ti
 These devices do not use power and cannot be upgraded.
 
 Recipes:
-| Item | Recipe |
-|:----:|--------|
-| Test | Test2 |
+| Item| Recipe |
+|-----|--------|
+| Item 1 | Recipe 1 |
 
 Super Piston  ![Super Piston Recipe](https://i.imgur.com/dqzUXkX.png?1)
 Super Sticky Piston  ![Super Sticky Piston Recipe](https://i.imgur.com/kDrtryp.png?1) 
