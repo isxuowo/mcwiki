@@ -1,11 +1,9 @@
-![Teleporter](http://i.imgur.com/gIadcbn.png?1)
+![Teleporter](https://i.imgur.com/DOMH72D.png?1)
 
-The Teleporter is a powerful device, capable and transporting a player over any distance (but not across dimensions) to another Teleporter set to the same frequency. The item frames on the sides act as a dialing mechanism. Rotate the items to set the frequency of the Teleporter, and then rotate the item frames on the destination Teleporter to link them. If more than 2 teleporters have the same frequency, than a random one is chosen.
+The Teleporter will teleport you to another random Teleporter in the same dimension set to the same grid id. Note that the target Teleporter must be chunk loaded. Uses 1024 kJ/teleport.
 
-Note: the destination Teleporter must be chunk loaded to work. Consider using the chunk loader where needed.
+When Upgraded: Allows teleporting across dimensions.
 
-Uses 1000 kJ/teleport
+Recipe:
 
-**Recipe:**
-
-![Teleporter Recipe](http://i.imgur.com/443toYl.png?1)
+![Teleporter Recipe](https://i.imgur.com/z3rtn2u.png?1)
