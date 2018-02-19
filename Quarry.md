@@ -1,9 +1,7 @@
-![Quarry Recipe](http://i.imgur.com/Q3nijYe.png?1)
+![Quarry](https://i.imgur.com/UHQ6R2Z.png?1)
 
-The Quarry digs an 11x11 hole down to bedrock. The Quarry also features a built-in hopper, in which all items will be teleported to when mined. This single hopper cannot keep up with the number of items on its own, but the system could be expanded to include more hoppers and chests using a water stream.
+The Quarry will dig an 11x11 hole down to bedrock, breaking any 'useless' blocks and leaving behind ores and other valuables. Does not drop the mined blocks. Uses 64 kW.
 
-Uses 120 kJ/s
+When Upgraded: Increases area to 15x15.
 
-**Recipe:**
-
-![Quarry Recipe](http://i.imgur.com/5YaFN4u.png?1)
+![Quarry Recipe](https://i.imgur.com/uGVV7OR.png?1)
