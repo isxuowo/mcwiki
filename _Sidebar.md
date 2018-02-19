@@ -40,13 +40,12 @@
 
 ### Nuclear Ascension
 ***
-* [Hazmat Suit](https://github.com/ImCoolYeah105/Mechanization/wiki/Hazmat-Suit)
+* [Resources](https://github.com/ImCoolYeah105/Mechanization/wiki/Nuclear-Ascension-Resources)
+* [Centrifuge](https://github.com/ImCoolYeah105/Mechanization/wiki/Centrifuge)
 * [Fission Reactor](https://github.com/ImCoolYeah105/Mechanization/wiki/Fission-Reactor)
+* [Control Rod](https://github.com/ImCoolYeah105/Mechanization/wiki/Control-Rod)
 * [Steam Turbine](https://github.com/ImCoolYeah105/Mechanization/wiki/Steam-Turbine)
+* [Reactor Observers](https://github.com/ImCoolYeah105/Mechanization/wiki/Reactor-Observers)
 
 ### Gadgets (1.13 WIP)
 ***
-* [Tinker Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Tinker-Table)
-* [Player Charging Pad](https://github.com/ImCoolYeah105/Mechanization/wiki/Player-Charging-Pad)
-* [Guns](https://github.com/ImCoolYeah105/Mechanization/wiki/Guns)
-* [Other Gadgets](https://github.com/ImCoolYeah105/Mechanization/wiki/Other-Gadgets)
