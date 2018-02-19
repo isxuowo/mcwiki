@@ -6,7 +6,7 @@ These devices do not use power and cannot be upgraded.
 
 Recipes:
 | Item | Recipe |
-|------|--------|
+|:----:|--------|
 | Super Piston | ![Super Piston Recipe](https://i.imgur.com/dqzUXkX.png?1) |
 | Super Sticky Piston | ![Super Sticky Piston Recipe](https://i.imgur.com/kDrtryp.png?1) |
 | Turn Table | ![Turn Table](https://i.imgur.com/1QsbLes.png?1) |
