@@ -4,4 +4,6 @@ The tree feller will cut down any 1x1 tree in front of it and drop any wood on t
 
 When Upgraded: Can cut down 2x2 trees.
 
+Recipe:
+
 ![Tree Feller Recipe](https://i.imgur.com/HF5I3BC.png?1)
