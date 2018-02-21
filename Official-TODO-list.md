@@ -24,10 +24,10 @@ Age Of Machines
 * ? Deep Storage Unit
 
 Nuclear Ascention:
-* Fusion reactors
-* Particle Accelerators
 * ✓ Advanced Uranium Refining
 * ✓ Nuclear fuel reprocessing
+* Fusion reactors
+* Particle Accelerators
 
 Gadgets:
 * Batteries instead of arbitrary "internal buffer"
@@ -40,6 +40,8 @@ Gadgets:
 * New tinker table system
 * New armor and weapon modifier system
 * Item Magnet
+* Portal Gun
+* Gravity Gun
 
 New Module: Assembly Line
 * Autocrafting
