@@ -35,6 +35,7 @@ Gadgets:
 * XP Storage Mechanic
 * Muiltitool (powerfist)
 * Gun Improvements (ADS, attachments, magazines)
+* Grenades
 * Flight
 * Particle Gene
 * New tinker table system
