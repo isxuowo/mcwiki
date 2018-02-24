@@ -3,8 +3,6 @@ This is the official todo page for Mechanization. Ideas denoted with a '?' are p
 Base Module:
 * Switch to normal recipes when functionality is introduced
 * Custom Advancements
-* ?Some sort of cabled power vs. 'wireless'
-* Energy Item API hooks (like portable batteries, powered armor, etc.)
 * ✓ Upgrade system
 
 Age Of Machines
@@ -30,19 +28,18 @@ Nuclear Ascention:
 * Particle Accelerators
 
 Gadgets:
-* Batteries instead of arbitrary "internal buffer"
-* Transportation Tubes (TE viaduct)
+* ✓ Batteries instead of arbitrary "internal buffer"
+* New tinker table system
+* New armor and weapon modifier system
 * XP Storage Mechanic
-* Muiltitool (powerfist)
 * Gun Improvements (ADS, attachments, magazines)
 * Grenades
 * Flight
 * Particle Gene
-* New tinker table system
-* New armor and weapon modifier system
 * Item Magnet
 * Portal Gun
 * Gravity Gun
+* Transportation Tubes (TE viaduct)
 
 New Module: Assembly Line
 * Autocrafting
