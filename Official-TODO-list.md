@@ -44,8 +44,8 @@ Gadgets:
 
 New Module: Assembly Line
 * Autocrafting
-* Conveyor belts
 * Routers
+* Hopper Upgrades
 * Item processing
 * ?Infinite Range Item Transport
 
