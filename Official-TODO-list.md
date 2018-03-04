@@ -30,12 +30,12 @@ Nuclear Ascention:
 
 Gadgets:
 * ✓ Batteries instead of arbitrary "internal buffer"
-* New tinker table system
-* New armor and weapon modifier system
+* ✓ New tinker table system
+* ✓ New armor and weapon modifier system
 * XP Storage Mechanic
 * Gun Improvements (ADS, attachments, magazines)
 * Grenades
-* Flight
+* ✓ Flight
 * Particle Gene
 * Item Magnet
 * Portal Gun
