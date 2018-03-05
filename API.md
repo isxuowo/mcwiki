@@ -25,6 +25,7 @@ There are several event hooks built into mechanization. These are generally prov
 * mech_sneaking: indicates a player is currently sneaking
 * mech_placeobject: triggers when a player places a player head, at the location they are looking. Used internally to place custom machines/blocks.
 * mech_right_click: give an item the nbt data tag.ClickDetect:1 to turn on right click detection while holding that item. This tag is then applied to anyone who right clicks (imperfect detection, may fail when players looks around very fast).
+* mech_left_click: give an item the nbt data tag.ClickDetect:2 to turn on left/right click detection while holding that item. Same applies here as with right click detection.
 * mech_upgraded: added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
 
 # Scoreboard Information
