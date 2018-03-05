@@ -16,6 +16,9 @@ _
 
 ## **Video Overviews of Mechanization**
 ***
+
+These cover the 1.12 version of Mechanization, and are outdated.
+
 **v1.3.0: The Progression Update:**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/EhxSkXbYKgk/0.jpg)](https://www.youtube.com/watch?v=EhxSkXbYKgk)
