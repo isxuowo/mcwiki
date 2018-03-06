@@ -34,6 +34,6 @@ Destroys common blocks like stone.
 
 #### Smash
 
-When mining stone, also mine any stone in a 3x3 area.
+When mining stone, also mines any stone in a 3x3 area.
 
 ![Smash Recipe](https://i.imgur.com/Gaq90wI.png?1)
