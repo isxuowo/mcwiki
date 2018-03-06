@@ -1,4 +1,4 @@
-Titanium tools look- and act- almost exactly like diamond tools. However, they can be modified at the Tinker Table with custom Enhancements that make them very powerful
+Titanium tools look- and act- almost exactly like diamond tools. However, they can be modified at the Tinker Table with custom Enhancements that make them very powerful.
 
 | Pickaxe | Axe | Shovel |
 |---------|-----|--------|
