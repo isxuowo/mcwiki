@@ -36,7 +36,7 @@ Hitting something gives it wither 2 for 4 seconds.
 
 Hitting something will give the user regeneration.
 
-![Vamparic Recipe](https://i.imgur.com/PDxVfkX.png)
+![Vamparic Recipe](https://i.imgur.com/PDxVfkX.png?1)
 
 #### Slowness
 
