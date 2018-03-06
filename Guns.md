@@ -87,3 +87,27 @@ Reduces vertical recoil.
 Reduces horizontal recoil.
 
 ![Angled Grip Recipe](https://i.imgur.com/juOSSdu.png?1)
+
+#### Cryothermal Unit
+
+Reduces weapon heat by 20%.
+
+![Cryo Recipe](https://i.imgur.com/nYFkfqU.png?1)
+
+#### Fluid Actuator
+
+Increases projectile velocity by 20%.
+
+[Fluid Actuator Recipe](https://i.imgur.com/HaNVzPM.png?1)
+
+#### Plasma Pump
+
+Increases fire rate by 20%. Negligible effects on fast firing weapons.
+
+![Plasma Pump Recipe](https://i.imgur.com/OEJ9PkU.png?1)
+
+#### Super Charger
+
+Increases damage by 25%. Up to 4 of this attachments can be applied.
+
+![Super Charger Recipe](https://i.imgur.com/kba4qaQ.png?1)
