@@ -6,7 +6,7 @@ Recipe:
 
 ![Tinker Table Recipe](https://i.imgur.com/bDactup.png?1)
 
-## Base Upgrade:
+# Base Upgrade:
 
 ![Base Upgrade](https://i.imgur.com/nSeTo5C.png?1)
 
