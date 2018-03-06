@@ -14,4 +14,4 @@ Does nothing on its own, but is used in the crafting of other upgrades.
 
 Recipe:
 
-![Base Upgrade Recipe](https://i.imgur.com/tz1HC68.png)
+![Base Upgrade Recipe](https://i.imgur.com/tz1HC68.png?1)
