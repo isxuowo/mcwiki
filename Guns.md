@@ -1,3 +1,7 @@
+Plasma guns are advanced weapons that every kill-thirsty Minecrafter needs in their arsenal. Being plasma based, they consume power from portable batteries. Also be sure to watch you heat level, or you're guns will have to stop firing in order to cool down.
+
+Controls: Right click to fire, left click to aim down sights.
+
 ## Plasma Sub-Machine Gun
 ![SMG](https://i.imgur.com/Oi0b2fg.png?1)
 
@@ -53,3 +57,33 @@ Recipes:
 | Barrel | Magazine | Trigger | Stock |
 |--------|----------|---------|-------|
 | ![Barrel Recipe](https://i.imgur.com/jkjJWjA.png?1) | ![Magazine Recipe](https://i.imgur.com/LFKNTpD.png?1) | ![Trigger Recipe](https://i.imgur.com/HSHAmkW.png?1) | ![Stock Recipe](https://i.imgur.com/X5Bt8NK.png?1) |
+
+# Gun Attachments
+
+![Attachments](https://i.imgur.com/ij47Jll.png?1)
+
+Gun Attachments are added to the guns in the Tinker Table. Each one has various effects on the weapon's stats.
+
+#### Red Dot Sight
+
+Equips a Red Dot sight on the gun. Much nicer than iron sights when using ADS. Not equipable on the sniper.
+
+![Red Dot Sight Recipe](https://i.imgur.com/lh30zDT.png?1)
+
+#### Scope
+
+Equips a scope on the gun. Much nicer than iron sights when using ADS. Only equipable on the rifle and the sniper.
+
+![Scope Recipe](https://i.imgur.com/gxkzHut.png?1)
+
+#### Vertical Grip
+
+Reduces vertical recoil.
+
+![Vertical Grip Recipe](https://i.imgur.com/VhAgRf9.png?1)
+
+#### Angled Grip
+
+Reduces horizontal recoil.
+
+![Angled Grip Recipe](https://i.imgur.com/juOSSdu.png?1)
