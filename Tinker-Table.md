@@ -1,6 +1,6 @@
 ![Tinker Table](https://i.imgur.com/DvYoWBv.png?1)
 
-The tinker table allows for custom enhancements to be put onto special items (see Titanium [tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Tools)/[weapons](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Sword)/[armor](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Armor)and [guns](https://github.com/ImCoolYeah105/Mechanization/wiki/Guns)). To use the tinker table, place the modifiable item in the middle and place 4 upgrades surrounding it (if you want less than 4 upgrades, you can fill in the remaining slots with Base Upgrades).
+The tinker table allows for custom enhancements to be put onto special items (see Titanium [tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Tools)/[weapons](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Sword)/[armor](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Armor) and [guns](https://github.com/ImCoolYeah105/Mechanization/wiki/Guns)). To use the tinker table, place the modifiable item in the middle and place 4 upgrades surrounding it (if you want less than 4 upgrades, you can fill in the remaining slots with Base Upgrades).
 
 Recipe:
 
