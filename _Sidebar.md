@@ -49,6 +49,7 @@
 
 ### Gadgets (1.13 WIP)
 ***
+* [XP Tank](https://github.com/ImCoolYeah105/Mechanization/wiki/XP-Tank)
 * [Charging Station](https://github.com/ImCoolYeah105/Mechanization/wiki/Charging-Station)
 * [Portable Battery](https://github.com/ImCoolYeah105/Mechanization/wiki/Portable-Battery)
 * [Tinker Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Tinker-Table)
