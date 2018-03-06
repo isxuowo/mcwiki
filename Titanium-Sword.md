@@ -12,7 +12,7 @@ Recipe:
 
 Up to 4 Attack Damage Enhancements can be applied per weapon. Gives +2 melee damage per level.
 
-[Damage Recipe](https://i.imgur.com/y6acuwT.png?1)
+![Damage Recipe](https://i.imgur.com/y6acuwT.png?1)
 
 #### Attack Speed
 
