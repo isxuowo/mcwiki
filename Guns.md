@@ -51,4 +51,6 @@ Gun parts are crafting ingredients for making guns.
 Recipes:
 | Barrel | Magazine | Trigger | Stock |
 |--------|----------|---------|-------|
+| test | test | test | test |
+
 | ![Barrel Recipe](https://i.imgur.com/jkjJWjA.png?1) | ![Magazine Recipe](https://i.imgur.com/LFKNTpD.png?1) | ![Trigger Recipe](https://i.imgur.com/HSHAmkW.png?1) | ![Stock Recipe](https://i.imgur.com/X5Bt8NK.png?1) |
