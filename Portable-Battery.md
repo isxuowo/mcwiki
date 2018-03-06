@@ -4,4 +4,4 @@ The portable battery stores up to 64000 kJ and is used to power tool, weapons, a
 
 Recipe:
 
-[!Portable Battery Recipe](https://i.imgur.com/TWYXXjY.png?1)
+![Portable Battery Recipe](https://i.imgur.com/TWYXXjY.png?1)
