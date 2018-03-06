@@ -32,14 +32,10 @@ Gadgets:
 * ✓ Batteries instead of arbitrary "internal buffer"
 * ✓ New tinker table system
 * ✓ New armor and weapon modifier system
-* XP Storage Mechanic
-* Gun Improvements (ADS, attachments, magazines)
-* Grenades
+* ✓ Gun Improvements (ADS, attachments, magazines)
 * ✓ Flight
-* Particle Gene
+* XP Storage Mechanic
 * Item Magnet
-* Portal Gun
-* Gravity Gun
 * ? Transportation Tubes (TE viaduct)
 
 New Module: Assembly Line
