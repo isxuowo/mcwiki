@@ -19,3 +19,25 @@ Recipe:
 Recipe:
 
 ![Rifle Recipe](https://i.imgur.com/TEvyJkh.png?1)
+
+## Plasma Pistol
+![Pistol](https://i.imgur.com/5dX7RZN.png?1)
+
+| Fire Rate | Damage | Recoil | Energy Usage |
+|-----------|--------|--------|--------------|
+| Medium | Medium | Low | Low |
+
+Recipe:
+
+![Pistol Recipe](https://i.imgur.com/710b1qW.png?1)
+
+## Plasma Sniper Rifle
+![Sniper](https://i.imgur.com/T0wBs3J.png?1)
+
+| Fire Rate | Damage | Recoil | Energy Usage |
+|-----------|--------|--------|--------------|
+| Low | High | Medium | Medium |
+
+Recipe:
+
+![Sniper Recipe](https://i.imgur.com/oW72rHg.png?1)
