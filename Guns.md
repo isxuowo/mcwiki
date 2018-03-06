@@ -7,7 +7,7 @@
 
 Recipe:
 
-![SMG Recipe](https://i.imgur.com/fd6oBlP.png)
+![SMG Recipe](https://i.imgur.com/TEvyJkh.png?1)
 
 ## Plasma Rifle
 ![Rifle](https://i.imgur.com/pxiYT0O.png?1)
