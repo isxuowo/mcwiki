@@ -35,7 +35,6 @@ Gadgets:
 * ✓ Gun Improvements (ADS, attachments, magazines)
 * ✓ Flight
 * XP Storage Mechanic
-* Item Magnet
 * ? Transportation Tubes (TE viaduct)
 
 New Module: Assembly Line
