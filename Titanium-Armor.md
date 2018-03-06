@@ -72,7 +72,7 @@ Maximum of 1 Night Vision Enhancement overall. Grants night vision for 4 kW.
 
 Maximum of 1 Shield Enhancement overall. Gives 2 hearts of absorption every 5 seconds as a buffer to incoming damage. Uses 512 kJ to create the shield, then uses 6 kW to maintain the shield after creating it.
 
-[Shield Recipe](https://i.imgur.com/Nz92ZzS.png?1)
+![Shield Recipe](https://i.imgur.com/Nz92ZzS.png?1)
 
 #### Slow Fall
 
