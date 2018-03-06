@@ -50,7 +50,7 @@
 ### Gadgets (1.13 WIP)
 ***
 * [Charging Station](https://github.com/ImCoolYeah105/Mechanization/wiki/Charging-Station)
-* [Portable Battery](https://github.com/ImCoolYeah105/Mechanization/wiki/Portable Battery)
+* [Portable Battery](https://github.com/ImCoolYeah105/Mechanization/wiki/Portable-Battery)
 * [Tinker Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Tinker-Table)
 * [Titanium Tools & Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Tools)
 * [Titanium Sword & Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Sword)
