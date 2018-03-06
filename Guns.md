@@ -98,7 +98,7 @@ Reduces weapon heat by 20%.
 
 Increases projectile velocity by 20%.
 
-[Fluid Actuator Recipe](https://i.imgur.com/HaNVzPM.png?1)
+![Fluid Actuator Recipe](https://i.imgur.com/HaNVzPM.png?1)
 
 #### Plasma Pump
 
