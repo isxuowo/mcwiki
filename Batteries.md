@@ -2,6 +2,8 @@
 
 Batteries are the core of the energy grid system, serving not only as a way to store energy, but also as the energy transmitters. The energy system in Mechanization is completely wireless, with batteries serving as the relay between generators and machines. As such, a battery is required to get started in Mechanization. There are currently 3 tiers of batteries, with an extra Quantum Battery.
 
+Batteries keep their energy when broken with a wrench, so feel free to move them around!
+
 | | Capacity | Transfer Rate | Transfer Range | Recipe |
 |-|----------|---------------|----------------|--------|
 | Tier 1 Battery | 100,000 kJ | 100 kW | 12 Blocks | ![T1 Battery Recipe](https://i.imgur.com/vtMOOKV.png?1) |
