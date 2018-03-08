@@ -41,7 +41,7 @@ New Module: Assembly Line
 * Autocrafting
 * Routers
 * Hopper Upgrades
-* Item processing
+* Auto Jukebox
 * ?Infinite Range Item Transport
 
 New Module: Rail Stuffs
