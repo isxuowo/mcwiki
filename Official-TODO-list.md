@@ -38,10 +38,10 @@ Gadgets:
 * ? Transportation Tubes (TE viaduct)
 
 New Module: Assembly Line
-* Autocrafting
+* ✓ Autocrafting
 * Routers
-* Hopper Upgrades
-* Auto Jukebox
+* ✓ Hopper Upgrades
+* ✓ Auto Jukebox
 * ?Infinite Range Item Transport
 
 New Module: Rail Stuffs
