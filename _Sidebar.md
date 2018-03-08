@@ -47,7 +47,7 @@
 * [Steam Turbine](https://github.com/ImCoolYeah105/Mechanization/wiki/Steam-Turbine)
 * [Reactor Observers](https://github.com/ImCoolYeah105/Mechanization/wiki/Reactor-Observers)
 
-### Gadgets (1.13 WIP)
+### Gadgets
 ***
 * [XP Tank](https://github.com/ImCoolYeah105/Mechanization/wiki/XP-Tank)
 * [Charging Station](https://github.com/ImCoolYeah105/Mechanization/wiki/Charging-Station)
@@ -57,3 +57,9 @@
 * [Titanium Sword & Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Sword)
 * [Titanium Armor & Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Armor)
 * [Guns](https://github.com/ImCoolYeah105/Mechanization/wiki/Guns)
+
+### Assembly
+***
+* [Auto Jukebox](https://github.com/ImCoolYeah105/Mechanization/wiki/Auto-Jukebox)
+* [Auto-Crafting](https://github.com/ImCoolYeah105/Mechanization/wiki/Auto-Crafting)
+* [Hopper Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Hopper-Upgrades)
