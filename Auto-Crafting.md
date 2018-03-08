@@ -2,7 +2,7 @@
 
 Auto-Crafting in Mechanization: Assembly is not a 1:1 auto crafter. Instead, there are a variety of machines, with each one being able to handle different recipes.
 
-### Compressor
+## Compressor
 
 Handles most 2x2 and 3x3 -> single item recipes, ie. 9 iron ingots -> 1 iron block.
 
@@ -33,3 +33,37 @@ Handles most 2x2 and 3x3 -> single item recipes, ie. 9 iron ingots -> 1 iron blo
 | 4 String | 1 Wool |
 | 4 Rabbit Hide | 1 Leather |
 
+## Decompressor
+
+Same as the compressor, but in reverse. So 1 iron block give 9 iron ingots.
+
+![Decompressor](https://i.imgur.com/pECyUn7.png?1)
+
+## Stone Cutter
+
+Creates variants of stone type blocks.
+
+![Stone Cutter](https://i.imgur.com/0rkLHNI.png?1)
+
+| Input | Output |
+|-------|--------|
+| Stone | Stone Bricks |
+| End Stone | End Stone Bricks |
+| Diorite | Polished Diorite |
+| Granite | Polished Granite |
+| Andesite | Polished Andesite |
+| 4 Prismarine Shards | 1 Prismarine Block |
+| 4 Sand | 1 Sandstone |
+| 4 Red Sand | 1 Red Sandstone |
+| 4 Bricks | 1 Brick Block |
+| 4 Nether Bricks | 1 Nether Brick Block |
+| 4 Magma Cream | 1 Magma Block |
+| 4 Popped Chorus Fruit | 1 Purpur Block |
+
+## Dye Machine
+
+The dye machine acts a bit differently. It has 2 slots. A dye goes in the top slot, and a dye-able block (list bellow) goes in the bottom slot. The machine will then dye that block, in batches of 8.
+
+![Dye Machine Recipe](https://i.imgur.com/DgO0V8N.png?1)
+
+Can Handle: Wool, Glass, Terracotta, Glazed Terracotta, Concrete, and Concrete Powder
