@@ -52,7 +52,7 @@ Maximum of 1 Auto Eater Enhancement overall. Uses 16 kJ to automatically eat som
 
 #### Flight
 
-Maximum of 1 Flight Enhancement overall. Jump of a raised platform while holding the sprint key to activate (only need 2 block height). Acts like swimming on air. Uses 240 kW.
+Maximum of 1 Flight Enhancement overall. Look up and jump to activate. From there, you can look up/down to go up and down, respectively. Uses 120 kW.
 
 ![Flight Recipe](https://i.imgur.com/DxSrVMn.png?1)
 
