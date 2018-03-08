@@ -2,31 +2,51 @@ Mechanization is modularized into a set of event calls and scoreboard informatio
 
 *Important notice: this page is being developed along side the 1.13 release of Mechanization, and therefor most of the information is not applicable as of right now. Once released this information will be up-to-date and valid.
 
-Mechanization is now in prerelease, downloads moved to main page.
-
 # Energy API
 ***
 
-Mechanization's primary feature is the energy grid. To create a device that interacts with the grid, give an entity one of these tags:
+Mechanization's primary feature is the energy grid. To create a device that interacts with the grid, set an entity's 'mech_power' score to 0. Then, give it one of these tags:
 * mech_transmitter: Indicates that this device generates power, and should have power taken from it and put into batteries.
 * mech_reciever: Indicates that this device uses power, and should take power from batteries.
 
-Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value (which should be initialized to 0, not done automatically). Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption.
+Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value. Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption.
 
 Note: it is not currently possible to create custom batteries without extensive scripting involved.
 
+### Portable Energy
+
+Mechanization supports drawing energy from compatible items in the player's hotbar. This is done using these lines of code:
+
+    scoreboard players set in_0 mech_data 8 //This is how much power to draw
+    function mechanization:base/tools/player_energy/use_energy
+
+This will attempt to draw power from the player. It will then set the score 'out_0 mech_data' to 0 or 1, where 0 is failed to draw energy an 1 is succeed in drawing energy.
+
+It is recommended to use built-in portable energy items (like Gadget's Portable Batter), but if you would like to make your own then give it the nbt tag 'Energy:1' (Energy must always be above 1). This item can then be charged at the Charging Station, or you can add your own way to charge it.
+
 # Events
 ***
-There are several event hooks built into mechanization. These are generally provided using an entity with a tag at the location of the event.
+There are several event hooks built into mechanization. These are passed using a tag
+
+### Player Actions
+* mech_sneaking: indicates a player is currently sneaking
+* mech_placeobject: triggers when a player places a player head, at the location they are looking. Used internally to place custom machines/blocks.
+
+### Tools
 * mech_wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break machines.
 * mech_wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
 * mech_meter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
-* mech_activegen: indicates a chunk is ready to custom generation.
-* mech_sneaking: indicates a player is currently sneaking
-* mech_placeobject: triggers when a player places a player head, at the location they are looking. Used internally to place custom machines/blocks.
-* mech_right_click: give an item the nbt data tag.ClickDetect:1 to turn on right click detection while holding that item. This tag is then applied to anyone who right clicks (imperfect detection, may fail when players looks around very fast).
-* mech_left_click: give an item the nbt data tag.ClickDetect:2 to turn on left/right click detection while holding that item. Same applies here as with right click detection.
+
+### Click Detection
+* mech_right_click: give an item the nbt data 'ClickDetect:1' to turn on right click detection while holding that item. This tag is then applied to anyone who right clicks (imperfect detection, may fail when players looks around very fast).
+* mech_left_click: give an item the nbt data 'ClickDetect:2' to turn on left/right click detection while holding that item. Same applies here as with right click detection.
+
+### Machines
 * mech_upgraded: added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
+
+### World Generation
+World generation is on a per-chunk bases, and spread out in a circle from the player.
+* mech_activegen: indicates a chunk is ready to custom generation.
 
 # Scoreboard Information
 ***
