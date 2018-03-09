@@ -2,7 +2,7 @@ This is the official todo page for Mechanization. Ideas denoted with a '?' are p
 
 Base Module:
 * Switch to normal recipes when functionality is introduced
-* Custom Advancements
+* ✓ Custom Advancements
 * ✓ Energy Item API
 * ✓ Machine Upgrade system
 * A way to quickly grab all items.
