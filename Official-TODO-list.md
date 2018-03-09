@@ -5,7 +5,7 @@ Base Module:
 * ✓ Custom Advancements
 * ✓ Energy Item API
 * ✓ Machine Upgrade system
-* A way to quickly grab all items.
+* ✓ A way to quickly grab all items.
 
 Age Of Machines
 * ✓ Disenchanter
