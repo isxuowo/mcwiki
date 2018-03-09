@@ -111,3 +111,9 @@ Increases fire rate by 20%. Negligible effects on fast firing weapons.
 Increases damage by 25%. Up to 4 of this attachments can be applied.
 
 ![Super Charger Recipe](https://i.imgur.com/kba4qaQ.png?1)
+
+#### Bouncy Projectiles
+
+Projectiles ricochet off walls.
+
+![Bouncy Recipe](https://i.imgur.com/HYdMMpw.png?1)
