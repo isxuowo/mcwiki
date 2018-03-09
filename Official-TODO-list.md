@@ -38,7 +38,7 @@ Gadgets:
 * ✓ XP Storage Mechanic
 * ? Transportation Tubes (TE viaduct)
 
-New Module: Assembly Line
+✓ New Module: Assembly Line
 * ✓ Autocrafting
 * Routers
 * ✓ Hopper Upgrades
