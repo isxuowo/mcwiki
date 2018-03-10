@@ -4,7 +4,7 @@
 
 | Ore | Rarity | Spawns At |
 |-----|--------|-----------|
-| Copper | Uncommon | Y-24 to Y-48 |
+| Copper | Uncommon | Y-24 to Y-56 |
 | Tin | Uncommon | Y-16 to Y-48 |
 | Titanium | Very Rare | Y-1 to Y-16 |
 
