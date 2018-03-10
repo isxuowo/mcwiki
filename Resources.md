@@ -8,6 +8,8 @@
 | Tin | Uncommon | Y-16 to Y-48 |
 | Titanium | Very Rare | Y-1 to Y-16 |
 
+In order to refine the ores, craft them with a flint & steel in the machine crafter.
+
 ## Machine Frames
 
 ![Machine Frames](https://i.imgur.com/y9EKkjY.png?1)
