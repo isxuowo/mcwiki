@@ -4,4 +4,4 @@ Every machine/generator can receive a Machine Upgrade. The upgrade can by added 
 
 Recipe:
 
-![Machine Upgrade Recipe](https://i.imgur.com/36MWujX.png?1)
+![Machine Upgrade Recipe](https://i.imgur.com/NeIeXA6.png?1)
