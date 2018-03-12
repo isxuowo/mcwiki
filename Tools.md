@@ -14,4 +14,4 @@ The Multimeter is a great tool for checking up on your energy grid. Right clicki
 
 Recipe:
 
-![Multimeter Recipe](https://i.imgur.com/xeE9kGR.png?1)
+![Multimeter Recipe](https://i.imgur.com/PcULkc2.png?1)
