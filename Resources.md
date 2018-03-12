@@ -8,7 +8,8 @@
 | Tin | Uncommon | Y-16 to Y-48 |
 | Titanium | Very Rare | Y-1 to Y-16 |
 
-In order to refine the ores, craft them with a flint & steel in the machine crafter.
+Refining Recipe (applies to copper, tin, and titanium):
+![Ore Refining](https://i.imgur.com/BF4T1sE.png?1)
 
 ## Machine Frames
 
@@ -18,8 +19,8 @@ Machine frames are a crafting ingredient used to make most machines.
 
 |   | Recipe |
 |---|--------|
-| Tier 1 | ![T1 Machine Frame](https://i.imgur.com/CYil1rd.png?1) |
-| Tier 2 | ![T2 Machine Frame](https://i.imgur.com/IKAiwRo.png?1) |
+| Tier 1 | ![T1 Machine Frame](https://i.imgur.com/xHDIqDb.png?1) |
+| Tier 2 | ![T2 Machine Frame](https://i.imgur.com/YBqwWDW.png?1) |
 | Tier 3 | ![T3 Machine Frame](https://i.imgur.com/rugWDwg.png?1) |
 
 ## Alloys
