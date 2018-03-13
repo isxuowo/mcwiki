@@ -4,8 +4,8 @@
 
 | Ore | Rarity | Spawns At |
 |-----|--------|-----------|
-| Copper | Uncommon | Y-16 to Y-40 |
-| Tin | Uncommon | Y-16 to Y-40 |
+| Copper | Uncommon | Y-24 to Y-48 |
+| Tin | Uncommon | Y-20 to Y-44 |
 | Titanium | Very Rare | Y-1 to Y-16 |
 
 Refining Recipe (applies to copper, tin, and titanium):
