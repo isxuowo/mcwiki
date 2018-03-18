@@ -22,7 +22,7 @@ Mechanization supports drawing energy from compatible items in the player's hotb
 
 This will attempt to draw power from the player. It will then set the score 'out_0 mech_data' to 0 or 1, where 0 is failed to draw energy an 1 is succeed in drawing energy.
 
-It is recommended to use built-in portable energy items (like Gadget's Portable Batter), but if you would like to make your own then give it the nbt tag 'Energy:1' (Energy must always be above 1). This item can then be charged at the Charging Station, or you can add your own way to charge it.
+It is recommended to use built-in portable energy items (like Gadget's Portable Battery), but if you would like to make your own then give it the nbt tag 'Energy:1' (Energy must always be above 1). This item can then be charged at the Charging Station, or you can add your own way to charge it.
 
 # Events
 ***
@@ -39,14 +39,14 @@ There are several event hooks built into mechanization. These are passed using a
 
 ### Click Detection
 * mech_right_click: give an item the nbt data 'ClickDetect:1' to turn on right click detection while holding that item. This tag is then applied to anyone who right clicks (imperfect detection, may fail when players looks around very fast).
-* mech_left_click: give an item the nbt data 'ClickDetect:2' to turn on left/right click detection while holding that item. Same applies here as with right click detection.
+* mech_left_click: give an item the nbt data 'ClickDetect:2' to turn on both left & right click detection while holding that item. Same applies here as with right click detection.
 
 ### Machines
 * mech_upgraded: added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
 
 ### World Generation
 World generation is on a per-chunk bases, and spread out in a circle from the player.
-* mech_activegen: indicates a chunk is ready to custom generation.
+* mech_activegen: indicates a chunk is ready to custom generation. Positioned in the bottom corner of the chunk.
 
 # Scoreboard Information
 ***
@@ -70,7 +70,7 @@ Following these conventions will allow easy cross-datapack compatibility with re
 
 # Additional Information
 ***
-* The world spawn is set to x=0, z=0. This way the spawn chunk cords are always known.
+* The world spawn is marked by an entity with the tag 'mech_spawn_chunks'.
 
 # Tips
 ***
