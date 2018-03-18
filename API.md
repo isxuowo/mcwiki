@@ -64,7 +64,9 @@ The purpose of the ore dictionary is essentially the same as in modded Minecraft
 
 Adding items to ore dict: inside the tag:{} nbt list, add the following string array tag: OreDict:[]. Then, add any ore dictionary entries to the array. For example, OreDict:["ingotSteel"]. Multiple entries can be specified. Naming conventions should follow the normal conventions for modded Minecraft (why reinvent the wheel).
 
-Using ore dict items in recipes: Just test for the needed ore dict entry in the array (example coming when nbt data support is added to custom recipes).
+Using ore dict items in recipes: Just test for the needed ore dict entry in the array, for example in dropper crafting:
+
+    execute if block ~ ~ ~ dropper{Items:[{Slot:0b,Count:1b, tag:{OreDict:["ingotSteel"]} }]}
 
 Following these conventions will allow easy cross-datapack compatibility with recipes, and will simplify recipe creation in the long run.
 
