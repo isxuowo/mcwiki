@@ -2,7 +2,7 @@
 
 The Lava Fabricator will melt stone placed on top of it into lava. Takes ~45 secs to complete. Uses 256 kW.
 
-When Upgraded: This machine does not currently have an upgraded version (ideas?).
+When Upgraded: Melts ice and snow in a 5x2x5 area above the machine.
 
 Recipe: 
 
