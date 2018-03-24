@@ -61,6 +61,7 @@
 
 ### Assembly
 ***
+* [Unlimited Storage Unit](https://github.com/ImCoolYeah105/Mechanization/wiki/Unlimited*-Storage-Unit)
 * [Auto Jukebox](https://github.com/ImCoolYeah105/Mechanization/wiki/Auto-Jukebox)
 * [Auto-Crafting](https://github.com/ImCoolYeah105/Mechanization/wiki/Auto-Crafting)
 * [Hopper Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Hopper-Upgrades)
