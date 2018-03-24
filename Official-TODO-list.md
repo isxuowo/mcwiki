@@ -21,7 +21,6 @@ Age Of Machines
 * ? Storage System
 * ? Elevator
 * ? Void Miner
-* ? Deep Storage Unit
 
 Nuclear Ascention:
 * ✓ Advanced Uranium Refining
@@ -40,6 +39,7 @@ Gadgets:
 
 ✓ New Module: Assembly Line
 * ✓ Autocrafting
+* ✓ Deep Storage Unit
 * Routers
 * ✓ Hopper Upgrades
 * ✓ Auto Jukebox
