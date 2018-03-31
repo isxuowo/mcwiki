@@ -58,12 +58,11 @@ New Module: Mechanized Warfare
 * Base Defences: Turrets, Tesla Coil, etc.
 * ?Force Field
 
-New Module: Agriculture
-* Crop stuff, like Agricraft/IC2 crops/Magical Crops. Will replace Elder Botany.
-* Resource crops
-* Cross-breading
-* Plant stats
+New Module: Genetics
+* Collect & Study genetic material
+* Use genes to create new plants, mobs, and even enhance your own DNA
+* Use genes to improve existing plants
 
-New Module: space
+New Module: Space
 * Like Galacticraft, but different
 * May be a separate data pack, to be determined
