@@ -58,9 +58,6 @@ Using ore dict items in recipes: Just test for the needed ore dict entry in the 
 
 Following these conventions will allow easy cross-datapack compatibility with recipes, and will simplify recipe creation in the long run.
 
-# Additional Information
-***
-
 # Tips
 ***
 * While your free to create any content in an add on if you want, it’s generally better to avoid overlapping content for performance reasons. Check out the Todo page for a list of planned features.
