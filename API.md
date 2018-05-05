@@ -1,6 +1,6 @@
 Mechanization is modularized into a set of event calls and scoreboard information. As such, it is very easy to develop add-ons that use Mechanization's features to create a seamless experience. This page documents everything you might find useful in creating an add-on.
 
-*Important notice: this page is being developed along side the 1.13 release of Mechanization, and therefor most of the information is not applicable as of right now. Once released this information will be up-to-date and valid.
+*Important notice: The Mechanization API has now been merged with Datapack Utils. Everything that Datapack Utils covers has been cut out of the Mechanization API. Mechanization is pre-packaged with Datapack Utils, so no need to download it seperatly. See the Datapack Utils wiki for more info on its functions.
 
 # Energy API
 ***
@@ -28,35 +28,21 @@ It is recommended to use built-in portable energy items (like Gadget's Portable 
 ***
 There are several event hooks built into mechanization. These are passed using a tag
 
-### Player Actions
-* mech_sneaking: indicates a player is currently sneaking
-* mech_placeobject: triggers when a player places a player head, at the location they are looking. Used internally to place custom machines/blocks.
-
 ### Tools
 * mech_wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break machines.
 * mech_wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
 * mech_meter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
 
-### Click Detection
-* mech_right_click: give an item the nbt data 'ClickDetect:1' to turn on right click detection while holding that item. This tag is then applied to anyone who right clicks (imperfect detection, may fail when players looks around very fast).
-* mech_left_click: give an item the nbt data 'ClickDetect:2' to turn on both left & right click detection while holding that item. Same applies here as with right click detection.
-
 ### Machines
 * mech_upgraded: added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
 
-### World Generation
-World generation is on a per-chunk bases, and spread out in a circle from the player.
-* mech_activegen: indicates a chunk is ready to custom generation. Positioned in the bottom corner of the chunk.
-
 # Scoreboard Information
 ***
-* mech_timer: used when anything requires time. Has 2 fake players "timer" and "timer100" timer is a 20 tick clock, timer100 is a 100 tick clock. You can use them to put machines on a delay.
 * mech_data: For math, temp variables and other misc data storage. Also used to store an extra bit of data on machines. Could be anything.
 * mech_power: indicates power level on a machine/generator/battery.
-* mech_uuid: used whenever something needs a unique id. Uses the fake player incrID. You should always get a new id from this fake player, and increment it by 1 when you do.
 * mech_x, mech_y, mech_z: used when position or rotation cords need to be stored.
 * mech_gridid: used internally to specify machines' grid ids. You probably shouldn't mess with this.
-* mech_usedid: used internally to indicate what damage an item had when used. Paired with the 'mech_right_clicked' tag.
+* mech_usedid: used internally to indicate what item id an item had when used.
 
 # Ore Dictonary
 ***
@@ -72,7 +58,6 @@ Following these conventions will allow easy cross-datapack compatibility with re
 
 # Additional Information
 ***
-* The world spawn is marked by an entity with the tag 'mech_spawn_chunks'.
 
 # Tips
 ***
