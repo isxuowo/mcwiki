@@ -26,15 +26,17 @@ It is recommended to use built-in portable energy items (like Gadget's Portable 
 
 # Events
 ***
-There are several event hooks built into mechanization. These are passed using a tag
+There are several event hooks built into mechanization. These are run using a function tag. To extend the event, in your datapack create the folder data/mechanization/tags/functions/[function] and add your functions in that tag (make sure to extend, not overwrite!).
 
 ### Tools
-* mech_wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break machines.
-* mech_wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
-* mech_meter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
+* machine_crafter: runs at a machine crafter that has items in it. Used to create custom recipes.
+* wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break machines.
+* wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
+* multimeter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
+* pickup_head: triggers when player picks up a custom player head. Used to replace generated heads with heads that have proper NBT data.
 
 ### Machines
-* mech_upgraded: added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
+* mech_upgraded: Scoreboard tag added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
 
 # Scoreboard Information
 ***
