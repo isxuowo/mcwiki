@@ -38,4 +38,4 @@ More advanced machines will require alloys made in the [Alloy Furnace](https://g
 | Super Conductive Ingot | ![super conductive ingot](https://i.imgur.com/zgmbQm3.png?1) |
 | Crystal Composite | ![crystal composite](https://i.imgur.com/ClJqsuf.png?1) |
 | Nether Ingot | ![nether ingot](https://i.imgur.com/H4NWQlm.png) |
-| Ender Ingot | ![ender ingot](https://i.imgur.com/np1FAgR.png?1
+| Ender Ingot | ![ender ingot](https://i.imgur.com/np1FAgR.png?1) |
