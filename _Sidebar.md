@@ -9,6 +9,7 @@
 
 ### Base Module
 ***
+* [Getting Started](https://github.com/ImCoolYeah105/Mechanization/wiki/Getting-Started)
 * [Tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Tools)
 * [Machine Crafting Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Crafting-Table)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
