@@ -15,7 +15,7 @@ Recipe:
 | Steel Ingot | ![steel ingot](https://i.imgur.com/REqPO9c.png?1) |
 | Structural Ingot | ![structural ingot](https://i.imgur.com/f5ToUew.png?1) |
 | Conductive Ingot | ![conductive ingot](https://i.imgur.com/N7uy2ZT.png?1) |
-| Titanium Steel Ingot | ![titanium steel ingot](https://imgur.com/S4PsLvz) |
+| Titanium Steel Ingot | ![titanium steel ingot](https://i.imgur.com/S4PsLvz.png?1) |
 | Reinforced Structural Ingot | ![reinforced structural ingot](https://i.imgur.com/K5n3TZs.png?1) |
 | Super Conductive Ingot | ![super conductive ingot](https://i.imgur.com/zgmbQm3.png?1) |
 | Crystal Composite | ![crystal composite](https://i.imgur.com/ClJqsuf.png?1) |
