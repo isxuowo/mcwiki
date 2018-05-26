@@ -1,3 +1,5 @@
+Due to changes in the way enchantments are stored, this machine is broken and unlikely to ever be fixed.
+
 ![Disenchanter](https://i.imgur.com/9yapm0I.png?1)
 
 The Disenchanter will remove all enchants off of an item and turn them into books. Destroys the item in the process. Uses 256 kW/operation.
