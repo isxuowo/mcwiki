@@ -2,7 +2,7 @@
 
 ![Uranium Ore](https://i.imgur.com/HlIFYGX.png?1)
 
-Uranium Ore: Rare Ore that spawns between Y-1 and Y-24. Can be refined in a Grinder from Age of Machines.
+Uranium Ore: Rare Ore that spawns between Y-1 and Y-24. Fire and Uranium do not mix, so uranium needs to be refined in a Grinder from Age of Machines.
 
 ## Fuel Cells
 
