@@ -1,3 +1,12 @@
+# For MC 1.13
+***
+1. Download the latest version of Mechanization from the [main page](https://github.com/ImCoolYeah105/Mechanization), along with the resource pack.
+2. Go to the single-player world selection screen.
+3. Select the world you want to install Mechanization to, and select 'edit' at the bottom of the screen. (recommended to create a new world).
+4. Click on 'open world folder'
+5. Drop the downloaded zip file into the 'datapacks' folder
+6. Enter the world and type /reload. You're good to go :)
+
 # For MC 1.12
 ***
 1. Download Mechanization from the link provided on the [main page](https://github.com/ImCoolYeah105/Mechanization)
@@ -12,12 +21,3 @@
 **Video Tutorial**
 ***
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DR28xsr1A4c/0.jpg)](https://www.youtube.com/watch?v=DR28xsr1A4c)
-
-# For MC 1.13
-***
-1. Download the latest version of Mechanization from the [main page](https://github.com/ImCoolYeah105/Mechanization), along with the resource pack.
-2. Go to the single-player world selection screen.
-3. Select the world you want to install Mechanization to, and select 'edit' at the bottom of the screen. (recommended to create a new world).
-4. Click on 'open world folder'
-5. Drop the downloaded zip file into the 'datapacks' folder
-6. Enter the world and type /reload. You're good to go :)
