@@ -2,7 +2,6 @@
 
 * Notice: the wiki has been updated to reflect changes coming in Mechanization 2.0.0 (Minecraft 1.13). For 1.12 information, see the [1.12 archive page](https://github.com/ImCoolYeah105/Mechanization/wiki/1.12-Archive).
 
-Mechanization is a large scale Minecraft function script that emulates popular technology mods like Thermal Expansion and Industrial Craft 2.
 
 Current Features:
 * Complete energy grid system
