@@ -1,4 +1,4 @@
-**Massive 2.0 Update is finally here, more than doubling the content!**
+## 2.0.0
 
 * Completely rewritten with the new 1.13 command features.
 
