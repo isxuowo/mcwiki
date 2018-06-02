@@ -12,7 +12,6 @@ Current Features:
 _
 
 ## **Video Overviews of Mechanization**
-***
 ### Version +2.0 (1.13)
 
 **2.0 Trailer:**
@@ -23,6 +22,7 @@ Logdotzip made a brief overview of some of the 1.13 features:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2fcQEMKVOIw/0.jpg)](https://www.youtube.com/watch?v=2fcQEMKVOIw&t=0s)
 
+***
 ### Version 1.0 (1.12)
 
 **v1.3.0: The Progression Update:**
