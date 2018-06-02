@@ -1,9 +1,7 @@
 ![Logo](http://i.imgur.com/kNajiaw.png)
 
-* Notice: the wiki has been updated to reflect changes coming in Mechanization 2.0.0 (Minecraft 1.13). For 1.12 information, see the [1.12 archive page](https://github.com/ImCoolYeah105/Mechanization/wiki/1.12-Archive).
-
-
 Current Features:
+* Over 45 machines and 60 items
 * Complete energy grid system
 * Resource pack with custom models, textures, and sounds
 * In-Depth progression system
