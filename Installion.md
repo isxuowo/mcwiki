@@ -23,6 +23,6 @@
 7. Enter the world in Minecraft and run the command '/reload'. Then run the command '/function mechanization:start'
 8. Have fun :)
 
-**Video Tutorial:**
+**Video Tutorial for 1.12:**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DR28xsr1A4c/0.jpg)](https://www.youtube.com/watch?v=DR28xsr1A4c)
