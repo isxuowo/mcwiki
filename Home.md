@@ -15,7 +15,8 @@ _
 ***
 ### Version +2.0 (1.13)
 
-2.0 Trailer:
+**2.0 Trailer:**
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RZc2AqqpW40/0.jpg)](https://youtu.be/RZc2AqqpW40)
 
 Logdotzip made a brief overview of some of the 1.13 features:
