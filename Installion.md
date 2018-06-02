@@ -8,6 +8,10 @@
 6. Drop the downloaded zip file into the 'datapacks' folder
 7. Enter the world. If you didn't get the installation message, run the command /reload. You're good to go :)
 
+**Video Tutorial for 1.13:**
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/41PwOyYp6dI/0.jpg)](https://youtu.be/41PwOyYp6dI)
+
 # For MC 1.12
 ***
 1. Download Mechanization from the link provided on the [main page](https://github.com/ImCoolYeah105/Mechanization)
