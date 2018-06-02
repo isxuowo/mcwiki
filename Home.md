@@ -13,12 +13,12 @@ _
 
 ## **Video Overviews of Mechanization**
 ***
-
+### +2.0 (1.13)
 Logdotzip made a brief overview of some of the 1.13 features:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2fcQEMKVOIw/0.jpg)](https://www.youtube.com/watch?v=2fcQEMKVOIw&t=0s)
 
-These cover the 1.12 version of Mechanization, and are outdated.
+### 1.0 (1.12)
 
 **v1.3.0: The Progression Update:**
 
