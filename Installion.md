@@ -1,11 +1,12 @@
 # For MC 1.13
 ***
-1. Download the latest version of Mechanization from the [main page](https://github.com/ImCoolYeah105/Mechanization), along with the resource pack.
-2. Go to the single-player world selection screen.
-3. Select the world you want to install Mechanization to, and select 'edit' at the bottom of the screen. (recommended to create a new world).
-4. Click on 'open world folder'
-5. Drop the downloaded zip file into the 'datapacks' folder
-6. Enter the world and type /reload. You're good to go :)
+1. Download the latest version of Mechanization from [curseforge](https://minecraft.curseforge.com/projects/mechanization-datapack), along with the [resource pack](https://minecraft.curseforge.com/projects/mechanization-resources).
+2. Launch Minecraft. At the main menu, go to options -> resourepack -> open resourcepack folder. Drop the Mechanization Resourcepack here. Select this pack in game (may need to exit and re-enter resourepack menu).
+3. Go to the single-player world selection screen.
+4. Select the world you want to install Mechanization to, and select 'edit' at the bottom of the screen (recommended to create a new world).
+5. Click on 'open world folder'
+6. Drop the downloaded zip file into the 'datapacks' folder
+7. Enter the world. If you didn't get the installation message, run the command /reload. You're good to go :)
 
 # For MC 1.12
 ***
