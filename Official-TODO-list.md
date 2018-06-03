@@ -13,6 +13,7 @@ Nuclear Ascention:
 * Particle Accelerators
 
 Gadgets:
+* More armor/tools options
 * ? Transportation Tubes (TE viaduct)
 
 Assembly Line:
