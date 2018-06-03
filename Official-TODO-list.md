@@ -16,7 +16,7 @@ Nuclear Ascention:
 Gadgets:
 * ? Transportation Tubes (TE viaduct)
 
-✓ New Module: Assembly Line
+Assembly Line:
 * Routers
 * ?Infinite Range Item Transport
 
