@@ -5,7 +5,6 @@ Base Module:
 
 Age Of Machines
 * ? Block Placer
-* ? Storage System
 * ? Elevator
 * ? Void Miner
 
@@ -20,8 +19,16 @@ Assembly Line:
 * Routers
 * ?Infinite Range Item Transport
 
+New Module: Warehouse
+* Storage. Lots of storage. Maybe some automation too.
+
 New Module: Rail Stuffs
 * Improved Rails, like Railcraft
+
+New Module: Genetics
+* Collect & Study genetic material
+* Use genes to create new plants, mobs, and even enhance your own DNA
+* Use genes to improve existing plants
 
 New Module: Mechanized Warfare
 * Transport vehicles
@@ -32,11 +39,6 @@ New Module: Mechanized Warfare
 * ICBMs
 * Base Defences: Turrets, Tesla Coil, etc.
 * ?Force Field
-
-New Module: Genetics
-* Collect & Study genetic material
-* Use genes to create new plants, mobs, and even enhance your own DNA
-* Use genes to improve existing plants
 
 New Module: Space
 * Like Galacticraft, but different
