@@ -2,47 +2,22 @@ This is the official todo page for Mechanization. Ideas denoted with a '?' are p
 
 Base Module:
 * Switch to normal recipes when functionality is introduced
-* ✓ Custom Advancements
-* ✓ Energy Item API
-* ✓ Machine Upgrade system
-* ✓ A way to quickly grab all items.
 
 Age Of Machines
-* ✓ Disenchanter
-* ✓ Enhanced Mob Spawner
-* ✓ Lava Production Mechanic
-* ✓ Fisher
-* ✓ Crop Growth Accelerator
-* ✓ Ender Generator
-* ✓ Biodesiel generator
-* ✓ Item Repairer
-* ✓ Super Piston (can move entities/tile entities)
 * ? Block Placer
 * ? Storage System
 * ? Elevator
 * ? Void Miner
 
 Nuclear Ascention:
-* ✓ Advanced Uranium Refining
-* ✓ Nuclear fuel reprocessing
 * Fusion reactors
 * Particle Accelerators
 
 Gadgets:
-* ✓ Batteries instead of arbitrary "internal buffer"
-* ✓ New tinker table system
-* ✓ New armor and weapon modifier system
-* ✓ Gun Improvements (ADS, attachments, magazines)
-* ✓ Flight
-* ✓ XP Storage Mechanic
 * ? Transportation Tubes (TE viaduct)
 
 ✓ New Module: Assembly Line
-* ✓ Autocrafting
-* ✓ Deep Storage Unit
 * Routers
-* ✓ Hopper Upgrades
-* ✓ Auto Jukebox
 * ?Infinite Range Item Transport
 
 New Module: Rail Stuffs
