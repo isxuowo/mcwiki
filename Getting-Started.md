@@ -11,6 +11,7 @@ If you want to progress any further in Mechanization, you will need an Alloy Fur
 
 ### Upgrade Ore Production
 The Grinder is an incredibly important machine that can double ore output. You should get this as soon as possible in order to gain more resources. At this stage, a quarry may also prove useful in order to mine ores more quickly.
+While expensive, getting an upgraded titanium pickaxe is also very useful for strip-mining.
 
 ## Some Notes
 * Remember vanilla mechanics- sometimes vanilla may offer a better way of doing something. For example, a fortune 3 pickaxe would be a great early game investment to get more diamonds and coal (for power).
