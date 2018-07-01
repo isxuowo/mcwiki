@@ -26,7 +26,7 @@ Slightly less Armor than iron, but has %50 more durability.
 Slightly less Armor than diamond, but gets extra Armor Toughness.
 
 # Structural Armor
-![Structural Armor](https://i.imgur.com/VD3o4U5.png?1)
+![Structural Armor](https://i.imgur.com/m7ctYJ1.png?1)
 
 | Structural Helmet | Structural Chestplate | Structural Copper | Structural Boots |
 |-----------------|---------------------|-------------------|----------------|
