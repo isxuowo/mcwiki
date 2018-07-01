@@ -1,5 +1,5 @@
 # Conductive Tools
-![Conductive Tools](https://i.imgur.com/h9cecNz.png?1)
+![Conductive Tools](https://i.imgur.com/V1L4vZE.png?1)
 
 | Conductive Sword | Conductive Pickaxe | Conductive Axe | Conductive Shovel |
 |-----------------|---------------------|-------------------|----------------|
