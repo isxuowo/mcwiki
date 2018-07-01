@@ -1,6 +1,6 @@
 Titanium armor initially acts almost exactly like diamond armor. However, it can be modified at the Tinker Table with custom Enhancements that make it very powerful.
 
-![armor](https://imgur.com/13l8MCw)
+![armor](https://i.imgur.com/13l8MCw.png?1)
 
 | Titanium Helmet | Titanium Chestplate | Titanium Leggings | Titanium Boots |
 |-----------------|---------------------|-------------------|----------------|
