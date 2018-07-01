@@ -1,4 +1,4 @@
-## Copper Armor
+# Copper Armor
 ![Copper Armor](https://i.imgur.com/h9cecNz.png?1)
 
 | Copper Helmet | Copper Chestplate | Copper Copper | Titanium Boots |
@@ -7,7 +7,7 @@
 
 Slightly less Armor than iron, but has extra Armor Toughness.
 
-## Tin Armor
+# Tin Armor
 ![Tin Armor](https://i.imgur.com/ohgCJLW.png?1)
 
 | Tin Helmet | Tin Chestplate | Tin Copper | Tin Boots |
@@ -16,7 +16,7 @@ Slightly less Armor than iron, but has extra Armor Toughness.
 
 Slightly less Armor than iron, but has %50 more durability.
 
-## Steel Armor
+# Steel Armor
 ![Steel Armor](https://i.imgur.com/VD3o4U5.png?1)
 
 | Steel Helmet | Steel Chestplate | Steel Copper | Steel Boots |
@@ -25,7 +25,7 @@ Slightly less Armor than iron, but has %50 more durability.
 
 Slightly less Armor than diamond, but gets extra Armor Toughness.
 
-## Structural Armor
+# Structural Armor
 ![Structural Armor](https://i.imgur.com/VD3o4U5.png?1)
 
 | Structural Helmet | Structural Chestplate | Structural Copper | Structural Boots |
