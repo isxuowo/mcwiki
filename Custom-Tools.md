@@ -14,4 +14,4 @@ Conductive tools are as fast as golden tools, but with the durability of iron to
 |-----------------|---------------------|-------------------|----------------|
 | ![Imgur](https://i.imgur.com/3NPGvIq.png?1) | ![Imgur](https://i.imgur.com/MVTTP2E.png?1) | ![Imgur](https://i.imgur.com/lJKy8OQ.png?1) | ![Imgur](https://i.imgur.com/a98vrhi.png?1) |
 
-Crystals tools are similar to diamond tools but with a twist- they come preenchanted with Looting 5 or Fortune 5 respectively. However, they are very brittle and only have 16 durability. Can not be repaired in the item reformer.
+Crystals tools are similar to diamond tools but with a twist- they come pre-enchanted with Looting 5 or Fortune 5 respectively. However, they are very brittle and only have 16 durability. Can not be repaired in the item reformer.
