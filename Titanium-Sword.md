@@ -1,4 +1,4 @@
-The Titanium Sword looks- and acts- almost exactly like a diamond sword. However, it can be modified at the Tinker Table with custom Enhancements that make it very powerful
+The Titanium Sword initially acts almost exactly like a diamond sword. However, it can be modified at the Tinker Table with custom Enhancements that make it very powerful
 
 Recipe:
 
