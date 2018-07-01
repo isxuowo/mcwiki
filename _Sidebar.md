@@ -52,6 +52,7 @@
 ***
 * [Eco-Locaters](https://github.com/ImCoolYeah105/Mechanization/wiki/Eco-Locaters)
 * [XP Tank](https://github.com/ImCoolYeah105/Mechanization/wiki/XP-Tank)
+* [Custom Armors](https://github.com/ImCoolYeah105/Mechanization/wiki/Custom-Armors)
 * [Charging Station](https://github.com/ImCoolYeah105/Mechanization/wiki/Charging-Station)
 * [Portable Battery](https://github.com/ImCoolYeah105/Mechanization/wiki/Portable-Battery)
 * [Tinker Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Tinker-Table)
