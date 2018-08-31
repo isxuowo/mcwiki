@@ -14,4 +14,4 @@ These hoppers move items much faster than normal.
 These hoppers will draw all items in a 12 block radius to it.
 
 ![Ender Hopper Recipe](https://i.imgur.com/dl9cgT9.png?1)
-* Steel Ingots, Ender Ingots, Eye of Ender, Hopper
+* Steel Ingots, Structural Ingots, Eye of Ender, Hopper
