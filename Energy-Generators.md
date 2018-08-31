@@ -43,6 +43,7 @@ When Upgraded: Increases power output by 50%.
 Recipe:
 
 ![Bio Generator Recipe](https://i.imgur.com/Y2CT9Xk.png?1)
+* Nether Brick, Conductive Ingots, Furnace, T2 Frame
 
 ## Ender Generator
 
