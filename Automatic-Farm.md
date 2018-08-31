@@ -7,4 +7,4 @@ When Upgraded: Expands area to 9x9.
 Recipe:
 
 ![Auto Farm Recipe](https://i.imgur.com/XRYqQ5Y.png?1)
-* Conductive Ingots, Diamond Shovel, Diamond Hoes, T2 Frame
+* Conductive Ingots, Diamond Shovel, Diamond Hoes, Hopper, T2 Frame
