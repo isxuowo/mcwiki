@@ -7,6 +7,7 @@ Auto-Crafting in Mechanization: Assembly is not a 1:1 auto crafter. Instead, the
 Handles most 2x2 and 3x3 -> single item recipes, ie. 9 iron ingots -> 1 iron block.
 
 ![Compressor Recipe](https://i.imgur.com/QazEL52.png?1)
+* Pistons, Crafting Table, Iron Block, Conductive Ingots, T2 Frame
 
 | Input | Output |
 |-------|--------|
@@ -38,6 +39,7 @@ Handles most 2x2 and 3x3 -> single item recipes, ie. 9 iron ingots -> 1 iron blo
 Same as the compressor, but in reverse. So 1 iron block give 9 iron ingots.
 
 ![Decompressor](https://i.imgur.com/pECyUn7.png?1)
+* Pistons, Crafting Table, Iron Ingots, Conductive Ingots, T2 Frame
 
 ## Stone Cutter
 
