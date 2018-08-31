@@ -7,3 +7,4 @@ When Upgraded: Currently does not have any upgrades (ideas?).
 Recipe:
 
 ![Steam Turbine Recuipe](https://i.imgur.com/Qwdh6PM.png?1)
+* Prismarine Shards, Prismarine Crystal, Conductive Ingot, Bucket, T2 Frame
