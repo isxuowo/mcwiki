@@ -22,6 +22,7 @@ When Upgraded: Doubles power output.
 Recipe: 
 
 ![Solar Panel Recipe](https://i.imgur.com/P8LBg9a.png?1)
+* Blue Glass, Conductive Ingots, Daylight Detectors, T2 Frame
 
 ## Bio Generator
 
