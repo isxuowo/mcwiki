@@ -7,3 +7,4 @@ When Upgraded: This machine cannot be upgraded.
 Recipe:
 
 ![Block Breaker Recipe](https://i.imgur.com/yYccgoi.png?1)
+* Copper Ingots, Golden Tools, T1 Frame
