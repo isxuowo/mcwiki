@@ -7,3 +7,4 @@ When Upgraded: Further increases the growth speed of some crops, and allows the 
 Recipe:
 
 ![Growth Accelerator](https://i.imgur.com/EQnw2Dl.png?1)
+* Bone Blocks, Dirt, Conductive Ingots, T1 Frame
