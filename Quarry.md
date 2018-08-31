@@ -5,3 +5,4 @@ The Quarry will dig an 11x11 hole down to bedrock, breaking any 'useless' blocks
 When Upgraded: Increases area to 15x15.
 
 ![Quarry Recipe](https://i.imgur.com/uGVV7OR.png?1)
+* Conductive Ingots, Diamond Tools, T2 Frame
