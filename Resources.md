@@ -18,11 +18,11 @@ Refining Recipe (applies to copper, tin, and titanium):
 
 Machine frames are a crafting ingredient used to make most machines.
 
-|   | Recipe |
-|---|--------|
-| Tier 1 | ![T1 Machine Frame](https://i.imgur.com/xHDIqDb.png?1) |
-| Tier 2 | ![T2 Machine Frame](https://i.imgur.com/YBqwWDW.png?1) |
-| Tier 3 | ![T3 Machine Frame](https://i.imgur.com/rugWDwg.png?1) |
+|   | Recipe | Ingredients |
+|---|--------|-------------|
+| Tier 1 | ![T1 Machine Frame](https://i.imgur.com/xHDIqDb.png?1) | Glass, Tin Ingots, Iron Ingots |
+| Tier 2 | ![T2 Machine Frame](https://i.imgur.com/YBqwWDW.png?1) | Red Glass, Structural Ingots, Steel Ingots |
+| Tier 3 | ![T3 Machine Frame](https://i.imgur.com/rugWDwg.png?1) | Purple Glass, Reinforced Strucutral Ingots, Titanium-Steel Ingots |
 
 ## Alloys
 
