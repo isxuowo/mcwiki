@@ -7,3 +7,4 @@ When Upgraded: Melts ice and snow in a 5x2x5 area above the machine.
 Recipe: 
 
 ![Lava Fabricator Recipe](https://i.imgur.com/cCfZS6s.png?1)
+* Magma Blocks, Conductive Ingots, Steel Ingots, Flint & Steel, T2 Frame
