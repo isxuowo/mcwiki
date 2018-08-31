@@ -9,3 +9,4 @@ Recipe:
 *Note: the enchanted book is a mending book.
 
 ![Item Reformer Recipe](https://i.imgur.com/4qSgb45.png?1)
+* Bottles O' Enchanting, Mending Enchanted Book, Conductive Ingots, Crystal Composite, T2 Frame
