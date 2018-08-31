@@ -5,3 +5,4 @@ The Spawner Mover is an item that allows you to pick up vanilla spawner by right
 Recipe: 
 
 ![Spawner Mover Recipe](https://i.imgur.com/dkm0CWx.png?1)
+* Iron Bars, Shulker Shells, Ender Ingot, Nether Ingot, Crystal Composite
