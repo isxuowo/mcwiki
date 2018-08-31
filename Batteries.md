@@ -6,8 +6,7 @@ Batteries keep their energy when broken with a wrench, so feel free to move them
 
 | | Capacity | Transfer Rate | Transfer Range | Recipe |
 |-|----------|---------------|----------------|--------|
-| Tier 1 Battery | 100,000 kJ | 100 kW | 12 Blocks | ![T1 Battery Recipe](https://i.imgur.com/vtMOOKV.png?1)
- * White Wool, Copper Ingots, Redstone Dust, Tier 1 Frame |
+| Tier 1 Battery | 100,000 kJ | 100 kW | 12 Blocks | ![T1 Battery Recipe](https://i.imgur.com/vtMOOKV.png?1) * White Wool, Copper Ingots, Redstone Dust, Tier 1 Frame |
 | Tier 2 Battery | 350,000 kJ | 400 kW | 16 Blocks | ![T2 Battery Recipe](https://i.imgur.com/YQG8hwq.png?1) |
 | Tier 3 Battery | 1,000,000_kJ | 1000 kW | 24 Blocks | ![T3 Battery Recipe](https://i.imgur.com/8I7kpqo.png?1) |
 | Quantum Battery | 500,000 kJ | 1000 kW | 16 Blocks* | ![Q Battery Recipe](https://i.imgur.com/Xn5VtfU.png?1) |
