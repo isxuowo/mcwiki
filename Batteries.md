@@ -7,8 +7,8 @@ Batteries keep their energy when broken with a wrench, so feel free to move them
 | | Capacity | Transfer Rate | Transfer Range | Recipe | Ingrediants |
 |-|----------|---------------|----------------|--------|--------|
 | Tier 1 Battery | 100,000 kJ | 100 kW | 12 Blocks | ![T1 Battery Recipe](https://i.imgur.com/vtMOOKV.png?1) | White Wool, Copper Ingots, Redstone, T1 Frame |
-| Tier 2 Battery | 350,000 kJ | 400 kW | 16 Blocks | ![T2 Battery Recipe](https://i.imgur.com/YQG8hwq.png?1) | Gray Wool |
-| Tier 3 Battery | 1,000,000_kJ | 1000 kW | 24 Blocks | ![T3 Battery Recipe](https://i.imgur.com/8I7kpqo.png?1) | Purple Wool |
-| Quantum Battery | 500,000 kJ | 1000 kW | 16 Blocks* | ![Q Battery Recipe](https://i.imgur.com/Xn5VtfU.png?1) | Black Wool |
+| Tier 2 Battery | 350,000 kJ | 400 kW | 16 Blocks | ![T2 Battery Recipe](https://i.imgur.com/YQG8hwq.png?1) | Gray Wool, Conductive Ingots, T2 Frame |
+| Tier 3 Battery | 1,000,000_kJ | 1000 kW | 24 Blocks | ![T3 Battery Recipe](https://i.imgur.com/8I7kpqo.png?1) | Purple Wool, Super Conductive Ingots, Nether Ingots, T3 Frame |
+| Quantum Battery | 500,000 kJ | 1000 kW | 16 Blocks* | ![Q Battery Recipe](https://i.imgur.com/Xn5VtfU.png?1) | Black Wool, Super Conductive Ingots, Ender Ingots, T3 Frame |
 
 *The Quantum Battery is special in that, like an Ender Chest, it shares its power across all other Quantum Batteries (set to the same grid id). This works over any distance and across dimensions, meaning a Quantum Battery can be used to transfer power over any range.
