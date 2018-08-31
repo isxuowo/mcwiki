@@ -7,3 +7,4 @@ When Upgraded: This device currently does not have an upgraded version (ideas?).
 Recipe:
 
 ![Disenchanter Recipe](https://i.imgur.com/lNLlnlD.png?1)
+* Obsidian, Books, Crystal Composite, Super Conductive Ingots, T3 Frame.
