@@ -7,3 +7,4 @@ When Upgraded: Increases speed to 1 second per item.
 Recipe:
 
 ![Electric Furnace Recipe](https://i.imgur.com/U1zAVpH.png?1)
+* Iron Ingots, Copper Ingots, Redstone, Furnace, T1 Frame
