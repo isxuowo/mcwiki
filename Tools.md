@@ -7,6 +7,7 @@ The Machine Wrench is a very important tool that every person will need at their
 Recipe:
 
 ![Wrench Recipe](https://i.imgur.com/tnmc9lZ.png?1)
+* Iron Ingots and Diamond
 
 ### Multimeter
 
@@ -15,3 +16,4 @@ The Multimeter is a great tool for checking up on your energy grid. Right clicki
 Recipe:
 
 ![Multimeter Recipe](https://i.imgur.com/PcULkc2.png?1)
+* Gold Ingots, Iron Ingots, Redstone Dust, Glass
