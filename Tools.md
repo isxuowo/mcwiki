@@ -7,7 +7,7 @@ The Machine Wrench is a very important tool that every person will need at their
 Recipe:
 
 ![Wrench Recipe](https://i.imgur.com/tnmc9lZ.png?1)
-* Iron Ingots and Diamond
+* Iron Ingots, Diamond
 
 ### Multimeter
 
