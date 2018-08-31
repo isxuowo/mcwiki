@@ -7,3 +7,4 @@ When Upgraded: Increases area to a 12 block radius.
 Recipe:
 
 ![Mob Grinder Recipe](https://i.imgur.com/vrAe8ro.png?1)
+* Conductive Ingots, Wither Skulls, Diamond Swords, T2 Frame
