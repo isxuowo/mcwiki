@@ -56,4 +56,4 @@ When Upgraded: Increases fuel efficiency by 50%.
 Recipe:
 
 ![Ender Generator Recipe](https://i.imgur.com/k6A4qKf.png?1)
-* Purpur Blocks, Super Conductive Ingots, Ender Ingot, T3 Frame
+* Purpur Blocks, Super Conductive Ingots, Ender Ingot, T3 Frame, Furnace
