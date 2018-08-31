@@ -7,3 +7,4 @@ When Upgraded: Can cut down 2x2 trees.
 Recipe:
 
 ![Tree Feller Recipe](https://i.imgur.com/HF5I3BC.png?1)
+* Oak Wood, Spruce Wood, Birch Wood, Copper Ingots, Diamond Axes, T1 Frame
