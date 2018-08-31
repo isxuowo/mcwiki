@@ -10,3 +10,4 @@ The Energy Relay is a powerful device enabling extensive customization of an ene
 Recipe:
 
 ![Energy Relay Recipe](https://i.imgur.com/k0sNy6D.png?1)
+* Crystal Composite, Conductive Ingots, T2 Frame, Gray Wool
