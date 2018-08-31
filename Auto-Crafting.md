@@ -68,5 +68,6 @@ Creates variants of stone type blocks.
 The dye machine acts a bit differently. It has 2 slots. A dye goes in the top slot, and a dye-able block (list bellow) goes in the bottom slot. The machine will then dye that block, in batches of 8.
 
 ![Dye Machine Recipe](https://i.imgur.com/DgO0V8N.png?1)
+* Lapis, Red Dye, Yellow Dye, Green Dye, Ink Sacs, Conductive Ingots, T2 Frame
 
 Can Handle: Wool, Glass, Terracotta, Glazed Terracotta, Concrete, and Concrete Powder
