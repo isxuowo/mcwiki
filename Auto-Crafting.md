@@ -46,6 +46,7 @@ Same as the compressor, but in reverse. So 1 iron block give 9 iron ingots.
 Creates variants of stone type blocks.
 
 ![Stone Cutter](https://i.imgur.com/0rkLHNI.png?1)
+* Chiseled Stone Bricks, Crafting Table, Iron Pickaxe, Conductive Ingots, T2 Frame
 
 | Input | Output |
 |-------|--------|
