@@ -7,3 +7,4 @@ When Upgraded: Allows the Chunk Loader to load chunks in the Nether and the End.
 Recipe:
 
 ![Chunk Loader Recipe](https://i.imgur.com/dNEVz9y.png?1)
+* Ender Ingots, Super Conductive Ingots, Crystal Composite, T3 Frame
