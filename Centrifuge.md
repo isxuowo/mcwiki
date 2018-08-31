@@ -7,3 +7,4 @@ When Upgraded: Currently does not have any upgrade effects (ideas?).
 Recipe:
 
 ![Centrifuge Recipe](https://i.imgur.com/URdaTi0.png?1)
+* Red Nether Brick, Yellow Dye, Conductive Ingots, T2 Frame
