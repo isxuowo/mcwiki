@@ -7,6 +7,7 @@ When Upgraded: Halves processing time.
 Recipe:
 
 ![Alloy Furnace Recipe](https://i.imgur.com/akRGa7y.png?1)
+* Bricks, Lava Bucket, Copper Ingots, Furnace, T1 Frame
 
 ### Alloy Furnace Recipes:
 
