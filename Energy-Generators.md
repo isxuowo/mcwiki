@@ -43,7 +43,7 @@ When Upgraded: Increases power output by 50%.
 Recipe:
 
 ![Bio Generator Recipe](https://i.imgur.com/Y2CT9Xk.png?1)
-* Nether Brick, Conductive Ingots, Furnace, T2 Frame
+* Nether Brick, Conductive Ingots, Furnace, T2 Frame, Hopper
 
 ## Ender Generator
 
@@ -56,3 +56,4 @@ When Upgraded: Increases fuel efficiency by 50%.
 Recipe:
 
 ![Ender Generator Recipe](https://i.imgur.com/k6A4qKf.png?1)
+* Purpur Blocks, Super Conductive Ingots, Ender Ingot, T3 Frame
