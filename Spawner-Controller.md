@@ -7,3 +7,4 @@ When Upgraded: Halves spawning time and increases max player range to 32 blocks 
 Recipe:
 
 ![Spawner Controller](https://i.imgur.com/dP4yLne.png?1)
+* Wither Skulls, Nether Ingots, Super Conductive Ingots, T3 Frame
