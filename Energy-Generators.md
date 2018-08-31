@@ -9,6 +9,7 @@ When Upgraded: Increases power output by 50%.
 Recipe: 
 
 ![Furnace Generator Recipe](https://i.imgur.com/UdwHftl.png?1)
+* White Terracotta, Water Bucket, Furnace, Copper Ingots, T1 Frame
 
 ## Solar/Lunar Panel
 
