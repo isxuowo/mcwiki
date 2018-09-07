@@ -2,7 +2,6 @@ This is the official todo page for Mechanization. Ideas denoted with a '?' are p
 
 Base Module:
 * Switch to normal recipes when functionality is introduced
-* In-Game Documentation of Recipes
 
 Age Of Machines
 * ? Block Placer
