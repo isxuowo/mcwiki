@@ -13,7 +13,6 @@ Nuclear Ascention:
 * Particle Accelerators
 
 Gadgets:
-* More armor/tools options
 * ? Transportation Tubes (TE viaduct)
 
 Assembly Line:
@@ -31,6 +30,10 @@ New Module: Genetics
 * Use genes to create new plants, mobs, and even enhance your own DNA
 * Use genes to improve existing plants
 
+New Module: Space
+* Like Galacticraft, but different
+* May be a separate data pack, to be determined
+
 New Module: Mechanized Warfare
 * Transport vehicles
 * Tanks
@@ -40,7 +43,3 @@ New Module: Mechanized Warfare
 * ICBMs
 * Base Defences: Turrets, Tesla Coil, etc.
 * ?Force Field
-
-New Module: Space
-* Like Galacticraft, but different
-* May be a separate data pack, to be determined
