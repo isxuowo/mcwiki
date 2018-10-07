@@ -1,5 +1,7 @@
 ![Teleporter](https://i.imgur.com/DOMH72D.png?1)
 
+* Gray Concrete, crystal composite, super conductive ingots, ender ingots, T3 Frame
+
 The Teleporter will teleport you to another random Teleporter in the same dimension set to the same grid id. Note that the target Teleporter must be chunk loaded. Uses 1024 kJ/teleport.
 
 When Upgraded: Allows teleporting across dimensions.
