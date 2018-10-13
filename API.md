@@ -29,7 +29,7 @@ It is recommended to use built-in portable energy items (like Gadget's Portable 
 There are several event hooks built into mechanization. These are run using a function tag. To extend the event, in your datapack create the folder data/mechanization/tags/functions/[function] and add your functions in that tag (make sure to extend, not overwrite!).
 
 ### Tools
-* machine_crafter: runs at a machine crafter that has items in it. Used to create custom recipes.
+* machine_crafter: Depreciated, use DU crafter.
 * wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break machines.
 * wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
 * multimeter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
