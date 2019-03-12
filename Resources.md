@@ -8,10 +8,6 @@
 | Tin | Uncommon | Y-20 to Y-44 |
 | Titanium | Very Rare | Y-1 to Y-16 |
 
-Refining Recipe (applies to copper, tin, and titanium):
-
-![Ore Refining](https://i.imgur.com/BF4T1sE.png?1)
-
 ## Machine Frames
 
 ![Machine Frames](https://i.imgur.com/y9EKkjY.png?1)
