@@ -16,11 +16,7 @@ Gadgets:
 * ? Transportation Tubes (TE viaduct)
 
 Assembly Line:
-* Routers
-* ?Infinite Range Item Transport
-
-New Module: Warehouse
-* Storage. Lots of storage. Maybe some automation too.
+* ME System?
 
 New Module: Rail Stuffs
 * Improved Rails, like Railcraft
