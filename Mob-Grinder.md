@@ -1,10 +1,13 @@
 ![Mob Grinder](https://i.imgur.com/vz9FL1s.png?1)
 
-The Mob Grinder will kill any non-boss mob in a 9 block radius. Uses 48 kW.
+The Mob Grinder will kill any non-boss mob in a 5 block radius. Uses 48 kW.
 
-When Upgraded: Increases area to a 12 block radius.
+```
+Machine Upgrade: Collects drops and places them on top of the Mob Grinder.
+Ender Upgrade: Increases range to 9 blocks
+Nether Upgrade: x2 Drop rate, decreases range to 2 blocks
+```
 
 Recipe:
 
-![Mob Grinder Recipe](https://i.imgur.com/vrAe8ro.png?1)
-* Conductive Ingots, Wither Skulls, Diamond Swords, T2 Frame
+![Imgur](https://i.imgur.com/iG5ZJjS.png)
