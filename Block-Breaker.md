@@ -1,10 +1,13 @@
 ![Block Breaker](https://i.imgur.com/PL8gmto.png?1)
 
-The block breaker is a unique machine, in that it is not technically a block. Instead, is serves as a "null chamber," where any block pushed in will break, dropping itself as an item. Uses 24 kW.
+The block breaker is a unique machine, in that it is not technically a block. Instead, is serves as a "null chamber," where any block pushed in will break, dropping itself as an item. Uses 24 kJ/Block.
 
-When Upgraded: This machine cannot be upgraded.
+```
+Machine Upgrade: Can break hard blocks (ie. obsidian)
+Ender Upgrade: Breaks blocks with silk touch
+Nether Upgrade: increase area of effect to a 3x3x3 cube
+```
 
 Recipe:
 
-![Block Breaker Recipe](https://i.imgur.com/yYccgoi.png?1)
-* Copper Ingots, Golden Tools, T1 Frame
+![Imgur](https://i.imgur.com/292LWvZ.png)
