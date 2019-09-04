@@ -2,23 +2,29 @@
 
 The alloy furnace is an important machine for anyone who wants to progress in Mechanization. It combines various resources into alloys and other materials that can be used to create higher- tier machines. Uses 32 kW.
 
-When Upgraded: Halves processing time.
+```
+Machine Upgrade: Enables creating Tier 3 Alloys
+Ender Upgrade: Currently no effect
+Nether Upgrade: Currently no effect
+```
 
 Recipe:
 
-![Alloy Furnace Recipe](https://i.imgur.com/akRGa7y.png?1)
-* Bricks, Lava Bucket, Copper Ingots, Furnace, T1 Frame
+![Imgur](https://i.imgur.com/XKKHe8U.png)
 
 ### Alloy Furnace Recipes:
 
-| Alloy | Recipe |
-|-------|--------|
-| Steel Ingot | ![steel ingot](https://i.imgur.com/REqPO9c.png?1) |
-| Structural Ingot | ![structural ingot](https://i.imgur.com/f5ToUew.png?1) |
-| Conductive Ingot | ![conductive ingot](https://i.imgur.com/N7uy2ZT.png?1) |
-| Titanium Steel Ingot | ![titanium steel ingot](https://i.imgur.com/S4PsLvz.png?1) |
-| Reinforced Structural Ingot | ![reinforced structural ingot](https://i.imgur.com/K5n3TZs.png?1) |
-| Super Conductive Ingot | ![super conductive ingot](https://i.imgur.com/zgmbQm3.png?1) |
-| Crystal Composite | ![crystal composite](https://i.imgur.com/ClJqsuf.png?1) |
-| Nether Ingot | ![nether ingot](https://i.imgur.com/H4NWQlm.png) |
-| Ender Ingot | ![ender ingot](https://i.imgur.com/np1FAgR.png?1) |
+| Tier 2 Alloy | Recipe |
+|--------------|--------|
+| Steel Ingot | ![Imgur](https://i.imgur.com/fmo3QLD.png)
+| Structural Ingot | ![Imgur](https://i.imgur.com/AhlicGa.png)
+| Conductive Ingot | ![Imgur](https://i.imgur.com/EYvyvlW.png)
+| Crystal Composite | ![Imgur](https://i.imgur.com/bQvHiqS.png)
+
+| Tier 3 Alloy | Recipe |
+|--------------|--------|
+| Titanium Steel Ingot | ![Imgur](https://i.imgur.com/cihR0eE.png)
+| Reinforced Structural Ingot | ![Imgur](https://i.imgur.com/TZCSzdm.png)
+| Super Conductive Ingot | ![Imgur](https://i.imgur.com/2tSOXK7.png)
+| Nether Ingot | ![Imgur](https://i.imgur.com/24eM9Oc.png)
+| Ender Ingot | ![Imgur](https://i.imgur.com/OqG8g4z.png)
