@@ -6,8 +6,7 @@ Auto-Crafting in Mechanization: Assembly is not a 1:1 auto crafter. Instead, the
 
 Handles most 2x2 and 3x3 -> single item recipes, ie. 9 iron ingots -> 1 iron block.
 
-![Compressor Recipe](https://i.imgur.com/QazEL52.png?1)
-* Pistons, Crafting Table, Iron Block, Conductive Ingots, T2 Frame
+![Imgur](https://i.imgur.com/2mu9R6p.png)
 
 | Input | Output |
 |-------|--------|
@@ -38,15 +37,13 @@ Handles most 2x2 and 3x3 -> single item recipes, ie. 9 iron ingots -> 1 iron blo
 
 Same as the compressor, but in reverse. So 1 iron block give 9 iron ingots.
 
-![Decompressor](https://i.imgur.com/pECyUn7.png?1)
-* Pistons, Crafting Table, Iron Ingots, Conductive Ingots, T2 Frame
+![Imgur](https://i.imgur.com/6Ai9FqS.png)
 
 ## Stone Cutter
 
 Creates variants of stone type blocks.
 
-![Stone Cutter](https://i.imgur.com/0rkLHNI.png?1)
-* Chiseled Stone Bricks, Crafting Table, Iron Pickaxe, Conductive Ingots, T2 Frame
+![Imgur](https://i.imgur.com/N6Uxt3K.png)
 
 | Input | Output |
 |-------|--------|
@@ -67,7 +64,6 @@ Creates variants of stone type blocks.
 
 The dye machine acts a bit differently. It has 2 slots. A dye goes in the top slot, and a dye-able block (list bellow) goes in the bottom slot. The machine will then dye that block, in batches of 8.
 
-![Dye Machine Recipe](https://i.imgur.com/DgO0V8N.png?1)
-* Lapis, Red Dye, Yellow Dye, Green Dye, Ink Sacs, Conductive Ingots, T2 Frame
+![Imgur](https://i.imgur.com/1dSwjTn.png)
 
 Can Handle: Wool, Glass, Terracotta, Glazed Terracotta, Concrete, and Concrete Powder
