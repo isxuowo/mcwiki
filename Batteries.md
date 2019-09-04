@@ -1,8 +1,10 @@
 ![Batteries](https://i.imgur.com/pGe7hni.png?1)
-```
+
 Batteries are the core of the energy grid system, serving not only as a way to store energy, but also as the energy transmitters. The energy system in Mechanization is completely wireless, with batteries serving as the relay between generators and machines. As such, a battery is required to get started in Mechanization. There are currently 3 tiers of batteries, with an extra Quantum Battery.
+
 Batteries keep their energy when broken with a wrench, so feel free to move them around!
 
+```
 Machine Upgrade: +25% Transfer Rate, +25% Capacity
 Ender Upgrade: +100% Transfer Rate
 Nether Upgrade: +100% Capacity
