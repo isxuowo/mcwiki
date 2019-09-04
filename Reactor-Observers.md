@@ -4,10 +4,8 @@ An optional part of the Fission Reactor multiblock. Reactor Observers output a c
 
 Tempurature Observer Recipe:
 
-![Temp Observer Recipe](https://i.imgur.com/z2GWLNI.png?1)
-* Steel Ingots, Observer, Magma Cream
+![Imgur](https://i.imgur.com/4AGcxxi.png)
 
 Reaction Rate Observer Recipe:
 
-![Rate Observer Recipe](https://i.imgur.com/Wy6Tivs.png?1)
-* Steel Ingots, Observer, Clock
+![Imgur](https://i.imgur.com/33mme95.png)
