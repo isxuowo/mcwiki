@@ -6,4 +6,4 @@ Used as fuel in fission reactors.
 
 Recipe:
 
-`[Imgur](https://i.imgur.com/zzst9nY.png)
+![Imgur](https://i.imgur.com/zzst9nY.png)
