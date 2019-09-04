@@ -8,6 +8,6 @@ Ender Upgrade: Can teleport *to* the End
 Nether Upgrade Can teleport *to* the Nether
 ```
 
-Recipe:
+Recipe: (gray concrete)
 
 ![Imgur](https://i.imgur.com/4bjq9hr.png)
