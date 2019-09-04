@@ -9,15 +9,16 @@
 ### Base Module
 ***
 * [Getting Started](https://github.com/ImCoolYeah105/Mechanization/wiki/Getting-Started)
+* [Ore Generation](https://github.com/ImCoolYeah105/Mechanization/wiki/Ore-Generation)
 * [Tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Tools)
 * [Machine Crafting Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Crafting-Table)
+* [Machine Frames](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Frames)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
 * [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
 * [Machine Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Upgrades)
 
 ### Age of Machines
 ***
-* [Resources](https://github.com/ImCoolYeah105/Mechanization/wiki/Resources)
 * [Energy Generators](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Generators)
 * [Alloy Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Alloy-Furnace)
 * [Electric Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Electric-Furnace)
