@@ -8,6 +8,6 @@ Ender Upgrade: +100% Energy Generation (24 kW)
 Nether Upgrade: +400% Energy Generation (48 kW), x4 Fuel Consumption
 ```
 
-Recipe:
+Recipe: (white terracotta)
 
 ![Imgur](https://i.imgur.com/eQqaF1l.png)
