@@ -1,11 +1,13 @@
 ![Teleporter](https://i.imgur.com/DOMH72D.png?1)
 
-* Gray Concrete, crystal composite, super conductive ingots, ender ingots, T3 Frame
+The Teleporter will teleport you to another random Teleporter in the same dimension set to the same grid id. Teleporter can be named in an anvil for use with the dialing device. Uses 1024 kJ/teleport.
 
-The Teleporter will teleport you to another random Teleporter in the same dimension set to the same grid id. Uses 1024 kJ/teleport.
-
-When Upgraded: Allows teleporting across dimensions.
+```
+Machine Upgrade: Enables dialing device to select destination.
+Ender Upgrade: Can teleport *to* the End
+Nether Upgrade Can teleport *to* the Nether
+```
 
 Recipe:
 
-![Teleporter Recipe](https://i.imgur.com/z3rtn2u.png?1)
+![Imgur](https://i.imgur.com/4bjq9hr.png)
