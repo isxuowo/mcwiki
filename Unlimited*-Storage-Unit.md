@@ -6,5 +6,4 @@ The Unlimited* Storage unit can hold a large amount of a single item type. The d
 
 Recipe:
 
-![recipe](https://i.imgur.com/JQ6Toiu.png?1)
-* Chests, Ender Chest, Hopper, T2 Frame
+![Imgur](https://i.imgur.com/vdOfxG9.png)
