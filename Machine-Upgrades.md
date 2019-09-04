@@ -7,7 +7,7 @@ Some machines are not affected by upgrades.
 Recipes:
 
 Machine Upgrade:
-![Machine Upgrade Recipe](https://imgur.com/fXB708d
+![Machine Upgrade Recipe](https://imgur.com/fXB708d)
 
 Ender Upgrade:
 ![Ender Upgrade Recipe](https://imgur.com/imgR3m5)
