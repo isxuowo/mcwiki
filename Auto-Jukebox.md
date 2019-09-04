@@ -4,5 +4,4 @@ The Auto Jukebox will randomly select a record to be played from its inventory w
 
 Recipe:
 
-![Auto Jukebox Recipe](https://i.imgur.com/ac1u7mv.png?1)
-* Steel Ingots, Crystal Composite
+![Imgur](https://i.imgur.com/6zRwOkS.png)
