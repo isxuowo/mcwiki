@@ -19,7 +19,10 @@
 
 ### Age of Machines
 ***
-* [Energy Generators](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Generators)
+* [Furnace Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Furnace-Generator)
+* [Solar Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Solar-Generator)
+* [Bio Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Bio-Generator)
+* [Dimensional Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Dimensional-Generator)
 * [Alloy Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Alloy-Furnace)
 * [Electric Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Electric-Furnace)
 * [Block Breaker](https://github.com/ImCoolYeah105/Mechanization/wiki/Block-Breaker)
