@@ -4,7 +4,7 @@ Machine Upgrades generally improve power an efficiency by a bit. Ender Upgrades 
 
 Some machines are not affected by upgrades.
 
-Recipes | Test
+Recipes | 
 ----|----
 Machine Upgrade: | ![Machine Upgrade Recipe](https://i.imgur.com/c1mrLQ3.png)
 Ender Upgrade: | ![Ender Upgrade Recipe](https://i.imgur.com/imgR3m5.png)
