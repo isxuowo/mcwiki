@@ -4,7 +4,7 @@ The tinker table allows for custom enhancements to be put onto special items (se
 
 Recipe:
 
-![Tinker Table Recipe](https://i.imgur.com/bDactup.png?1)
+![Imgur](https://i.imgur.com/xUsUJCu.png)
 
 # Base Upgrade:
 
