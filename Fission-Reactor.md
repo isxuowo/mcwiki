@@ -4,8 +4,7 @@ The Fission Reactor is the core of the Fission Reactor multiblock, converting nu
 
 Recipe:
 
-![Fission Reactor Recipe](https://i.imgur.com/WLlB6sm.png?1)
-* Steel Ingots, Uranium Ingots, Black Glass, T2 Frame
+![Imgur](https://i.imgur.com/Ez9XApy.png)
 
 ## An Introduction to Mechanization Nuclear Physics
 
