@@ -4,5 +4,5 @@ The Machine Crafting Table is a custom crafting table used to make the machines 
 
 Recipe:
 
-![Machine Crafting Table Recipe](https://i.imgur.com/7wKOOzo.png?1)
-* Made in a vanilla crafting table. Output looks like an anvil.
+![Imgur](https://i.imgur.com/UGB0qmh.png)
+* Made in a vanilla crafting table. Output looks like an anvil, but will be replaced with the Machine Crafter.
