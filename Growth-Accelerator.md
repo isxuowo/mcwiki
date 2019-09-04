@@ -2,9 +2,12 @@
 
 The Growth Accelerator will speed up the growth rate of any crop planted on farmland placed on top of the Growth Accelerator. Uses 16 kW.
 
-When Upgraded: Further increases the growth speed of some crops, and allows the Growth Accelerator to speed up Nether Wart, Beet Roots, and Cocoa Beans.
+```
+Machine Upgrade: Enables speeding up Nether Wart, Beet Roots, and Cocoa Beans
+Ender Upgrade: Accelerates a 3x3 area
+Nether Upgrade: Instantly grows crop
+```
 
 Recipe:
 
-![Growth Accelerator](https://i.imgur.com/EQnw2Dl.png?1)
-* Bone Blocks, Dirt, Conductive Ingots, T1 Frame
+![Imgur](https://i.imgur.com/ws8uJv1.png)
