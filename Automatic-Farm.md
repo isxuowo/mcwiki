@@ -1,10 +1,13 @@
 ![Auto Farm](https://i.imgur.com/0GLseOH.png?1)
 
-The Auto Farm will automatically harvest and replant all crops in a 7x7 area around it, dropping the harvested items on top of itself. Uses 48 kW.
+The Auto Farm will automatically harvest and replant all crops in a 7x7 area around it. Uses 48 kW.
 
-When Upgraded: Expands area to 9x9.
+```
+Machine Upgrade: Collects harvested plants and drops them on top of the farm
+Ender Upgrade: Increases area to 9x9
+Nether Upgrade: Increases area to 9x9
+```
 
 Recipe:
 
-![Auto Farm Recipe](https://i.imgur.com/XRYqQ5Y.png?1)
-* Conductive Ingots, Diamond Shovel, Diamond Hoes, Hopper, T2 Frame
+![Imgur](https://i.imgur.com/ZENJEpy.png)
