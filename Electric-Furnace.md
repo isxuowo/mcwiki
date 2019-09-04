@@ -1,10 +1,12 @@
 ![Electric Furnace](https://i.imgur.com/R1cHh3m.png?1)
 
-The Electric Furnace is very similar to a normal furnace, accept that it runs on power and smelts 25% faster.
+The Electric Furnace is very similar to a normal furnace, accept that it runs on power. Uses 20 kW.
 
-When Upgraded: Increases speed to 1 second per item.
+```
+Machine Upgrade: -25% Smelt Time (7.5 Seconds)
+Ender Upgrade: -50% Smelt Time (5 Seconds)
+Nether Upgrade: -90% Smelt Time (1 Second), x10 Power Consumption (200 kW) 
 
 Recipe:
 
-![Electric Furnace Recipe](https://i.imgur.com/U1zAVpH.png?1)
-* Iron Ingots, Copper Ingots, Redstone, Furnace, T1 Frame
+![Imgur](https://i.imgur.com/ULQdjkW.png)
