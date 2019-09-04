@@ -7,10 +7,10 @@ Some machines are not affected by upgrades.
 Recipes:
 
 Machine Upgrade:
-![Machine Upgrade Recipe](https://imgur.com/fXB708d)
+![Machine Upgrade Recipe](https://i.imgur.com/c1mrLQ3.png)
 
 Ender Upgrade:
-![Ender Upgrade Recipe](https://imgur.com/imgR3m5)
+![Ender Upgrade Recipe](https://i.imgur.com/imgR3m5.png)
 
 Nether Upgrade:
-![Nether Upgrade Recipe](https://imgur.com/c1mrLQ3)
+![Nether Upgrade Recipe](https://i.imgur.com/fXB708d.png)
