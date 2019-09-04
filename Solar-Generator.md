@@ -4,7 +4,7 @@ The solar panel generates 1-10 kW based on the position of the sun. Additionally
 
 ```
 Machine Upgrade: +100% Energy Generation (2-20 kW)
-Ender Upgrade: Increases generation in low-light conditions
+Ender Upgrade: Increased generation in low-light conditions
 Nether Upgrade: +400% Energy Generation (40 kW) during mid-day, no generation any other time
 ```
 
