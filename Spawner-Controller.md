@@ -2,9 +2,12 @@
 
 The Spawner Controller can be attached to a vanilla spawner, which decreases the amount of time needed to spawn mobs and makes it more consistent. Uses 64 kW.
 
-When Upgraded: Halves spawning time and increases max player range to 32 blocks (from the vanilla 16).
+```
+Machine Upgrade: x2 Spawning Speed
+Ender Upgrade: x2 Minimum player range
+Nether Upgrade: x4 Spawning Speed
+```
 
 Recipe:
 
-![Spawner Controller](https://i.imgur.com/dP4yLne.png?1)
-* Wither Skulls, Nether Ingots, Super Conductive Ingots, T3 Frame
+![Imgur](https://i.imgur.com/COy4ADX.png)
