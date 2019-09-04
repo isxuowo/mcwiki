@@ -1,10 +1,11 @@
 ![Disenchanter](https://i.imgur.com/9yapm0I.png?1)
 
-The Disenchanter will remove all enchants off of an item and turn them into books. Destroys the item in the process. Uses 2048 kW/operation.
+The Disenchanter will remove enchants off an item and put it onto a book. Requires lapis to operation. Uses 2048 kW/Operation.
 
-When Upgraded: This device currently does not have an upgraded version (ideas?).
+```
+Machine Upgrade: Currently no effect
+```
 
 Recipe:
 
 ![Disenchanter Recipe](https://i.imgur.com/lNLlnlD.png?1)
-* Obsidian, Books, Crystal Composite, Super Conductive Ingots, T3 Frame.
