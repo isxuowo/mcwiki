@@ -8,4 +8,4 @@ Machine Upgrade: Currently no effect
 
 Recipe:
 
-![Disenchanter Recipe](https://i.imgur.com/lNLlnlD.png?1)
+![Imgur](https://i.imgur.com/NCB9hrV.png)
