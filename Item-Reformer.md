@@ -2,11 +2,12 @@
 
 The Item Reformer will repair any item placed inside. Uses 128 kW.
 
-When Upgraded: Repairs twice as fast.
+```
+Machine Upgrade: Repairs twice as fast, x2 Power Consumption
+Ender Upgrade: Currently no effect
+Nether Upgrade: Currently no effect
+```
 
-Recipe:
+Recipe: (the enchanted book is a mending book)
 
-*Note: the enchanted book is a mending book.
-
-![Item Reformer Recipe](https://i.imgur.com/4qSgb45.png?1)
-* Bottles O' Enchanting, Mending Enchanted Book, Conductive Ingots, Crystal Composite, T2 Frame
+![Imgur](https://i.imgur.com/8S8dCrd.png)
