@@ -6,4 +6,4 @@ Keeps its stores xp when broken with a wrench, so feel free to move it around!
 
 Recipe:
 
-![XP Tank Recipe](https://i.imgur.com/rXyq9rl.png?1)
+![Imgur](https://i.imgur.com/ThU4Gng.png)
