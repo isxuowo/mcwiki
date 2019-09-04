@@ -6,4 +6,4 @@ When Upgraded: Doubles charge rate.
 
 Recipe:
 
-![Charging Station Recipe](https://i.imgur.com/UzCP23e.png?1)
+![Imgur](https://i.imgur.com/vQVw0DP.png)
