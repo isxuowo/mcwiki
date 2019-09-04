@@ -2,9 +2,12 @@
 
 When placed in a 5x5x5 pool of water, the Auto Fisher will automatically catch fish and other goodies. Drops the items underneath itself. Uses 48 kW.
 
-When Upgraded: Fishes twice as fast.
+```
+Machine Upgrade: Requires 5 less water blocks to function
+Ender Upgrade: Fishing with Luck of the Sea 3
+Nether Upgrade: x2 Drop rate, 50% Power Consumption (72 kW)
+```
 
 Recipe:
 
-![Auto Fisher Recipe](https://i.imgur.com/t0JJh1K.png?1)
-* String, Fishing Rods, Conductive Ingots, T2 Frame
+![Imgur](https://i.imgur.com/b8wB11V.png)
