@@ -1,10 +1,13 @@
 ![Grinder](https://i.imgur.com/OGP564l.png?1)
 
-The Grinder can process various materials to increase their yield. Ores convert to 2 ingots, and Wood Logs convert to 6 planks. Can also process certain mob drops such as blaze rods and bones. Uses: 60 kW.
+The Grinder can process various materials into alternative forms, including ores and ingots -> dust, logs -> planks, blaze rods -> blaze powder, bones -> bonemeal, cobblestone -> sand, stone -> gravel, gravel -> flint. Uses: 60 kW.
 
-When Upgraded: Increases output by about 50%.
+```
+Machine Upgrade: x2 Production (ie. 2 dusts per ore)
+Ender Upgrade: x3 Production
+Nether Upgrade: Alternative Output, usually smelting the item (ie. ores -> ingots)
+```
 
 Recipe:
 
-![Grinder Recipe](https://i.imgur.com/nzwZVeM.png?1)
-* Obsidian, Crystal Composite, Conductive Ingots, T2 Frame
+![Imgur](https://i.imgur.com/lq75nRj.png)
