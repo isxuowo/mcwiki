@@ -4,5 +4,4 @@ Optional part of the Fission Reactor Multiblock. When placed directly underneath
 
 Recipe:
 
-![Control Rod Recipe](https://i.imgur.com/HyBuNJf.png?1)
-* Steel Ingots, Coal Block
+![Imgur](https://i.imgur.com/D9fXl5l.png)
