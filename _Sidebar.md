@@ -13,7 +13,7 @@
 * [Machine Crafting Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Crafting-Table)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
 * [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
-* [Machine Upgrade](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Upgrade)
+* [Machine Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Upgrades)
 
 ### Age of Machines
 ***
