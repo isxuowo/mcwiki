@@ -6,6 +6,7 @@ The Electric Furnace is very similar to a normal furnace, accept that it runs on
 Machine Upgrade: -25% Smelt Time (7.5 Seconds)
 Ender Upgrade: -50% Smelt Time (5 Seconds)
 Nether Upgrade: -90% Smelt Time (1 Second), x10 Power Consumption (200 kW) 
+```
 
 Recipe:
 
