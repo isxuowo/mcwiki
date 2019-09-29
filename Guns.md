@@ -64,18 +64,6 @@ Recipes:
 
 Gun Attachments are added to the guns in the Tinker Table. Each one has various effects on the weapon's stats.
 
-#### Red Dot Sight
-
-Equips a Red Dot sight on the gun. Much nicer than iron sights when using ADS. Not equipable on the sniper.
-
-![Red Dot Sight Recipe](https://i.imgur.com/lh30zDT.png?1)
-
-#### Scope
-
-Equips a scope on the gun. Much nicer than iron sights when using ADS. Only equipable on the rifle and the sniper.
-
-![Scope Recipe](https://i.imgur.com/gxkzHut.png?1)
-
 #### Vertical Grip
 
 Reduces vertical recoil.
