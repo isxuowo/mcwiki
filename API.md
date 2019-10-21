@@ -11,7 +11,7 @@ Mechanization's primary feature is the energy grid. To create a device that inte
 
 Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value. Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption.
 
-To create a new battery that can send and receive power, run the following code segment both `as` and `at` an entity withe th:
+To create a new battery that can send and receive power, summon an entity with the tag `mech_power_storage`. Then, run the following code segment both `as` and `at` an entity:
 ```
 scoreboard players set in_0 mech_data <max transfer speed>
 scoreboard players set in_1 mech_data <max machine buffer capacity>
@@ -41,7 +41,9 @@ There are several event hooks built into mechanization. These are run using a fu
 * multimeter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
 
 ### Machines
-* mech_upgraded: Scoreboard tag added to machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
+* mech_upgraded: Tag added to a machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
+* mech_ender_upgrade: Tag added to a machine when an ender upgrade is applied. Machines require a machine upgrade to already be installed to add an ender upgrade (machine will have this tag AND mech_upgraded). This upgrade is exclusive to Nether Upgrades, so only 1 of the 2 can be added. Ender upgrades typically increase operating efficiency.
+* mech_nether_upgrade: Tag added to a machine when an nether upgrade is applied. Machines require a machine upgrade to already be installed to add an nether upgrade (machine will have this tag AND mech_upgraded). This upgrade is exclusive to Ender Upgrade, so only 1 of the 2 can be added. Nether upgrades typically increase speed or power, but at a cost.
 
 # Scoreboard Information
 ***
