@@ -11,10 +11,11 @@ Mechanization's primary feature is the energy grid. To create a device that inte
 
 Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value. Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption.
 
-To create a new battery that can send and receive power, use the following code segment:
+To create a new battery that can send and receive power, run the following code segment both `as` and `at` an entity withe th:
 ```
 scoreboard players set in_0 mech_data <max transfer speed>
 scoreboard players set in_1 mech_data <max machine buffer capacity>
+scoreboard players set in_2 mech_data <max battery capacity>
 scoreboard players set in_3 mech_data <Range: 12/16/24>
 function mechanization:base/energy/battery
 ```
