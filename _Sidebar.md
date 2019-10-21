@@ -3,7 +3,7 @@
 * [Overview](https://github.com/ImCoolYeah105/Mechanization/wiki)
 * [Installation](https://github.com/ImCoolYeah105/Mechanization/wiki/Installion)
 * [TODO List](https://github.com/ImCoolYeah105/Mechanization/wiki/Official-TODO-list)
-* [API](https://github.com/ImCoolYeah105/Mechanization/wiki/API)
+* [API- Creating Mech Addons](https://github.com/ImCoolYeah105/Mechanization/wiki/API)
 * [1.12 Archive](https://github.com/ImCoolYeah105/Mechanization/wiki/1.12-Archive)
 
 ### Base Module
