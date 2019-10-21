@@ -1,6 +1,6 @@
 Mechanization is modularized into a set of event calls and scoreboard information. As such, it is very easy to develop add-ons that use Mechanization's features to create a seamless experience. This page documents everything you might find useful in creating an add-on.
 
-*Important notice: The Mechanization API has now been merged with Datapack Utils. Everything that Datapack Utils covers has been cut out of the Mechanization API. Mechanization is pre-packaged with Datapack Utils, so no need to download it seperatly. See the Datapack Utils wiki for more info on its functions.
+Note: Mechanization depends on Datapack Utils for things like crafting, smelting, custom tools and world generation. Since Mech depends on DU, you can use all of its API in your project as well. You can get more information over on its [wiki](https://github.com/ImCoolYeah105/Datapack-Utilities/wiki).
 
 # Energy API
 ***
@@ -11,7 +11,13 @@ Mechanization's primary feature is the energy grid. To create a device that inte
 
 Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value. Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption.
 
-Note: it is not currently possible to create custom batteries without extensive scripting involved.
+To create a new battery that can send and receive power, use the following code segment:
+```
+scoreboard players set in_0 mech_data <max transfer speed>
+scoreboard players set in_1 mech_data <max machine buffer capacity>
+scoreboard players set in_3 mech_data <Range: 12/16/24>
+function mechanization:base/energy/battery
+```
 
 ### Portable Energy
 
