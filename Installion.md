@@ -8,6 +8,6 @@
 8. Enter the world and run /reload. Make sure you get a message in chat saying "[Loaded Mechanization vX.X.X]".
 9. Have Fun!
 
-**Video Tutorial:**
+**(Slightly Outdated) Video Tutorial:**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/41PwOyYp6dI/0.jpg)](https://youtu.be/41PwOyYp6dI)
