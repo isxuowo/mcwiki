@@ -1,6 +1,6 @@
 ![Electric Furnace](https://i.imgur.com/R1cHh3m.png?1)
 
-The Electric Furnace is very similar to a normal furnace, accept that it runs on power. Uses 20 kW.
+The Electric Furnace is very similar to a normal furnace, except that it runs on power. Uses 20 kW.
 
 ```
 Machine Upgrade: -25% Smelt Time (7.5 Seconds)
