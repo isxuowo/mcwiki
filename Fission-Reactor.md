@@ -10,7 +10,9 @@ Recipe:
 
 ![Fission Reactor Multiblock](https://i.imgur.com/Gmf4LQF.png)
 
-The reaction starts in the Fission Reactor block using Nuclear Fuels. Once started, the 'reaction rate' will begin to increase, with the amount of increase based on the type of nuclear fuel (see table). The rate is then multiplied by the fuel grade (how enriched the fuel is from a centrifuge), increasing the reactors 'temperature.' Therefor, the key to managing reactor temperature is to match the fuel grade times the reaction rate with the cooling. If the reactor exceeds 2000 °C, then it will explode! To decrease the reaction rate, use a [control rod](https://github.com/ImCoolYeah105/Mechanization/wiki/Control-Rod).
+The reaction starts in the Fission Reactor block using Nuclear Fuels. Once started, the 'reaction rate' will begin to increase, with the amount of increase based on the type of nuclear fuel (see table). The 'temperature' is then increased/decreased based on the reaction rate and the fuel grade. You can think of 'reaction rate' as the acceleration- the higher it is, the faster the reactor overheats.
+
+The key to managing reactor temperature is to match the fuel grade times the reaction rate with the cooling. If the reactor exceeds 2000 °C, then it will explode! To decrease the reaction rate, use a [control rod](https://github.com/ImCoolYeah105/Mechanization/wiki/Control-Rod).
 
 | Fuel | Rate Increase |
 |------|---------------|
