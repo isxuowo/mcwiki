@@ -15,9 +15,6 @@ Nuclear Ascention:
 Gadgets:
 * ? Transportation Tubes (TE viaduct)
 
-Assembly Line:
-* ME System?
-
 New Module: Rail Stuffs
 * Improved Rails, like Railcraft
 
