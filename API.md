@@ -47,6 +47,8 @@ There are several event hooks built into mechanization. These are run using a fu
 ### Machine Tags
 These are entity tags (ie. `tag add @s mech_no_upgrade`). Some states are tracked using tags.
 
+* mech_transmitter: indicates the devices should send power (ie. is a generator)
+* mech_receiver: indicates the devices should receive power (ie. is a machine)
 * mech_no_upgrade: By default, any device can be upgraded. Adding this tag prevents that from happening.
 * mech_upgraded: Tag added to a machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
 * mech_ender_upgrade: Tag added to a machine when an ender upgrade is applied. Machines require a machine upgrade to already be installed to add an ender upgrade (machine will have this tag AND mech_upgraded). This upgrade is exclusive to Nether Upgrades, so only 1 of the 2 can be added. Ender upgrades typically increase operating efficiency.
