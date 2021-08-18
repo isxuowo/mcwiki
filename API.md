@@ -1,6 +1,10 @@
 Mechanization is modularized into a set of event calls and scoreboard information. As such, it is very easy to develop add-ons that use Mechanization's features to create a seamless experience. This page documents everything you might find useful in creating an add-on.
 
-Note: Mechanization depends on Datapack Utils for things like crafting, smelting, custom tools and world generation. Since Mech depends on DU, you can use all of its API in your project as well. You can get more information over on its [wiki](https://github.com/ImCoolYeah105/Datapack-Utilities/wiki).
+### Important References:
+
+Mechanization depends on Datapack Utils for things like crafting, smelting, custom tools and world generation. Since Mech depends on DU, you can use all of its API in your project as well. You can get more information over on its [wiki](https://github.com/ImCoolYeah105/Datapack-Utilities/wiki).
+
+Mechanization follows (as closely as possible) the conventions specified by the Minecraft Datapacks community, which helps to maintain compatibility between datapacks. You can reference them here: https://mc-datapacks.github.io/en/
 
 # Energy API
 ***
@@ -50,23 +54,18 @@ There are several event hooks built into mechanization. These are run using a fu
 ***
 * mech_data: For math, temp variables and other misc data storage. Also used to store an extra bit of data on machines. Could be anything.
 * mech_power: indicates power level on a machine/generator/battery.
-* mech_x, mech_y, mech_z: used when position or rotation cords need to be stored.
 * mech_gridid: used internally to specify machines' grid ids. You probably shouldn't mess with this.
-* mech_usedid: used internally to indicate what item id an item had when used.
+* mech_usedid: has the Mechanization item ID of whatever the player is holding (if it has an ID), specified by the `mech_itemid:<id>` nbt tag. Very useful for checking what a player is holding instead of using an NBT check.
+* mech_fluid: used to track how much fluid a machine is holding in its tank. Other objectives may be used if the machine has multiple tanks.
 
 # Ore Dictonary
 ***
-The purpose of the ore dictionary is essentially the same as in modded Minecraft- to improve compatibility by having an easy way of identifying certain items in a predictable manner. Generally, this isn't done by interfacing with the API, but rather is done on your own.
+As of v3.0, Mechanization's ore dictonary system as been updated to follow the Minecraft Datapacks community guidelines on Ore Dict. You can reference them here: https://mc-datapacks.github.io/en/conventions/common_trait.html
 
-Adding items to ore dict: inside the tag:{} nbt list, add the following string array tag: OreDict:[]. Then, add any ore dictionary entries to the array. For example, OreDict:["ingotSteel"]. Multiple entries can be specified. Naming conventions should follow the normal conventions for modded Minecraft (why reinvent the wheel).
-
-Using ore dict items in recipes: Just test for the needed ore dict entry in the array, for example in dropper crafting:
-
-    execute if block ~ ~ ~ dropper{Items:[{Slot:0b,Count:1b, tag:{OreDict:["ingotSteel"]} }]}
-
-Following these conventions will allow easy cross-datapack compatibility with recipes, and will simplify recipe creation in the long run.
+The shorthand is Mech now uses the following format:
+`Item.tag.ctc{id:"tin_ingot", from:"mechanization", traits:{ingot:1b, "metal/tin":1b}}`
 
 # Tips
 ***
-* While your free to create any content in an add on if you want, it’s generally better to avoid overlapping content for performance reasons. Check out the Todo page for a list of planned features.
-* Need an API hook or think that something should be added to the API? Please post a suggestion in the issue tracker (but make sure it isn't already on the [todo list](https://github.com/ImCoolYeah105/Mechanization/wiki/Official-TODO-list)).
+* While your free to create any content in an add on if you want, it’s generally better to avoid overlapping content for performance reasons. Like, don't add another machine for processing ores unless it's unique.
+* Need an API hook or think that something should be added to the API? Please post a suggestion in the issue tracker or on discord.
