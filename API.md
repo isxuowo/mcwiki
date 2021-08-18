@@ -64,6 +64,10 @@ These are entity tags (ie. `tag add @s mech_no_upgrade`). Some states are tracke
 * mech_fluid: used to track how much fluid a machine is holding in its tank. Other objectives may be used if the machine has multiple tanks.
 * mech_timer: used by machines to track the length of their current operation
 
+# Liquid Mechanics
+***
+Coming Soon™
+
 # Ore Dictonary
 ***
 As of v3.0, Mechanization's ore dictonary system as been updated to follow the Minecraft Datapacks community guidelines on Ore Dict. You can reference them here: https://mc-datapacks.github.io/en/conventions/common_trait.html
