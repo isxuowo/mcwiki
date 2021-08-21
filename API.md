@@ -96,8 +96,8 @@ custom_item_insertion: run `as` and `at` an entity marking a block when a Pneuma
 ```
 
 ### Liquids
-```
 For more information, see: https://github.com/ICY105/Mechanization/wiki/API#liquid-mechanics
+```
 liquid_accept: runs as a block when attempting to add a liquid, should return how much liquid was accepted (can be 0)
 liquid_send: runs as a block when attempting to extract a liquid, should return a liquid (if available) and the amount available.
 liquid_pipe_can_send: runs as a block when a pipe is placed next to it, should return if it can send liquid on the side the pipe is attached to
