@@ -100,7 +100,6 @@ These are entity tags (ie. `tag add @s mech_no_upgrade`). Some states are tracke
 * mech_rotatable: indicates a machine's model should be rotated by a wrench (like the alloy furnace)
 
 # Scoreboard Information
-***
 * mech_data: For math, temp variables and other misc data storage. Also used to store an extra bit of data on machines. Could be anything.
 * mech_power: indicates power level on a machine/generator/battery.
 * mech_gridid: used internally to specify machines' grid ids. You probably shouldn't mess with this.
@@ -109,17 +108,10 @@ These are entity tags (ie. `tag add @s mech_no_upgrade`). Some states are tracke
 * mech_timer: used by machines to track the length of their current operation
 
 # Liquid Mechanics
-***
 Coming Soon™
 
 # Ore Dictonary
-***
 As of v3.0, Mechanization's ore dictonary system as been updated to follow the Minecraft Datapacks community guidelines on Ore Dict. You can reference them here: https://mc-datapacks.github.io/en/conventions/common_trait.html
 
 The shorthand is Mech now uses the following format:
 `Item.tag.ctc{id:"tin_ingot", from:"mechanization", traits:{ingot:1b, "metal/tin":1b}}`
-
-# Tips
-***
-* While your free to create any content in an add on if you want, it’s generally better to avoid overlapping content for performance reasons. Like, don't add another machine for processing ores unless it's unique.
-* Need an API hook or think that something should be added to the API? Please post a suggestion in the issue tracker or on discord.
