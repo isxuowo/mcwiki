@@ -62,7 +62,7 @@ scoreboard objectives add mech_gridid dummy
 Mechanization supports drawing energy from compatible items in the player's hotbar. This is done using these lines of code:
 
 ```
-scoreboard players set in_0 mech_data <amount>
+scoreboard players set $in_0 mech_data <amount>
 function mechanization:base/tools/player_energy/use_energy
 
 execute if score $out_0 mech_data matches 1 run <do something>
@@ -130,10 +130,36 @@ mech_timer: used by machines to track the length of their current operation
 ```
 
 # Liquid Mechanics
-Coming Soon™
+
+Enabling liquid mechanics for a machine is very complicated. Do not attempt unless you are experienced with minecraft commands. I highly recommend studying/copying examples from Mech machines to get started.
+
+### Enabling Accepting/Receiving Liquids
+
+
+
+### Connecting a Machine to Liquid Pipes
+1. Extend the function tags `liquid_pipe_can_send` and/or `liquid_pipe_can_accept`. These functions tell liquid pipes if they should pull/push liquid from the side its connected to. Use this code for each machine:
+```
+execute if entity @s[tag=<custom block>] if score $in_0 mech_data matches 0 run scoreboard players set $out_0 mech_data 1
+
+where $in_0 mech_data is:
+0 = up
+1 = down
+2 = north
+3 = south
+4 = east
+5 = west
+(use 0..5 for all sides accept/send)
+```
+
+2. When placing a new block that should connect to existing Liquid Pipes, run this code:
+```
+summon <new block>
+execute as @e[<new block>] at @s run function mechanization:machines/machines/liquid_pipe/add_adjacent_pipes
+```
 
 # Ore Dictonary
-As of v3.0, Mechanization's ore dictonary system as been updated to follow the Minecraft Datapacks community guidelines on Ore Dict. You can reference them here: https://mc-datapacks.github.io/en/conventions/common_trait.html
+As of v3.0, Mechanization's ore dictionary system as been updated to follow the Minecraft Datapacks community guidelines on Ore Dict. You can reference them here: https://mc-datapacks.github.io/en/conventions/common_trait.html
 
 The shorthand is Mech now uses the following format:
 `Item.tag.ctc{id:"tin_ingot", from:"mechanization", traits:{ingot:1b, "metal/tin":1b}}`
