@@ -43,7 +43,7 @@ function mechanization:base/energy/standard
 #function mechanization:base/energy/capacitor
 ```
 
-If you plan on making a standalone datapack compatible use Mech's energy system by copying the energy transfer function, make sure to also copy the supporting files. These can be renamed at your convenience.
+If you plan on making a standalone datapack compatible use Mech's energy system by copying the energy transfer function, make sure to also copy the supporting files. At your convenience, these can be renamed or put in a different location if you also modify the references in the energy transfer function.
 
 ```
 data/mechanization/predicates/matches_gridid
