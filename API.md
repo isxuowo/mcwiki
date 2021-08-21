@@ -97,9 +97,14 @@ custom_item_insertion: run `as` and `at` an entity marking a block when a Pneuma
 
 ### Liquids
 ```
-For more information, see
-liquid_accept: run when checking if a custom block can accept a liquid
+For more information, see: https://github.com/ICY105/Mechanization/wiki/API#liquid-mechanics
+liquid_accept: runs as a block when attempting to add a liquid, should return how much liquid was accepted (can be 0)
+liquid_send: runs as a block when attempting to extract a liquid, should return a liquid (if available) and the amount available.
+liquid_pipe_can_send: runs as a block when a pipe is placed next to it, should return if it can send liquid on the side the pipe is attached to
+liquid_pipe_can_accept: runs as a block when a pipe is placed next to it, should return if it can accept liquid on the side the pipe is attached to
 ```
+
+# Data Tracking
 
 ### Machine Tags
 These are entity tags (ie. `tag add @s mech_no_upgrade`). Some states are tracked using tags.
@@ -114,7 +119,7 @@ mech_nether_upgrade: Tag added to a machine when an nether upgrade is applied. M
 mech_rotatable: indicates a machine's model should be rotated by a wrench (like the alloy furnace)
 ```
 
-# Scoreboard Information
+### Scoreboard Information
 ```
 mech_data: For math, temp variables and other misc data storage. Also used to store an extra bit of data on machines. Could be anything.
 mech_power: indicates power level on a machine/generator/battery.
