@@ -7,7 +7,6 @@ Mechanization depends on Datapack Utils for things like crafting, smelting, cust
 Mechanization follows (as closely as possible) the conventions specified by the Minecraft Datapacks community, which helps to maintain compatibility between datapacks. You can reference them here: https://mc-datapacks.github.io/en/
 
 # Energy API
-***
 
 Mechanization's foremost feature is the energy grid. This is conducted wirelessly by batteries and/or capacitors. To add a machine to the energy grid, summon an entity with one of the following tags. Then, set its score `mech_power` to 0
 
@@ -62,15 +61,25 @@ scoreboard objectives add mech_gridid dummy
 
 Mechanization supports drawing energy from compatible items in the player's hotbar. This is done using these lines of code:
 
-    scoreboard players set in_0 mech_data 8 //This is how much power to draw
-    function mechanization:base/tools/player_energy/use_energy
+```
+scoreboard players set in_0 mech_data <amount>
+function mechanization:base/tools/player_energy/use_energy
 
-This will attempt to draw power from the player. It will then set the score 'out_0 mech_data' to 0 or 1, where 0 is failed to draw energy an 1 is succeed in drawing energy.
+execute if score $out_0 mech_data matches 1 run <do something>
+```
 
-It is recommended to use built-in portable energy items (like Gadget's Portable Battery), but if you would like to make your own then give it the nbt tag 'Energy:1' (Energy must always be above 1). This item can then be charged at the Charging Station, or you can add your own way to charge it.
+It is recommended to use built-in portable energy items (like Gadget's Portable Battery), but if you would like to make your own, you can use the following command:
+```
+give @s carrot_on_a_stick{ mech_battery:{energy:0, max_energy:32000, models:8, base_model:6424900} }
+
+energy: how much power the battery has- usually new batteries have 0
+max_energy: how much the battery can hold- the Portable Battery holds 32000 kJ
+models: how many models the battery uses to represent charged states. For example, the Portable Battery has a green bar the goes up and down based on energy level that uses 8 models. If you don't have any extra models, set this to 1.
+base_model: the stating CMD for extra models. If you don't have extra models, this should be the items normal CMD.
+```
 
 # Events
-***
+
 There are several event hooks built into mechanization. These are run using a function tag. To extend the event, in your datapack create the folder data/mechanization/tags/functions/[function] and add your functions in that tag (make sure to extend, not overwrite!).
 
 ### Tools
