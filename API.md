@@ -83,29 +83,46 @@ base_model: the stating CMD for extra models. If you don't have extra models, th
 There are several event hooks built into mechanization. These are run using a function tag. To extend the event, in your datapack create the folder data/mechanization/tags/functions/[function] and add your functions in that tag (make sure to extend, not overwrite!).
 
 ### Tools
-* wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break machines.
-* wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
-* multimeter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
+```
+wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break machines.
+wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
+multimeter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
+```
+
+### Pneumatic Tubing
+```
+custom_item_extraction: run `as` and `at` an entity marking a block when a Pneumatic Exit-Point attempts to withdraw an item, allowing defining custom rules.
+custom_item_insertion: run `as` and `at` an entity marking a block when a Pneumatic Entry-Point attempts to insert an item, allowing defining custom rules.
+```
+
+### Liquids
+```
+For more information, see
+liquid_accept: run when checking if a custom block can accept a liquid
+```
 
 ### Machine Tags
 These are entity tags (ie. `tag add @s mech_no_upgrade`). Some states are tracked using tags.
-
-* mech_transmitter: indicates the devices should send power (ie. is a generator)
-* mech_receiver: indicates the devices should receive power (ie. is a machine)
-* mech_power_storage: indicates the device acts like a battery/capacitor and stores power. Enables interactions with the Energy Relay.
-* mech_no_upgrade: By default, any device can be upgraded. Adding this tag prevents that from happening.
-* mech_upgraded: Tag added to a machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
-* mech_ender_upgrade: Tag added to a machine when an ender upgrade is applied. Machines require a machine upgrade to already be installed to add an ender upgrade (machine will have this tag AND mech_upgraded). This upgrade is exclusive to Nether Upgrades, so only 1 of the 2 can be added. Ender upgrades typically increase operating efficiency.
-* mech_nether_upgrade: Tag added to a machine when an nether upgrade is applied. Machines require a machine upgrade to already be installed to add an nether upgrade (machine will have this tag AND mech_upgraded). This upgrade is exclusive to Ender Upgrade, so only 1 of the 2 can be added. Nether upgrades typically increase speed or power, but at a cost.
-* mech_rotatable: indicates a machine's model should be rotated by a wrench (like the alloy furnace)
+```
+mech_transmitter: indicates the devices should send power (ie. is a generator)
+mech_receiver: indicates the devices should receive power (ie. is a machine)
+mech_power_storage: indicates the device acts like a battery/capacitor and stores power. Enables interactions with the Energy Relay.
+mech_no_upgrade: By default, any device can be upgraded. Adding this tag prevents that from happening.
+mech_upgraded: Tag added to a machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
+mech_ender_upgrade: Tag added to a machine when an ender upgrade is applied. Machines require a machine upgrade to already be installed to add an ender upgrade (machine will have this tag AND mech_upgraded). This upgrade is exclusive to Nether Upgrades, so only 1 of the 2 can be added. Ender upgrades typically increase operating efficiency.
+mech_nether_upgrade: Tag added to a machine when an nether upgrade is applied. Machines require a machine upgrade to already be installed to add an nether upgrade (machine will have this tag AND mech_upgraded). This upgrade is exclusive to Ender Upgrade, so only 1 of the 2 can be added. Nether upgrades typically increase speed or power, but at a cost.
+mech_rotatable: indicates a machine's model should be rotated by a wrench (like the alloy furnace)
+```
 
 # Scoreboard Information
-* mech_data: For math, temp variables and other misc data storage. Also used to store an extra bit of data on machines. Could be anything.
-* mech_power: indicates power level on a machine/generator/battery.
-* mech_gridid: used internally to specify machines' grid ids. You probably shouldn't mess with this.
-* mech_usedid: has the Mechanization item ID of whatever the player is holding (if it has an ID), specified by the `mech_itemid:<id>` nbt tag. Very useful for checking what a player is holding instead of using an NBT check.
-* mech_fluid: used to track how much fluid a machine is holding in its tank. Other objectives may be used if the machine has multiple tanks.
-* mech_timer: used by machines to track the length of their current operation
+```
+mech_data: For math, temp variables and other misc data storage. Also used to store an extra bit of data on machines. Could be anything.
+mech_power: indicates power level on a machine/generator/battery.
+mech_gridid: used internally to specify machines' grid ids. You probably shouldn't mess with this.
+mech_usedid: has the Mechanization item ID of whatever the player is holding (if it has an ID), specified by the `mech_itemid:<id>` nbt tag. Very useful for checking what a player is holding instead of using an NBT check.
+mech_fluid: used to track how much fluid a machine is holding in its tank. Other objectives may be used if the machine has multiple tanks.
+mech_timer: used by machines to track the length of their current operation
+```
 
 # Liquid Mechanics
 Coming Soon™
