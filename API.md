@@ -9,19 +9,53 @@ Mechanization follows (as closely as possible) the conventions specified by the 
 # Energy API
 ***
 
-Mechanization's primary feature is the energy grid. To create a device that interacts with the grid, set an entity's 'mech_power' score to 0. Then, give it one of these tags:
-* mech_transmitter: Indicates that this device generates power, and should have power taken from it and put into batteries.
-* mech_reciever: Indicates that this device uses power, and should take power from batteries.
+Mechanization's foremost feature is the energy grid. This is conducted wirelessly by batteries and/or capacitors. To add a machine to the energy grid, summon an entity with one of the following tags. Then, set its score `mech_power` to 0
 
-Once a machine has one of those tags, it is automatically included in the grid. Further interaction is based on the mech_power scoreboard value. Generators should increase this value to reflect energy generation, and machines should decrease this value to reflect energy consumption.
-
-To create a new battery that can send and receive power, summon an entity with the tag `mech_power_storage`. Then, run the following code segment both `as` and `at` an entity:
 ```
-scoreboard players set in_0 mech_data <max transfer speed>
-scoreboard players set in_1 mech_data <max machine buffer capacity>
-scoreboard players set in_2 mech_data <max battery capacity>
-scoreboard players set in_3 mech_data <Range: 12/16/24>
-function mechanization:base/energy/battery
+mech_transmitter: Indicates that this device generates power, and should have power taken from it and put into batteries.
+mech_receiver: Indicates that this device uses power, and should take power from batteries.
+```
+
+Example:
+```
+summon item_frame ~ ~ ~ {Tags:["mech_receiver","custom_machine"],Fixed:1b}
+scoreboard players set @e[tag=custom_machine,sort=nearest,limit=1] mech_power 0
+```
+
+If you've created a machine correctly, it should automatically be included in the energy grid and batteries/capacitors will start taking or sending power respectively. Now, if you want to generate power, increase the value of the `mech_power` score, and if you want to consume power, decrease the value of the `mech_power` score.
+
+### Adding Batteries/Capacitors
+
+To create a new battery that can send and receive power, summon an entity with the tag `mech_power_storage`. Then, in the devices ticking function run both as and at the entity (recommend 1 time per second), run this code:
+
+```
+scoreboard players set $in_0 mech_data <max transfer speed>
+scoreboard players set $in_1 mech_data <max machine buffer capacity>
+scoreboard players set $in_2 mech_data <max battery capacity>
+scoreboard players set $in_3 mech_data <Range: 4,8,12,16,20,24,28, or 32>
+scoreboard players set $in_4 mech_data <0 for no effects (particle, sound), 1 for effects>
+function mechanization:base/energy/standard
+
+#Alternitive: it your device is supposed to be a battery and draw power from nearby capacitors when they are full, use this command:
+#function mechanization:base/energy/battery
+
+#Alternitive: it your device is supposed to be a capacitor and draw energy from nearby batteries when empty, use this command:
+#function mechanization:base/energy/capacitor
+```
+
+If you plan on making a standalone datapack compatible use Mech's energy system by copying the energy transfer function, make sure to also copy the supporting files. These can be renamed at your convenience.
+
+```
+data/mechanization/predicates/matches_gridid
+data/mechanization/predicates/base/valid_transmitter
+```
+
+Also make sure to initialize these scoreboards in your load function:
+
+```
+scoreboard objectives add mech_data dummy
+scoreboard objectives add mech_power dummy
+scoreboard objectives add mech_gridid dummy
 ```
 
 ### Portable Energy
@@ -49,6 +83,7 @@ These are entity tags (ie. `tag add @s mech_no_upgrade`). Some states are tracke
 
 * mech_transmitter: indicates the devices should send power (ie. is a generator)
 * mech_receiver: indicates the devices should receive power (ie. is a machine)
+* mech_power_storage: indicates the device acts like a battery/capacitor and stores power. Enables interactions with the Energy Relay.
 * mech_no_upgrade: By default, any device can be upgraded. Adding this tag prevents that from happening.
 * mech_upgraded: Tag added to a machine when a machine upgrade is applied. You should add in effects for each machine when upgraded (works faster, uses less energy, etc).
 * mech_ender_upgrade: Tag added to a machine when an ender upgrade is applied. Machines require a machine upgrade to already be installed to add an ender upgrade (machine will have this tag AND mech_upgraded). This upgrade is exclusive to Nether Upgrades, so only 1 of the 2 can be added. Ender upgrades typically increase operating efficiency.
