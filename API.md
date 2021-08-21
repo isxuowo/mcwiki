@@ -152,7 +152,7 @@ where $in_0 mech_data is:
 (use 0..5 for all sides accept/send)
 ```
 
-2. When placing a new block that should connect to existing Liquid Pipes, run this code:
+2. When placing a new block that should connect to existing Liquid Pipes, run this code to update adjacent pipes:
 ```
 summon <new block>
 execute as @e[<new block>] at @s run function mechanization:machines/machines/liquid_pipe/add_adjacent_pipes
