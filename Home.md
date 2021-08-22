@@ -1,7 +1,7 @@
 ![Logo](http://i.imgur.com/kNajiaw.png)
 
 Current Features:
-* Over 45 machines and 60 items
+* Over 60 machines and 260 items
 * Complete energy grid system
 * Resource pack with custom models, textures, and sounds
 * In-Depth progression system
