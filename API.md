@@ -6,6 +6,11 @@ Mechanization depends on Datapack Utils for things like crafting, smelting, cust
 
 Mechanization follows (as closely as possible) the conventions specified by the Minecraft Datapacks community, which helps to maintain compatibility between datapacks. You can reference them here: https://mc-datapacks.github.io/en/
 
+## Index
+
+[Energy API](https://github.com/ICY105/Mechanization/wiki/API#energy-api): 
+
+
 # Energy API
 
 Mechanization's foremost feature is the energy grid. This is conducted wirelessly by batteries and/or capacitors. To add a machine to the energy grid, summon an entity with one of the following tags. Then, set its score `mech_power` to 0
@@ -78,7 +83,7 @@ models: how many models the battery uses to represent charged states. For exampl
 base_model: the stating CMD for extra models. If you don't have extra models, this should be the items normal CMD.
 ```
 
-# Liquid Mechanics
+# Liquids API
 
 Enabling liquid mechanics for a machine is very complicated. Do not attempt unless you are experienced with minecraft commands. I highly recommend studying/copying examples from Mech machines to get started.
 
@@ -107,35 +112,29 @@ summon <new block>
 execute as @e[<new block>] at @s run function mechanization:machines/machines/liquid_pipe/add_adjacent_pipes
 ```
 
-# Function Tags
+# General Data
 
 There are several event hooks built into mechanization. These are run using a function tag. To extend the event, in your datapack create the folder data/mechanization/tags/functions/[function] and add your functions in that tag (make sure to extend, not overwrite!).
 
-### Tools
+### Function Tags
 ```
+# Tools
 wrench_break: triggers when player shift+right clicks a wrench, at the location they are looking. Should be used to safely break machines.
 wrench_function: triggers when player right clicks the wrench, at the location they are looking. Should be used to altar a machine setting, i.e. changing modes or rotating.
 multimeter_readout: triggers when player right clicks a multimeter, at the location they are looking. By default, prints out how much power the device is currently storing. Can be used to print out additional information.
-```
 
-### Pneumatic Tubing
-```
+# Pneumatic Tubing
 custom_item_extraction: run `as` and `at` an entity marking a block when a Pneumatic Exit-Point attempts to withdraw an item, allowing defining custom rules.
 custom_item_insertion: run `as` and `at` an entity marking a block when a Pneumatic Entry-Point attempts to insert an item, allowing defining custom rules.
-```
 
-### Liquids
-For more information, see: https://github.com/ICY105/Mechanization/wiki/API#liquid-mechanics
-```
+# Liquids
 liquid_accept: runs as a block when attempting to add a liquid, should return how much liquid was accepted (can be 0)
 liquid_send: runs as a block when attempting to extract a liquid, should return a liquid (if available) and the amount available.
 liquid_pipe_can_send: runs as a block when a pipe is placed next to it, should return if it can send liquid on the side the pipe is attached to
 liquid_pipe_can_accept: runs as a block when a pipe is placed next to it, should return if it can accept liquid on the side the pipe is attached to
 ```
 
-# Tags and Scoreboards
-
-### Machine Tags
+### Entity Tags
 These are entity tags (ie. `tag add @s mech_no_upgrade`). Some states are tracked using tags.
 ```
 mech_transmitter: indicates the devices should send power (ie. is a generator)
