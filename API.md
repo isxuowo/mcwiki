@@ -93,7 +93,55 @@ Extend the function tags `liquid_send` and/or `liquid_accept`. These functions s
 
 Send Liquid:
 ```
-temp
+# Input:
+# $in_0 mech_data - amount requested, returned amount can be less. Can be 0.
+#
+# Output:
+# $out_0 mech_data - amount sent, should be <= $in_0.
+# storage du:temp obj - item representing the liquid (see the NBT data on a filled vial)
+
+# Example, where:
+# @s Item.tag.tank - where the liquid item reference is stored
+# @s mech_fluid - scoreboard value representing how much is in the tank
+
+execute if score @s mech_fluid matches 1.. run data modify storage du:temp obj set from entity @s Item.tag.tank
+execute if score @s mech_fluid matches 1.. if score $in_0 mech_data matches ..0 run scoreboard players operation $out_0 mech_data = @s mech_fluid
+execute if score @s mech_fluid matches 1.. if score $in_0 mech_data > @s mech_fluid run scoreboard players operation $out_0 mech_data = @s mech_fluid
+execute if score @s mech_fluid matches 1.. if score $in_0 mech_data > @s mech_fluid run scoreboard players set @s mech_fluid 0
+execute if score @s mech_fluid matches 1.. if score $in_0 mech_data matches 1.. if score $in_0 mech_data <= @s mech_fluid run scoreboard players operation $out_0 mech_data = $in_0 mech_data
+execute if score @s mech_fluid matches 1.. if score $in_0 mech_data matches 1.. if score $in_0 mech_data <= @s mech_fluid run scoreboard players operation @s mech_fluid -= $in_0 mech_data
+execute if score @s mech_fluid matches 0 run data modify entity @s Item.tag.tank set value {}
+```
+
+Accept Liquid:
+```
+# Input:
+# $in_0 mech_data - amount to be stored.
+# storage du:temp obj - item representing the liquid (see the NBT data on a filled vial)
+#
+# Output:
+# $out_0 mech_data - amount sent, should be <= $in_0.
+
+# Example, where:
+# @s Item.tag.tank - where the liquid item reference is stored
+# @s mech_fluid - scoreboard value representing how much is in the tank
+# $temp_5 mech_data = 16000 - max amount the tank can store
+
+# If the tank is storing a liquid, verify the input is the same type.
+data modify storage du:temp var set from entity @s Item.tag.tank.tag.ctc.traits.liquid.id
+execute store success score $temp_4 mech_data run data modify storage du:temp var set from storage du:temp obj.tag.ctc.traits.liquid.id
+
+# If the tank is not storing a liquid, copy the liquid item reference to entity data
+execute unless score @s mech_fluid matches 1.. run scoreboard players set $temp_4 mech_data 0
+execute unless score @s mech_fluid matches 1.. run data modify entity @s Item.tag.tank set from storage du:temp obj
+
+# If input liquid is valid, add input amount to tank amount
+execute if score $temp_4 mech_data matches 0 run scoreboard players set $temp_5 mech_data 16000
+execute if score $temp_4 mech_data matches 0 run scoreboard players operation $temp_5 mech_data -= @s mech_fluid
+execute if score $temp_4 mech_data matches 0 if score $temp_5 mech_data > $in_0 mech_data run scoreboard players operation $out_0 mech_data = $in_0 mech_data
+execute if score $temp_4 mech_data matches 0 if score $temp_5 mech_data <= $in_0 mech_data run scoreboard players operation $out_0 mech_data = $temp_5 mech_data
+execute if score $temp_4 mech_data matches 0 if score $out_0 mech_data matches ..-1 run scoreboard players set $out_0 mech_data 0
+execute if score $temp_4 mech_data matches 0 run scoreboard players operation @s mech_fluid += $out_0 mech_data
 ```
 
 ### Connecting a Machine to Liquid Pipes
