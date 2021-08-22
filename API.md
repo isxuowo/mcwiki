@@ -8,9 +8,9 @@ Mechanization follows (as closely as possible) the conventions specified by the 
 
 ## Index
 
-[Energy API](https://github.com/ICY105/Mechanization/wiki/API#energy-api): how to interface with the power grid and portable batteries
-[Liquids API](https://github.com/ICY105/Mechanization/wiki/API#liquids-api): how to interact with pipes and liquid storing blocks
-[General Data](https://github.com/ICY105/Mechanization/wiki/API#general-data): lists of entity tags, scoreboard data, and function tags
+* [Energy API](https://github.com/ICY105/Mechanization/wiki/API#energy-api): how to interface with the power grid and portable batteries
+* [Liquids API](https://github.com/ICY105/Mechanization/wiki/API#liquids-api): how to interact with pipes and liquid storing blocks
+* [General Data](https://github.com/ICY105/Mechanization/wiki/API#general-data): lists of entity tags, scoreboard data, and function tags
 
 # Energy API
 
