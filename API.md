@@ -85,11 +85,13 @@ base_model: the stating CMD for extra models. If you don't have extra models, th
 ```
 
 # Liquids API
-
 Enabling liquid mechanics for a machine is very complicated. Do not attempt unless you are experienced with minecraft commands. I highly recommend studying/copying examples from Mech machines to get started.
 
 ### Enabling Accepting/Receiving Liquids
+Extend the function tags `liquid_send` and/or `liquid_accept`. These functions should return if they can accept/send a liquid, how much to accept/send, and what liquid to send.
 
+Send Liquid:
+```
 
 
 ### Connecting a Machine to Liquid Pipes
@@ -111,6 +113,32 @@ where $in_0 mech_data is:
 ```
 summon <new block>
 execute as @e[<new block>] at @s run function mechanization:machines/machines/liquid_pipe/add_adjacent_pipes
+```
+
+# Custom Pneumatic Tubing Interactions
+
+### Extracting
+Extend the function tag `custom_item_extraction`, this will be run as your custom block entity. Then, run this code:
+```
+execute if entity @s[<custom block>] run function ...
+ V V V
+scoreboard players set $out_0 mech_data 1
+# copy for each slot that can be extracted from
+execute if data block ~ ~ ~ Items[{Slot:0b}] run data modify storage du:temp list append from block ~ ~ ~ Items[{Slot:0b}]
+```
+
+### Inserting
+Extend the function tag `custom_item_insertion`, this will be run as your custom block entity. Then, run this code:
+```
+execute if entity @s[<custom block>] run function ...
+ V V V
+scoreboard players set $out_0 mech_data 1
+scoreboard players set $out_1 mech_data -1
+
+# copy for each valid input slot
+execute unless data block ~ ~ ~ Items[{Slot:0b}] run scoreboard players set $out_1 mech_data 0
+
+# Note: you can check the item being inserted with 'if data storage du:temp obj{id:"minecraft:stick"}'- useful if you only want some items being inserted
 ```
 
 # General Data
