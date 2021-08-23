@@ -1,16 +1,10 @@
-![Alloy Furnace](https://i.imgur.com/uFrJM3J.png?1)
-
-The alloy furnace is an important machine for anyone who wants to progress in Mechanization. It combines various resources into alloys and other materials that can be used to create higher- tier machines. Uses 32 kW.
+The alloy furnace is the most important machine for creating advanced alloys to progress in Mech. It combines molten resources and items to create molten alloys, which can be piped into a Casting Basin to create ingots.
 
 ```
 Machine Upgrade: Enables creating Tier 3 Alloys
-Ender Upgrade: Currently no effect
-Nether Upgrade: Currently no effect
+Ender Upgrade: Reduces the cost of Tier 2 Alloys by 10%
+Nether Upgrade: Reduces the cost of Tier 3 Alloys by 10%
 ```
-
-Recipe:
-
-![Imgur](https://i.imgur.com/XKKHe8U.png)
 
 ### Alloy Furnace Recipes:
 
