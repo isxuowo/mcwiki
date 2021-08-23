@@ -23,9 +23,13 @@
 ### Age of Machines
 ***
 * [Steam Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Steam-Generator)
+* [Thermoelectric Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Thermoelectric-Generator)
 * [Solar Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Solar-Generator)
 * [Bio Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Bio-Generator)
 * [Dimensional Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Dimensional-Generator)
+* [Lightning Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Lightning-Generator)
+* [Arc Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Arc-Furnace)
+* [Casting Basin](https://github.com/ImCoolYeah105/Mechanization/wiki/Casting-Basin)
 * [Alloy Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Alloy-Furnace)
 * [Electric Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Electric-Furnace)
 * [Grinder](https://github.com/ImCoolYeah105/Mechanization/wiki/Grinder)
