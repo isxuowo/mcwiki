@@ -6,6 +6,6 @@ The Mob Grinder will kill any non-boss mob in a 5 block radius. When upgraded, k
 
 ```
 Machine Upgrade: Collects drops and places them on top of the Mob Grinder.
-Ender Upgrade: Enabled player only drops (like wither skulls)
+Ender Upgrade: Enables player only drops (like wither skulls)
 Nether Upgrade: x2 Drop rate, decreases range to 2 blocks
 ```
