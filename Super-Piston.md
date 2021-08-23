@@ -1,9 +1,5 @@
 Super pistons are a special version of the normal piston that can move around tile entities and machines. There are currently 3 variants to the super piston: The normal Super Piston, the Sticky Super Piston (which can pull tile entities), and a Turn Table. The Turn Table will rotate machines on top of it.
 
-These devices do not use power and cannot be upgraded.
-
-Recipes:
-
 | Device | Recipe | Items |
 |--------|--------|-------|
 | Super Piston | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879442637642424410/super_piston.png) | <ul><li>x4 Steel Ingot</li><li>x3 Piston</li><li>x2 Redstone Block</li></ul> |
