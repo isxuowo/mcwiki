@@ -1,4 +1,4 @@
-Super pistons are a special version of the normal piston that can move around tile entities and machines. There are currently 3 variants to the super piston: The normal Super Piston, the Sticky Super Piston (which can pull tile entities), and a Turn Table. The Turn Table will rotate machines on top of it.
+Super pistons are a special version of the normal piston that can move around tile entities and machines. There are currently 3 variants to the super piston: The normal Super Piston, the Sticky Super Piston (which can pull tile entities), and a Turn Table. The Turn Table performs a 'right click with a wrench' function on the block above it, which can rotate machines, switch states, or even activate a quarry.
 
 | Device | Recipe | Items |
 |--------|--------|-------|
