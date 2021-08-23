@@ -9,7 +9,3 @@ Machine Upgrade: +50% Energy Generation (2-15 kW)
 Ender Upgrade: Increased generation in low-light conditions
 Nether Upgrade: +400% Energy Generation (40 kW) during mid-day, no generation any other time
 ```
-
-Recipe:
-
-![Solar Panel](https://cdn.discordapp.com/attachments/739536694398812230/879392368753786950/solar_panel.png)
