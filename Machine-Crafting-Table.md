@@ -2,4 +2,4 @@ The Machine Crafting Table is a custom crafting table used to make the machines 
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Machine Crafting Table | ![Machine Crafting Table](https://cdn.discordapp.com/attachments/739536694398812230/879172699837054996/machine_crafting_table.png) | x7 Copper Ingots, x1 Crafting Table, x1 Iron Block
+| Machine Crafting Table | ![Machine Crafting Table](https://cdn.discordapp.com/attachments/739536694398812230/879172699837054996/machine_crafting_table.png) | <ul><li>x7 Copper Ingots</li><li>x1 Crafting Table</li><li>x1 Iron Block</li></ul>
