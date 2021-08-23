@@ -26,8 +26,8 @@ End Items | Duration
 ----------|---------
 End Stone | 4 seconds
 Purpur Block | 8 seconds
-Ender Pearl | 40 seconds
-Eye of Ender | 60 seconds
+Ender Pearl | 30 seconds
+Eye of Ender | 80 seconds
 Dragon's Breath | 80 seconds
 End Crystal | 250 seconds
 Shulker Shell | 500 seconds
@@ -41,7 +41,7 @@ Soul Sand | 10 seconds
 Magma Block | 40 seconds
 Glowstone Dust | 40 seconds
 Nether Quartz | 80 seconds
-Blaze Powder | 80 seconds
+Blaze Powder | 60 seconds
 Ghast Tear | 250 seconds
 Wither Rose | 500 seconds
 Wither Skeleton Skull | 2000 seconds
