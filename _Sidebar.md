@@ -12,6 +12,7 @@
 * [Ore Generation](https://github.com/ImCoolYeah105/Mechanization/wiki/Ore-Generation)
 * [Tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Tools)
 * [Machine Crafting Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Crafting-Table)
+* [Rods, Plates, & Gears](https://github.com/ImCoolYeah105/Mechanization/wiki/Rods-Plates-Gears)
 * [Machine Frames](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Frames)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
 * [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
