@@ -1,19 +1,15 @@
-![Batteries](https://i.imgur.com/pGe7hni.png?1)
-
-Batteries are the core of the energy grid system, serving not only as a way to store energy, but also as the energy transmitters. The energy system in Mechanization is completely wireless, with batteries serving as the relay between generators and machines. As such, a battery is required to get started in Mechanization. There are currently 3 tiers of batteries, with an extra Quantum Battery.
+Batteries are one of two options for working with power systems in Mechanization. They store power in large quantities, and also transfer power between generators and machines. The energy system in Mechanization is completely wireless, with batteries serving as the relay between generators and machines. As such, a battery is required to get started in Mechanization. There are currently 3 tiers of batteries, with an extra Quantum Battery.
 
 Batteries keep their energy when broken with a wrench, so feel free to move them around!
+
+| | Capacity | Transfer Rate | Transfer Range | Recipe |
+|-|----------|---------------|----------------|--------|
+| Tier 1 Battery | 50,000 kJ | 12 kW | 8 Blocks | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879183042726461521/tier_1_battery.png) |
+| Tier 2 Battery | 200,000 kJ | 36 kW | 12 Blocks | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879183067388989480/tier_2_battery.png) |
+| Tier 3 Battery | 500,000_kJ | 100 kW | 16 Blocks | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879183079057551360/tier_3_battery.png) |
 
 ```
 Machine Upgrade: +25% Transfer Rate, +25% Capacity
 Ender Upgrade: +100% Transfer Rate
 Nether Upgrade: +100% Capacity
 ```
-| | Capacity | Transfer Rate | Transfer Range | Recipe |
-|-|----------|---------------|----------------|--------|
-| Tier 1 Battery | 100,000 kJ | 100 kW | 12 Blocks | ![Imgur](https://i.imgur.com/oFEqKIq.png) |
-| Tier 2 Battery | 350,000 kJ | 400 kW | 16 Blocks | ![Imgur](https://i.imgur.com/Rtg01f9.png) |
-| Tier 3 Battery | 1,000,000_kJ | 1000 kW | 24 Blocks | ![Imgur](https://i.imgur.com/dxxEkn0.png) |
-| Quantum Battery | 500,000 kJ | 1000 kW | 16 Blocks* | ![Imgur](https://i.imgur.com/Wa37SjT.png) |
-
-*The Quantum Battery is special in that, like an Ender Chest, it shares its power across all other Quantum Batteries (set to the same grid id). This works over any distance and across dimensions, meaning a Quantum Battery can be used to transfer power over any range.
