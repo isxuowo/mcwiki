@@ -9,33 +9,60 @@ Machine Upgrade: Accepts meat as fuel
 Ender Upgrade: +50% Energy Generation (2-95 kW)
 Nether Upgrade: +100% Energy Generation (2-126 kW), x2 Fuel Consumption
 ```
+4 kW: Cactus\n
+4 kW: Melon Slice\n
+8 kW: Sugar Cane\n
+8 kW: Kelp\n
+8 kW: Bamboo\n
+12 kW: Sweet Berries\n
+12 kW: Cocoa Beans\n
+12 kW: Beetroot\n
+12 kW: Potato\n
+12 kW: Carrot\n
+16 kW: Wheat\n
+16 kW: Raw Cod\n
+16 kW: Raw Salmon\n
+16 kW: Pumpkin\n
+16 kW: Apple\n
+20 kW: Melon Block\n
+20 kW: Nether Wart\n
+20 kW: Raw Rabbit\n
+20 kW: Raw Chicken\n
+24 kW: Raw Beef\n
+24 kW: Raw Porkchop\n
+24 kW: Raw Mutton\n
+24 kW: Mushrooms\n
+24 kW: Chorus Fruit\n
+28 kW: Fungi\n
+32 kW: Hay Block\n
+32 kW: Chorus Flower
 
 Fuel | Output
 -----|-------
-Cactus | 1 kW
-Sugar Cane | 1 kW
-Kelp | 1 kW
-Bamboo | 1 kW
-Sweet Berries | 2 kW
-Cocoa Beans | 2 kW
-Melon Slice | 2 kW
-Beetroot | 3 kW
-Potato | 3 kW
-Carrot | 3 kW
-Wheat | 4 kW
-Raw Cod | 4 kW
-Raw Salmon | 4 kW
-Melon Block | 5 kW
-Pumpkin | 5 kW
-Apple | 5 kW
-Nether Wart | 6 kW
-Raw Rabbit | 6 kW
-Raw Chicken | 6 kW
-Raw Beef | 7 kW
-Raw Porkchop | 7 kW
-Raw Mutton | 7 kW
-Red Mushroom | 8 kW
-Brown Mushroom | 8 kW
-Chorus Fruit | 8 kW
-Hay Bale | 9 kW
-Chorus Flower | 9 kW
+Cactus | 4 kW
+Melon Slice | 4 kW
+Sugar Cane | 8 kW
+Kelp | 8 kW
+Bamboo | 8 kW
+Sweet Berries | 12 kW
+Cocoa Beans | 12 kW
+Potato | 12 kW
+Carrot | 12 kW
+Beetroot | 12 kW
+Wheat | 16 kW
+Raw Cod | 16 kW
+Raw Salmon | 16 kW
+Pumpkin | 16 kW
+Apple | 16 kW
+Melon Block | 20 kW
+Nether Wart | 20 kW
+Raw Rabbit | 20 kW
+Raw Chicken | 20 kW
+Raw Beef | 24 kW
+Raw Porkchop | 24 kW
+Raw Mutton | 24 kW
+Red Mushroom | 24 kW
+Brown Mushroom | 24 kW
+Chorus Fruit | 24 kW
+Hay Bale | 32 kW
+Chorus Flower | 32 kW
