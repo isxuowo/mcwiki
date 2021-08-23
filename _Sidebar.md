@@ -15,6 +15,7 @@
 * [Rods, Plates, & Gears](https://github.com/ImCoolYeah105/Mechanization/wiki/Rods-Plates-Gears)
 * [Machine Frames](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Frames)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
+* [Capacitors](https://github.com/ImCoolYeah105/Mechanization/wiki/Capacitor)
 * [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
 * [Machine Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Upgrades)
 
