@@ -10,6 +10,6 @@ You will need to craft a Machine Crafting Table for use in all other recipes. Yo
 If you want to progress any further in Mechanization, you need to produce Tier 2 (and later, Tier 3) Alloys. This requires and Arc Furnace to melt resources into liquids, an Alloy Furnace to combine item and liquids into new molten alloys (like Molten Steel), and Casting Table to turn the molten metals produced in the Alloy Furnace back into Ingots. Liquid Pipes will be needed to transport liquids between the machines.
 
 ### Tip: Remember your vanilla mechanics!
-* A fortune 3 pickaxe is still a great early game investment, especially since you can multiply ores now!
+* A fortune 3 pickaxe is still a great early game investment, especially since you can multiply iron, copper, and gold nows!
 * Infinite bonemeal farms are still the primary workhorse for farming
 * Sometimes vanilla may offer a better way of doing something. Don't assume Mech is always the best option.
