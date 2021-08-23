@@ -47,7 +47,7 @@
 * [Spawner Mover](https://github.com/ImCoolYeah105/Mechanization/wiki/Spawner-Mover)
 * [Chunk Loader](https://github.com/ImCoolYeah105/Mechanization/wiki/Chunk-Loader)
 * [Teleporter](https://github.com/ImCoolYeah105/Mechanization/wiki/Teleporter)
-* [Disenchanter](https://github.com/ImCoolYeah105/Mechanization/wiki/Disenchanter)
+* [Enchanting Station](https://github.com/ImCoolYeah105/Mechanization/wiki/Enchanting-Station)
 
 ### Nuclear Ascension
 ***
