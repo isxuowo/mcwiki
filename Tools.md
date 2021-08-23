@@ -12,4 +12,4 @@ The Multimeter is a great tool for checking up on your energy grid. Right clicki
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Multimeter| ![Multimeter](https://cdn.discordapp.com/attachments/739536694398812230/879172308504297512/multimeter.png) | x4 Gold Ingot, x2 Redstone, x2 Copper Ingot, x1 Glass
+| Multimeter| ![Multimeter](https://cdn.discordapp.com/attachments/739536694398812230/879172308504297512/multimeter.png) | <ul><li>x4 Gold Ingot</li><li>x2 Redstone, x2 Copper Ingot, x1 Glass</li></ul>
