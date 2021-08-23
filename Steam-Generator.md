@@ -1,4 +1,4 @@
-The Steam Generator is typically your first stop to generate power in Mech. It generates steam using water and coal or wood. Once the steam tank is half full, the Steam Generator will begin turning the steam into power. The steam and be pump out to be stored or used in another machine. If steam is pumped into the Steam Generator, it can produce power even faster- up to x2 the normal rate.
+The Steam Generator is typically your first stop to generate power in Mech. It generates steam using water and coal or wood. Once the steam tank is half full, the Steam Generator will begin turning the steam into power. The steam and be pumped out to be stored or used in another machine. If steam is pumped into the Steam Generator, it can produce power even faster- up to x2 the normal rate.
 
 Tip: use a Liquid Accumulator to collect water and pump it into the Steam Generator.
 
