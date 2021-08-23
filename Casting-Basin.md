@@ -1,4 +1,4 @@
-The Casting Basin turns molten minerals back into ingots, gems, block, etc. Can also produce Rods, Plates, and Gears for cheaper than crafting when upgraded.
+The Casting Basin turns molten minerals back into ingots, gems, block, etc. Can also produce Rods, Plates, and Gears for cheaper than crafting when upgraded. 1 of 3 machines required to produce advanced alloys.
 
 | Item | Recipe | Items |
 |------|--------|-------|
