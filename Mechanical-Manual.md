@@ -1,4 +1,4 @@
-The Mechanical Manual is an in-game guide to all items in Mechanization- like this wiki, but with added convienence! (It also tends to be slightly more up-to-date). You should get one for free when creating a world, but you can also craft one at either a vanilla crafting table or a machine crafting table.
+The Mechanical Manual is an in-game guide to all items in Mechanization- like this wiki, but with added convenience! (It also tends to be slightly more up-to-date). You should get one for free when creating a world, but you can also craft one at either a vanilla crafting table or a machine crafting table.
 
 | Item | Recipe | Items |
 |------|--------|-------|
