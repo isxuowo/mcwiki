@@ -13,3 +13,11 @@ The Multimeter is a great tool for checking up on your energy grid. Right clicki
 | Item | Recipe | Items |
 |------|--------|-------|
 | Multimeter| ![Multimeter](https://cdn.discordapp.com/attachments/739536694398812230/879172308504297512/multimeter.png) | <ul><li>x4 Gold Ingot</li><li>x2 Redstone</li><li>x2 Copper Ingot</li><li>x1 Glass</li></ul>
+
+### Vial
+
+The Vial can be used to store liquids, like a bucket. However, it can also store gassed like Steam, and can hold less than 1 bucket of liquid (if a tank has 100 mL of molten iron, the vial can pick it up). Useful for clearing out little bits of liquid stuck in machines.
+
+| Item | Recipe | Items |
+|------|--------|-------|
+| Vial| ![Vial](https://cdn.discordapp.com/attachments/739536694398812230/879191390213517332/vial.png) | <ul><li>x2 Steel Ingot</li><li>x1 Glass</li></ul>
