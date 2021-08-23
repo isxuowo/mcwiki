@@ -1,4 +1,4 @@
-The alloy furnace is the most important machine for creating advanced alloys to progress in Mech. It combines molten resources and items to create molten alloys, which can be piped into a Casting Basin to create ingots.
+Of the 3 machines needed to produce advanced alloys, the Alloy Furnace is the most important. It combines molten resources and items to create molten alloys, which can be piped into a Casting Basin to create ingots.
 
 ```
 Machine Upgrade: Enables creating Tier 3 Alloys
@@ -10,15 +10,16 @@ Nether Upgrade: Reduces the cost of Tier 3 Alloys by 10%
 
 | Tier 2 Alloy | Recipe |
 |--------------|--------|
-| Steel Ingot | ![Imgur](https://i.imgur.com/fmo3QLD.png)
-| Structural Ingot | ![Imgur](https://i.imgur.com/AhlicGa.png)
-| Conductive Ingot | ![Imgur](https://i.imgur.com/EYvyvlW.png)
-| Crystal Composite | ![Imgur](https://i.imgur.com/bQvHiqS.png)
+| Steel Ingot | ![Steel Ingot](https://cdn.discordapp.com/attachments/739536694398812230/879404413280722994/steel.png)
+| Structural Ingot | ![Structural Ingot](https://cdn.discordapp.com/attachments/739536694398812230/879404442678607922/structural_alloy.png)
+| Conductive Ingot | ![Conductive Ingot](https://cdn.discordapp.com/attachments/739536694398812230/879404465751470120/conductive_alloy.png)
+| Crystal Composite | ![Crystal Composite](https://cdn.discordapp.com/attachments/739536694398812230/879404481022935050/crystal_composite.png)
 
 | Tier 3 Alloy | Recipe |
 |--------------|--------|
-| Titanium Steel Ingot | ![Imgur](https://i.imgur.com/cihR0eE.png)
-| Reinforced Structural Ingot | ![Imgur](https://i.imgur.com/TZCSzdm.png)
-| Super Conductive Ingot | ![Imgur](https://i.imgur.com/2tSOXK7.png)
-| Nether Ingot | ![Imgur](https://i.imgur.com/24eM9Oc.png)
-| Ender Ingot | ![Imgur](https://i.imgur.com/OqG8g4z.png)
+| Titanium Steel Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404730349154394/titanium_steel.png)
+| Reinforced Structural Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404786217267220/reinforced_structural_alloy.png)
+| Super Conductive Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404841615638588/super_conductive_alloy.png)
+| Nether Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404878227718154/nether_alloy.png)
+| Ender Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404905549430885/ender_alloy.png)
+| Netherite Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404921940762754/netherite.png)
