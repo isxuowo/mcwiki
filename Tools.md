@@ -4,7 +4,7 @@ The Machine Wrench is a very important tool that every person will need at their
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Wrench | ![Wrench](https://cdn.discordapp.com/attachments/739536694398812230/879172140685996073/wrench.png) | x3 Iron Ingot, x1 Diamond
+| Wrench | ![Wrench](https://cdn.discordapp.com/attachments/739536694398812230/879172140685996073/wrench.png) | <ul><li>x3 Iron Ingot</li><li>x1 Diamond</li></ul> |
 
 ### Multimeter
 
