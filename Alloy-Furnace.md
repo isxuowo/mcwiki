@@ -1,5 +1,9 @@
 Of the 3 machines needed to produce advanced alloys, the Alloy Furnace is the most important. It combines molten resources and items to create molten alloys, which can be piped into a Casting Basin to create ingots.
 
+| Item | Recipe | Items |
+|------|--------|-------|
+| Steam Generator | ![Steam Generator](https://cdn.discordapp.com/attachments/739536694398812230/879387111772553267/steam_generator.png) | <ul><li>x4 Bricks</li><li>x2 Copper Plates</li><li>x1 Redstone Block</li><li>x1 Blast Furnace</li><li>x1 Tier 1 Machine Frame</li></ul> |
+
 ```
 Machine Upgrade: Enables creating Tier 3 Alloys
 Ender Upgrade: Reduces the cost of Tier 2 Alloys by 10%
