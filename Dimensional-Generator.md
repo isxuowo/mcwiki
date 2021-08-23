@@ -1,16 +1,14 @@
-![Ender Generator](https://i.imgur.com/vrobVdK.png?1)
-
 Appears to be able to convert items from various dimensions into raw energy at 24 kW, with rarer items producing power for longer. Initially only accepts Overworld based items. Hopefully the strange sounds coming from the generator isn't a fracture in space time or anything...
+
+| Item | Recipe | Items |
+|------|--------|-------|
+| Dimensional Generator | ![Dimensional Generator](https://cdn.discordapp.com/attachments/739536694398812230/879395935904477304/dimensional_generator.png) | <ul><li>x2 Nether Bricks</li><li>x2 Purpur Blocks</li><li>x2 Super Conductive Plates</li><li>x1 Ender Alloy Ingot</li><li>x1 Nether Alloy Ingot</li><li>x1 Tier 3 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: +100% Energy Generation (48 kW)
 Ender Upgrade: Accepts End based items. No longer accepts Overworld items.
 Nether Upgrade: Accepts Nether based items. No longer accepts Overworld items.
 ```
-
-Recipe:
-
-![Imgur](https://i.imgur.com/jyDgZ2F.png)
 
 Overworld Items | Duration
 ----------------|---------
