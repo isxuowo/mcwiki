@@ -2,12 +2,12 @@ Rods, Plates, and Gears are crafting components used in most recipes in Mechaniz
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Rods | ![Rods](https://cdn.discordapp.com/attachments/739536694398812230/879173936628260994/rod.png) | x4 Redstone, x1 Book
+| Rods | ![Rods](https://cdn.discordapp.com/attachments/739536694398812230/879173936628260994/rod.png) | x3 Any Metal
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Plates | ![Plates](https://cdn.discordapp.com/attachments/739536694398812230/879173995893776465/plate.png) | x4 Redstone, x1 Book
+| Plates | ![Plates](https://cdn.discordapp.com/attachments/739536694398812230/879173995893776465/plate.png) | x4 Any Metal
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Gears | ![Gears](https://cdn.discordapp.com/attachments/739536694398812230/879174010926149642/gear.png) | x4 Redstone, x1 Book
+| Gears | ![Gears](https://cdn.discordapp.com/attachments/739536694398812230/879174010926149642/gear.png) | x5 Any Metal
