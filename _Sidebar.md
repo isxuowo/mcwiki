@@ -22,7 +22,7 @@
 
 ### Age of Machines
 ***
-* [Steam Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Furnace-Generator)
+* [Steam Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Steam-Generator)
 * [Solar Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Solar-Generator)
 * [Bio Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Bio-Generator)
 * [Dimensional Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Dimensional-Generator)
