@@ -1,13 +1,10 @@
-![Imgur](https://i.imgur.com/c28IUDi.png)
-
-Every devive can receive a Machine Upgrade, and your choice of either an Ender or Nether Upgrade. Shift+Right click the upgrade on a machine to install. Ender/Nether upgrades require a Machine Upgrade to have been installed in the machine.
+Most devices can receive a Machine Upgrade, with the additional upgrade of either Ender Upgrade or Nether Upgrade (only 1 can be chosen). Shift+Right click the upgrade on a machine to install. Ender/Nether upgrades require a Machine Upgrade to have been installed in the machine.
 
 Machine Upgrades generally improve power and efficiency by a bit. Ender Upgrades generally greatly improve efficiency, while Nether Upgrades generally improve power but at a cost. However, the upgrades sometimes unlock entire new abilities.
 
-Some machines are not affected by upgrades.
 
-Recipes | -
-----|----
-Machine Upgrade | ![Machine Upgrade Recipe](https://i.imgur.com/c1mrLQ3.png)
-Ender Upgrade | ![Ender Upgrade Recipe](https://i.imgur.com/imgR3m5.png)
-Nether Upgrade | ![Nether Upgrade Recipe](https://i.imgur.com/fXB708d.png)
+| Item | Recipe | Items |
+|------|--------|-------|
+| Machine Upgrade | ![Machine Upgrade](https://cdn.discordapp.com/attachments/739536694398812230/879189829634637844/machine_upgrade.png) | <ul><li>x6 Steel Ingot</li><li>x1 Structural Gear</li><li>x1 Conductive Gear</li><li>x1 Crystal Composite</li></ul> |
+| Ender Upgrade | ![Ender Upgrade](https://cdn.discordapp.com/attachments/739536694398812230/879189868998189116/ender_upgrade.png) | <ul><li>x4 Crystal Composite</li><li>x2 Titanium Steel Rods</li><li>x1 Super Conductive Gear</li><li>x1 Reinforced Structural Gear</li><li>x1 Ender Alloy Gear</li></ul> |
+| Nether Upgrade | ![Nether Upgrade](https://cdn.discordapp.com/attachments/739536694398812230/879189892243005560/nether_upgrade.png) | <ul><li>x4 Crystal Composite</li><li>x2 Titanium Steel Rods</li><li>x1 Super Conductive Gear</li><li>x1 Reinforced Structural Gear</li><li>x1 Nether Alloy Gear</li></ul> |
