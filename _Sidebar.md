@@ -7,6 +7,7 @@
 
 ### Base Module
 ***
+* [Mechanical Manual](https://github.com/ImCoolYeah105/Mechanization/wiki/Mechanical-Manual)
 * [Getting Started](https://github.com/ImCoolYeah105/Mechanization/wiki/Getting-Started)
 * [Ore Generation](https://github.com/ImCoolYeah105/Mechanization/wiki/Ore-Generation)
 * [Tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Tools)
