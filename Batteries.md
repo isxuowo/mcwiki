@@ -1,4 +1,4 @@
-Batteries are one of two options for working with power systems in Mechanization. They store power in large quantities, and also transfer power between generators and machines. The energy system in Mechanization is completely wireless, with batteries serving as the relay between generators and machines. As such, a battery is required to get started in Mechanization. There are currently 3 tiers of batteries, with an extra Quantum Battery.
+Batteries are one of two options for working with power systems in Mechanization. They store power in large quantities, and also transfer power between generators and machines. Energy in Mech is completely wireless, with a Battery or Capacitor required to transfer power. There are currently 3 tiers of Batteries.
 
 Batteries keep their energy when broken with a wrench, so feel free to move them around!
 
