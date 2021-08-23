@@ -2,4 +2,4 @@ The Mechanical Manual is an in-game guide to all items in Mechanization- like th
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Mechanical Manual | ![Mechanical Manual](https://cdn.discordapp.com/attachments/739536694398812230/879172671873617990/mechanical_manual.png) | * x4 Redstone * x1 Book
+| Mechanical Manual | ![Mechanical Manual](https://cdn.discordapp.com/attachments/739536694398812230/879172671873617990/mechanical_manual.png) | x4 Redstone, x1 Book
