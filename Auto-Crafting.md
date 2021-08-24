@@ -1,69 +1,35 @@
-![Auto Crafters](https://i.imgur.com/pkOw8GO.png?1)
-
-Auto-Crafting in Mechanization: Assembly is not a 1:1 auto crafter. Instead, there are a variety of machines, with each one being able to handle different recipes.
+There is not a complete auto crafting in Mechanization. Instead, there are a variety of machines that can handle certain recipes.
 
 ## Compressor
 
 Handles most 2x2 and 3x3 -> single item recipes, ie. 9 iron ingots -> 1 iron block.
 
-![Imgur](https://i.imgur.com/2mu9R6p.png)
-
-| Input | Output |
-|-------|--------|
-| 9 Iron Nuggets | 1 Iron Ingot |
-| 9 Iron Ingots | 1 Iron Block |
-| 9 Gold Nuggets | 1 Gold Ingot |
-| 9 Gold Ingots | 1 Gold Block |
-| 9 Diamonds | 1 Diamond Block |
-| 9 Emeralds | 1 Emerald Block |
-| 4 Quartz | 1 Quartz Block |
-| 9 Redstone | 1 Redstone Block |
-| 9 Coal | 1 Coal Block |
-| 9 Lapis Lazuli | 1 Lapis Lazuli Block |
-| 9 Bone Meal | 1 Bone Block |
-| 9 Prismarine Shards | 1 Prismarine Bricks |
-| 9 Nether Wart | 1 Nether Wart Block |
-| 9 Slime Balls | 1 Slime Block |
-| 9 Melon | 1 Melon Block |
-| 9 Wheat | 1 Hay Bale |
-| 9 Dried Kelp | 1 Dried Kelp Block |
-| 4 Snow Balls | 1 Snow Block |
-| 4 Clay Balls | 1 Clay Block |
-| 4 Glowstone Dust | 1 Glowstone Block |
-| 4 String | 1 Wool |
-| 4 Rabbit Hide | 1 Leather |
+| Item | Recipe | Items |
+|------|--------|-------|
+| Compressor| ![Compressor](https://cdn.discordapp.com/attachments/739536694398812230/879745986048720956/compressor.png) | <ul><li>x4 Piston</li><li>x2 Conductive Plates</li><li>x1 Crafting Table</li><li>x1 Iron Block</li><li>x1 Tier 2 Machine Frame</li></ul> |
 
 ## Decompressor
 
 Same as the compressor, but in reverse. So 1 iron block give 9 iron ingots.
 
-![Imgur](https://i.imgur.com/6Ai9FqS.png)
+| Item | Recipe | Items |
+|------|--------|-------|
+| Decompressor| ![Decompressor](https://cdn.discordapp.com/attachments/739536694398812230/879745998916837386/decompressor.png) | <ul><li>x4 Piston</li><li>x2 Conductive Plates</li><li>x1 Crafting Table</li><li>x1 Iron Ingot</li><li>x1 Tier 2 Machine Frame</li></ul> |
 
 ## Stone Cutter
 
-Creates variants of stone type blocks.
+Creates variants of stone type blocks, ie. Stone -> Stone Bricks
 
-![Imgur](https://i.imgur.com/N6Uxt3K.png)
-
-| Input | Output |
-|-------|--------|
-| Stone | Stone Bricks |
-| End Stone | End Stone Bricks |
-| Diorite | Polished Diorite |
-| Granite | Polished Granite |
-| Andesite | Polished Andesite |
-| 4 Prismarine Shards | 1 Prismarine Block |
-| 4 Sand | 1 Sandstone |
-| 4 Red Sand | 1 Red Sandstone |
-| 4 Bricks | 1 Brick Block |
-| 4 Nether Bricks | 1 Nether Brick Block |
-| 4 Magma Cream | 1 Magma Block |
-| 4 Popped Chorus Fruit | 1 Purpur Block |
+| Item | Recipe | Items |
+|------|--------|-------|
+| Decompressor| ![Decompressor](https://cdn.discordapp.com/attachments/739536694398812230/879746042302718002/stone_cutter.png) | <ul><li>x4 Chiseled Stone Bricks</li><li>x2 Conductive Plates</li><li>x1 Stonecutter</li><li>x1 Iron Pickaxe</li><li>x1 Tier 2 Machine Frame</li></ul> |
 
 ## Dye Machine
 
-The dye machine acts a bit differently. It has 2 slots. A dye goes in the top slot, and a dye-able block (list bellow) goes in the bottom slot. The machine will then dye that block, in batches of 8.
+The Dye Machine acts a bit differently. It has 2 slots. A dye goes in the top slot, and a dye-able block (list bellow) goes in the bottom slot. The machine will then dye that block, in batches of 8.
 
-![Imgur](https://i.imgur.com/1dSwjTn.png)
+| Item | Recipe | Items |
+|------|--------|-------|
+| Dye Machine| ![Dye Machine](https://cdn.discordapp.com/attachments/739536694398812230/879746062036926564/dye_machine.png) | <ul><li>x2 Conductive Rods</li><li>x1 Red Dye</li><li>x1 Yellow Dye</li><li>x1 Blue Dye</li><li>x1 White Dye</li><li>x1 Green Dye</li><li>x1 Black Dye</li><li>x1 Tier 2 Machine Frame</li></ul> |
 
 Can Handle: Wool, Glass, Terracotta, Glazed Terracotta, Concrete, and Concrete Powder
