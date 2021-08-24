@@ -68,7 +68,7 @@
 * [Drill](https://github.com/ImCoolYeah105/Mechanization/wiki/Drill)
 * [Energy Saber](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Saber)
 * [Modular Armor](https://github.com/ImCoolYeah105/Mechanization/wiki/Modular-Armor)
-* [Special Armors](https://github.com/ImCoolYeah105/Mechanization/wiki/Speical-Armors)
+* [Special Armors](https://github.com/ImCoolYeah105/Mechanization/wiki/Special-Armors)
 * [Extreme Plasma Annihilator Cannon (EPAC)](https://github.com/ImCoolYeah105/Mechanization/wiki/EPAC)
 
 ### Assembly
