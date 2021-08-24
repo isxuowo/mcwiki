@@ -1,4 +1,4 @@
-### Item Transmitter
+### Pneumatic Tubing
 
 The item transmitter will wirelessly send items to the nearest item receiver within 16 blocks. Can be linked using Grid IDs.
 
