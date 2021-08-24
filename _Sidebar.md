@@ -62,16 +62,13 @@
 
 ### Gadgets
 ***
-* [XP Tank](https://github.com/ImCoolYeah105/Mechanization/wiki/XP-Tank)
-* [Custom Armors](https://github.com/ImCoolYeah105/Mechanization/wiki/Custom-Armors)
-* [Custom Tools](https://github.com/ImCoolYeah105/Mechanization/wiki/Custom-Tools)
 * [Charging Station](https://github.com/ImCoolYeah105/Mechanization/wiki/Charging-Station)
 * [Portable Battery](https://github.com/ImCoolYeah105/Mechanization/wiki/Portable-Battery)
 * [Tinker Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Tinker-Table)
-* [Titanium Tools & Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Tools)
-* [Titanium Sword & Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Sword)
-* [Titanium Armor & Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Armor)
-* [Guns](https://github.com/ImCoolYeah105/Mechanization/wiki/Guns)
+* [Drill](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Tools)
+* [Energy Saber](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Sword)
+* [Modular Armor](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Armor)
+* [Extreme Plasma Annihilator Cannon (EPAC)](https://github.com/ImCoolYeah105/Mechanization/wiki/Guns)
 
 ### Assembly
 ***
