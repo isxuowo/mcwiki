@@ -10,7 +10,7 @@ Pneumatic Tubing will only insert/extract items in correct slots- for example, i
 
 ### Item Filter
 
-Shift+Right click on a chest to set the filter to the contents of the chest. Then, right click the filter on a Pneumatic Entry or Exit Point to restrict what items they send/recieve.
+Shift+Right click on a chest to set the filter to the contents of the chest. Then, right click the filter on a Pneumatic Entry or Exit Point to restrict what items they send/receive.
 
 | Item | Recipe | Items |
 |------|--------|-------|
