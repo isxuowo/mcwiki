@@ -31,7 +31,7 @@ Redstone	 | 350	| ---| +2 Max Health
 Lapis	         | 350	| ---| +2 Max Health
 Amethyst	 | 350	| ---| +0.01 Movement Speed 
 Crystal Composite| 1000	| ---| +0.05 Movement Speed 
-Glowstone	 | 500	| ---| Illuminating
+Glowstone	 | 500	| ---| Illuminating (Makes you glow)
 Quartz	         | 800	| ---| +0.05% Attack Damage 
 Uranium	         | 350	| ---| +1 Shield Charge Speed
 Plutonium	 | 800	| ---| +2 Shield Charge Speed
