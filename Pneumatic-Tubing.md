@@ -1,24 +1,12 @@
-### Pneumatic Tubing
+Pneumatic Tubing allows quickly and efficiently transferring items between blocks. Place a line of Pneumatic Tubes between the inventories you want to link, then place a Pneumatic Entry-Point on the block you want to extract items from, and a Pneumatic Exit-Point on the block you want to insert items into.
 
-The item transmitter will wirelessly send items to the nearest item receiver within 16 blocks. Can be linked using Grid IDs.
+Pneumatic Tubing will only insert/extract items in correct slots- for example, it won't remove blaze powder from the fuel slot of a brewing stand. Also works with Mech machines, so it won't extract from the input slot of an Arc Furnace.
 
-```
-Machine Upgrade: Works over any distance
-Ender Upgrade: Can send items across dimensions
-Nether Upgrade: Can sent items across dimensions
-```
-
-Recipe:
-
-![Imgur](https://i.imgur.com/br85kNJ.png)
-
-### Item Receiver
-
-Counterpart to the item transmitter. Cannot be upgraded or equiped with an item filter
-
-Recipe:
-
-![Imgur](https://i.imgur.com/qiqkZO0.png)
+| Item | Recipe | Items |
+|------|--------|-------|
+| Pneumatic Tubing | ![Pneumatic Tubing](https://cdn.discordapp.com/attachments/739536694398812230/879748926943686696/item_pipe.png) | <ul><li>x2 Steel Ingots</li><li>x1 Structural Ingots</li></ul> |
+| Pneumatic Entry-Point | ![Pneumatic Tubing](https://cdn.discordapp.com/attachments/739536694398812230/879748944018673714/item_extractor.png) | <ul><li>x2 Steel Ingots</li><li>x1 Conductive Rod</li><li>x1 Crystal Composite</li><li>x1 Pneumatic Tubing</li></ul> |
+| Pneumatic Exit-Point | ![Pneumatic Tubing](https://cdn.discordapp.com/attachments/739536694398812230/879748952755429396/item_inserter.png) | <ul><li>x2 Steel Ingots</li><li>x1 Structural Rod</li><li>x1 Crystal Composite</li><li>x1 Pneumatic Tubing</li></ul> |
 
 ### Item Filter
 
