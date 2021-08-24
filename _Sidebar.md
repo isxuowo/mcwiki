@@ -78,3 +78,4 @@
 * [Auto-Crafting](https://github.com/ImCoolYeah105/Mechanization/wiki/Auto-Crafting)
 * [Hopper Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Hopper-Upgrades)
 * [Pneumatic Tubing](https://github.com/ImCoolYeah105/Mechanization/wiki/Pneumatic-Tubing)
+* [Mech Storage System (MSS)](https://github.com/ImCoolYeah105/Mechanization/wiki/MSS)
