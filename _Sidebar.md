@@ -65,7 +65,7 @@
 * [Charging Station](https://github.com/ImCoolYeah105/Mechanization/wiki/Charging-Station)
 * [Portable Battery](https://github.com/ImCoolYeah105/Mechanization/wiki/Portable-Battery)
 * [Tinker Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Tinker-Table)
-* [Drill](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Tools)
+* [Drill](https://github.com/ImCoolYeah105/Mechanization/wiki/Drill)
 * [Energy Saber](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Sword)
 * [Modular Armor](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Armor)
 * [Extreme Plasma Annihilator Cannon (EPAC)](https://github.com/ImCoolYeah105/Mechanization/wiki/Guns)
