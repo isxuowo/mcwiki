@@ -67,7 +67,7 @@
 * [Tinker Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Tinker-Table)
 * [Drill](https://github.com/ImCoolYeah105/Mechanization/wiki/Drill)
 * [Energy Saber](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Saber)
-* [Modular Armor](https://github.com/ImCoolYeah105/Mechanization/wiki/Titanium-Armor)
+* [Modular Armor](https://github.com/ImCoolYeah105/Mechanization/wiki/Modular-Armor)
 * [Extreme Plasma Annihilator Cannon (EPAC)](https://github.com/ImCoolYeah105/Mechanization/wiki/Guns)
 
 ### Assembly
