@@ -1,89 +1,38 @@
-Titanium armor initially acts almost exactly like diamond armor. However, it can be modified at the Tinker Table with custom Enhancements that make it very powerful.
+Modular Armor is a powerful equipment set that, while starting out with no stats at all, can be upgraded with Plates (ie. Iron Plate). Each Plate has unique effects. While the armor is unbreakable, the plates used to upgrade it have durability.
 
-![armor](https://i.imgur.com/13l8MCw.png?1)
+| Item | Recipe | Items |
+|------|--------|-------|
+| Modular Helmet | ![Modular Helmet](https://cdn.discordapp.com/attachments/739536694398812230/879568147496173619/modular_helmet.png) | <ul><li>x2 Copper Gears</li><li>x2 Tin Plates</li><li>x1 Titanium ingot</li></ul> |
+| Modular Chestplate | ![Modular Chestplate](https://cdn.discordapp.com/attachments/739536694398812230/879568160259461120/modular_chestplate.png) | <ul><li>x4 Iron Ingots</li><li>x2 Copper Rods</li><li>x1 Tin Plate</li><li>x1 Titanium Ingot</li></ul> |
+| Modular  Leggings | ![Modular Leggings](https://cdn.discordapp.com/attachments/739536694398812230/879568168400597062/modular_leggings.png) | <ul><li>x2 Iron Gears</li><li>x2 Tin Plates</li><li>x2 Copper Rods</li><li>x1 Titanium Ingot</li></ul> |
+| Modular Boots | ![Modular Boots](https://cdn.discordapp.com/attachments/739536694398812230/879568187618902066/modular_boots.png) | <ul><li>x2 Iron Rods</li><li>x2 Tin Plates</li><li>x1 Titanium Ingot</li></ul> |
 
-| Titanium Helmet | Titanium Chestplate | Titanium Leggings | Titanium Boots |
-|-----------------|---------------------|-------------------|----------------|
-| ![Helmet Recipe](https://i.imgur.com/tPy4xIg.png?1) | ![Chestplate Recipe](https://i.imgur.com/E5KQ5cc.png?1) | ![Leggings Recipe](https://i.imgur.com/ydFKeGf.png?1) | ![Boots Recipe](https://i.imgur.com/Z4NX6x9.png?1) |
-
-# Armor Enhancements
-
-![Armor Enhancements](https://i.imgur.com/h7aldei.png?1)
-
-#### Armored
-
-Maximum of 2 Armored Enhancements per armor piece. Gives +1 Armor.
-
-![Armored Recipe](https://i.imgur.com/nqeVDYF.png?1)
-
-#### Armor Toughness
-
-Maximum of 2 Armor Toughness Enhancements per armor piece. Gives +1 Armor Toughness.
-
-![Armor Toughness Recipe](https://i.imgur.com/8KMjFHA.png?1)
-
-#### Knockback Resistance
-
-Maximum of 1 Knockback  Enhancement per armor piece. Gives +0.5 Knockback Resistance. Only effective up to 1 Knockback Resistance, so no need to equip on more than 2 pieces of armor.
-
-![KB Resist Recipe](https://i.imgur.com/cKmZ9kr.png?1)
-
-#### Speed
-
-Maximum of 2 Speed Enhancements per armor piece. Gives +10% Movement Speed.
-
-![Speed Recipe](https://i.imgur.com/C5y34d3.png?1)
-
-#### Health
-
-Maximum of 1 Health Enhancement per armor piece. Gives +5 Health.
-
-![Health Recipe](https://i.imgur.com/SMdsoo5.png?1)
-
-#### Antidote
-
-Maximum of 1 Antidote Enhancement overall. Clears negative potion effects. Uses 8 kW passively, plus additional energy to clear effects, with higher severity effects requiring more power.
-
-![Antidote Recipe](https://i.imgur.com/45GIR8V.png?1)
-
-#### Auto Eater
-
-Maximum of 1 Auto Eater Enhancement overall. Uses 16 kJ to automatically eat something from your inventory when low on food. Slightly less efficient than eating normally, and will not feed you completely.
-
-![Auto Eater Recipe](https://i.imgur.com/bRx0FbX.png?1)
-
-#### Flight
-
-Maximum of 1 Flight Enhancement overall. Look up and jump to activate. From there, you can look up/down to go up and down, respectively. Uses 120 kW.
-
-![Flight Recipe](https://i.imgur.com/DxSrVMn.png?1)
-
-#### True Invisibility
-
-Maximum of 1 True Invisibility Enhancement overall. Look straight down and hold shift+space to active. While active you are completely invisible, including armor and held item. In addition, you cannot not be hurt. However you cannot move around or interact with the world. Let go of shift+space to become visible again. Uses 500 kW.
-
-![True Invisibility Recipe](https://i.imgur.com/QGPbqUr.png?1)
-
-#### Night Vision
-
-Maximum of 1 Night Vision Enhancement overall. Grants night vision for 4 kW.
-
-![Night Vision Recipe](https://i.imgur.com/OOCl6fg.png)
-
-#### Shield
-
-Maximum of 1 Shield Enhancement overall. Gives 2 hearts of absorption every 5 seconds as a buffer to incoming damage. Uses 512 kJ to create the shield, then uses 6 kW to maintain the shield after creating it.
-
-![Shield Recipe](https://i.imgur.com/Nz92ZzS.png?1)
-
-#### Slow Fall
-
-Maximum of 1 Slow Fall Enhancement overall. Reduces falling speed and negates fall damage. Uses 160 kW when falling.
-
-![Slow Fall Recipe](https://i.imgur.com/oQBVyAC.png?1)
-
-#### Water Breathing
-
-Maximum of 1 Water Breathing Enhancement overall. Grants water breathing for 6 kW.
-
-![Water Breathing Recipe](https://i.imgur.com/TWKuOwt.png?1)
+| Plate Material | Durability | Base Stats| Upgrade Effects |
+|----------------|------------|-----------|-----------------|
+Iron             | 350	| 2 Armor, 0 Toughness	 | +0.5 Armor
+Tin	         | 350	| 2 Armor, 0 Toughness	 | +1 Toughness
+Copper	         | 350	| 2 Armor, 0 Toughness	 | +1 Shield Capacity (Shield used power to reduce incoming damage)
+Steel	         | 800	| 3 Armor, 0.5 Toughness | +1 Armor
+Structural	 | 800	| 3 Armor, 0.5 Toughness | +2 Toughness 
+Conductive	 | 800	| 3 Armor, 0.5 Toughness | +2 Shield Capacity
+Titanium Steel	 | 1200	| 4 Armor, 1.5 Toughness | +1.5 Armor
+Reinforced Structural	| 1200	| 4 Armor, 1.5 Toughness | +3 Toughness
+Super Conductive	| 1200	| 4 Armor, 1.5 Toughness | +3 Shield Capacity
+Gold	         | 64	|---| +0.05 Movement Speed
+Netherite	 | 1000	| 5.5 Armor, 3 Toughness | ---
+Titanium	 | 1000	| 3 Armor, 1 Toughness	 | Reinforced (Reinforced absorbs durability damage dealt to other plates)
+Ender	         | 1550	| 5 Armor, 2 Toughness	 | +1 Armor, +2 Toughness
+Nether	         | 1550	| 5 Armor, 2 Toughness	 | +4 Shield Cap 
+Coal	         | 350	| ---| +0.25 Knockback Resistance
+Obsidian	 | 800	| ---| +0.5 Knockback Resistance
+Emerald	         | 800	| ---| Reinforced (Reinforced absorbs durability damage dealt to other plates)
+Diamond	         | 800	| ---| Reinforced (Reinforced absorbs durability damage dealt to other plates)
+Redstone	 | 350	| ---| +2 Max Health
+Lapis	         | 350	| ---| +2 Max Health
+Amethyst	 | 350	| ---| +0.01 Movement Speed 
+Crystal Composite| 1000	| ---| +0.05 Movement Speed 
+Glowstone	 | 500	| ---| Illuminating
+Quartz	         | 800	| ---| +0.05% Attack Damage 
+Uranium	         | 350	| ---| +1 Shield Charge Speed
+Plutonium	 | 800	| ---| +2 Shield Charge Speed
+Experience	 | 500	| ---| Repair (Repair absorbs durability damage dealt to other plates and repairs them)
