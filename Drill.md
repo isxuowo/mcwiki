@@ -4,8 +4,8 @@ The Drill is a powerful multitool capable of mining almost any block. It cannot 
 |------|--------|-------|
 | Drill | ![Drill](https://cdn.discordapp.com/attachments/739536694398812230/879563236368855050/drill.png) | <ul><li>x3 Copper Rods</li><li>x2 Tin Ingots</li><li>x1 Titanium Ingot</li><li>x1 Iron Gear</li></ul> |
 
-| Material | Durability | Effect |
-|----------|------------|--------|
+| Gear Material | Durability | Effect |
+|---------------|------------|--------|
 Iron       | 750	| +1 Mining Area
 Tin        | 750	| Fortune I
 Copper     | 750	| +6 Mining Speed
