@@ -6,24 +6,24 @@ The Energy Saber is a powerful melee weapon that can be upgraded with Rods (ie. 
 
 | Rod Material | Durability | Base Stats | Upgrade Effect |
 |--------------|------------|------------|----------------|
-Iron           | 750	    | 4 Damage, 1 Attack Speed, 3 Throw Range    | Damage +0.5
-Tin            | 750	    | 4 Damage, 1 Attack Speed, 3 Throw Range	 | Range +1
-Copper         | 750	    | 4 Damage, 1 Attack Speed, 3 Throw Range	 | Speed +0.25
-Steel          | 1500	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | Damage +1
-Structural     | 1500	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | Range +2
-Conductive     | 1500	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | Speed +0.5
-Titanium Steel | 2500	    | 6 Damage, 1.5 Attack Speed, 7 Throw Range  | Damage +1.5
-Reinforced Structural | 2500| 6 Damage, 1.5 Attack Speed, 7 Throw Range  | Range +3
-Super Conductive | 2500	    | 6 Damage, 1.5 Attack Speed, 7 Throw Range  | Speed +0.75
-Gold	       | 128        | ---                                        | Speed +2
+Iron           | 750	    | 4 Damage, 1 Attack Speed, 3 Throw Range    | +0.5 Damage
+Tin            | 750	    | 4 Damage, 1 Attack Speed, 3 Throw Range	 | +1 Range
+Copper         | 750	    | 4 Damage, 1 Attack Speed, 3 Throw Range	 | +0.25 Speed
+Steel          | 1500	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | +1 Damage
+Structural     | 1500	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | +2 Range
+Conductive     | 1500	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | +0.5 Speed
+Titanium Steel | 2500	    | 6 Damage, 1.5 Attack Speed, 7 Throw Range  | +1.5 Damage
+Reinforced Structural | 2500| 6 Damage, 1.5 Attack Speed, 7 Throw Range  | +3 Range
+Super Conductive | 2500	    | 6 Damage, 1.5 Attack Speed, 7 Throw Range  | +0.75 Speed
+Gold	       | 128        | ---                                        | +2 Speed
 Netherite      | 2000	    | 8 Damage, 1.75 Attack Speed, 9 Throw Range | ---
-Titanium       | 2000	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | Reinforced
+Titanium       | 2000	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | Reinforced (Reinforced absorbs durability damage dealt to other Rods)
 Ender          | 3000	    | 7 Damage, 1.5 Attack Speed, 9 Throw Range  | Looting 4 
-Nether         | 3000	    | 7 Damage, 1.5 Attack Speed, 9 Throw Range  | Damage +2
+Nether         | 3000	    | 7 Damage, 1.5 Attack Speed, 9 Throw Range  | +2 Damage
 Coal           | 750	| ---| Fire Aspect
 Obsidian       | 1500	| ---| Fire Aspect
-Emerald        | 1500	| ---| Reinforced
-Diamond        | 1500	| ---| Reinforced
+Emerald        | 1500	| ---| Reinforced (Reinforced absorbs durability damage dealt to other Rods)
+Diamond        | 1500	| ---| Reinforced (Reinforced absorbs durability damage dealt to other Rods)
 Redstone       | 750	| ---| Vampiric
 Lapis          | 750	| ---| Slowness
 Amethyst       | 750	| ---| Weakness
@@ -32,4 +32,4 @@ Glowstone      | 1000	| ---| Glowing
 Quartz         | 1500	| ---| Weakness
 Uranium        | 750	| ---| Poison
 Plutonium      | 1500	| ---| Wither
-Experience     | 1000	| ---| Repair
+Experience     | 1000	| ---| Repair (Repair absorbs durability damage dealt to other Rods and also repairs them)
