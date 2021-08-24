@@ -1,107 +1,24 @@
-Plasma guns are advanced weapons that every kill-thirsty Minecrafter needs in their arsenal. Being plasma based, they consume power from portable batteries. Also be sure to watch you heat level, or you're guns will have to stop firing in order to cool down.
+The Extreme Plasma Annihilator Cannon (EPAC) Will wreck all your enemies. Prepair to 360 cross-map no scope all the Creepers WhOoOoOoOoOoOaA!
 
-Controls: Right click to fire, left click to aim down sights.
+Requires power from a Portable Battery.
 
-## Plasma Sub-Machine Gun
-![SMG](https://i.imgur.com/Oi0b2fg.png?1)
 
-| Fire Rate | Damage | Recoil | Energy Usage |
-|-----------|--------|--------|--------------|
-| Very High | Low | High | Low |
+| Item | Recipe | Items |
+|------|--------|-------|
+| EPAC| ![EPAC](https://cdn.discordapp.com/attachments/739536694398812230/879727728381808710/plasma_weapon.png) | <ul><li>x2 Titanium Steel Ingots</li><li>x2 Super Conductive Rods</li><li>x1 Reinforced Titanium Plates</li></ul> |
 
-Recipe:
+## Upgrades
 
-![SMG Recipe](https://i.imgur.com/fd6oBlP.png?1)
+The EPAC can be upgraded with new weapon parts that drastically alter how it handles.
 
-## Plasma Rifle
-![Rifle](https://i.imgur.com/pxiYT0O.png?1)
 
-| Fire Rate | Damage | Recoil | Energy Usage |
-|-----------|--------|--------|--------------|
-| High | Medium | Medium | Medium |
-
-Recipe:
-
-![Rifle Recipe](https://i.imgur.com/TEvyJkh.png?1)
-
-## Plasma Pistol
-![Pistol](https://i.imgur.com/5dX7RZN.png?1)
-
-| Fire Rate | Damage | Recoil | Energy Usage |
-|-----------|--------|--------|--------------|
-| Medium | Medium | Low | Low |
-
-Recipe:
-
-![Pistol Recipe](https://i.imgur.com/710b1qW.png?1)
-
-## Plasma Sniper Rifle
-![Sniper](https://i.imgur.com/T0wBs3J.png?1)
-
-| Fire Rate | Damage | Recoil | Energy Usage |
-|-----------|--------|--------|--------------|
-| Low | High | Medium | Medium |
-
-Recipe:
-
-![Sniper Recipe](https://i.imgur.com/oW72rHg.png?1)
-
-# Gun Parts
-
-![Gun Parts](https://i.imgur.com/rvtTuGU.png?1)
-
-Gun parts are crafting ingredients for making guns.
-
-Recipes:
-
-| Barrel | Magazine | Trigger | Stock |
-|--------|----------|---------|-------|
-| ![Barrel Recipe](https://i.imgur.com/jkjJWjA.png?1) | ![Magazine Recipe](https://i.imgur.com/LFKNTpD.png?1) | ![Trigger Recipe](https://i.imgur.com/HSHAmkW.png?1) | ![Stock Recipe](https://i.imgur.com/X5Bt8NK.png?1) |
-
-# Gun Attachments
-
-![Attachments](https://i.imgur.com/ij47Jll.png?1)
-
-Gun Attachments are added to the guns in the Tinker Table. Each one has various effects on the weapon's stats.
-
-#### Vertical Grip
-
-Reduces vertical recoil.
-
-![Vertical Grip Recipe](https://i.imgur.com/VhAgRf9.png?1)
-
-#### Angled Grip
-
-Reduces horizontal recoil.
-
-![Angled Grip Recipe](https://i.imgur.com/juOSSdu.png?1)
-
-#### Cryothermal Unit
-
-Reduces weapon heat by 20%.
-
-![Cryo Recipe](https://i.imgur.com/nYFkfqU.png?1)
-
-#### Fluid Actuator
-
-Increases projectile velocity by 20%.
-
-![Fluid Actuator Recipe](https://i.imgur.com/HaNVzPM.png?1)
-
-#### Plasma Pump
-
-Increases fire rate by 20%. Negligible effects on fast firing weapons.
-
-![Plasma Pump Recipe](https://i.imgur.com/OEJ9PkU.png?1)
-
-#### Super Charger
-
-Increases damage by 25%. Up to 4 of this attachments can be applied.
-
-![Super Charger Recipe](https://i.imgur.com/kba4qaQ.png?1)
-
-#### Bouncy Projectiles
-
-Projectiles ricochet off walls.
-
-![Bouncy Recipe](https://i.imgur.com/HYdMMpw.png?1)
+| Item | Effects | Recipe | Items |
+|------|---------|--------|-------|
+| Supercharged Chamber | +500% Damage, -80% Fire Rate | ![Supercharged Chamber](https://cdn.discordapp.com/attachments/739536694398812230/879728103772020786/supercharged_chamber.png) | <ul><li>x4 Red Stained Glass</li><li>x2 Reinforced Structural Rods</li><li>x2 Reinforced Structural Ingots</li><li>x1 Nether Alloy Ingot</li></ul> |
+| Overclocked Chamber | -80% Damage, +500% Fire Rate | ![Overclocked Chamber](https://cdn.discordapp.com/attachments/739536694398812230/879728065528361031/overclocked_chamber.png) | <ul><li>x4 Blue Stained Glass</li><li>x2 Reinforced Structural Rods</li><li>x2 Reinforced Structural Ingots</li><li>x1 Ender Alloy Ingot</li></ul> |
+| High Pressure Pump | +200% Damage, -30% Fire Rate | ![High Pressure Pump](https://cdn.discordapp.com/attachments/739536694398812230/879728571055243274/high_pressure_pump.png) | <ul><li>x4 Red Stained Glass</li><li>x2 Redstone Plate</li><li>x1 Titanium Steel Gear</li><li>x1 Titanium Steel Rod</li><li>x1 Nether Alloy Ingot</li></ul> |
+| Accelerated Pump | -30% Damage, 200% Fire Rate | ![Accelerated Pump](https://cdn.discordapp.com/attachments/739536694398812230/879728223469072414/accelerated_pump.png) | <ul><li>x4 Blue Stained Glass</li><li>x2 Redstone Plate</li><li>x1 Titanium Steel Gear</li><li>x1 Titanium Steel Rod</li><li>x1 Ender Alloy Ingot</li></ul> |
+| Long Barrel | +4 Velocity |![Long Barrel](https://cdn.discordapp.com/attachments/739536694398812230/879728607210115153/long_barrel.png) | <ul><li>x4 Super Conductive Ingots</li><li>x2 Super Conductive Rods</li><li>x1 Crystal Composite</li></ul> |
+| Split Barrel | -2 Velocity, +8 Projectiles | ![Split Barrel](https://cdn.discordapp.com/attachments/739536694398812230/879728632996716624/split_barrel.png) | <ul><li>x3 Super Conductive Rods</li><li>x1 Super Conductive Ingots</li><li>x1 Crystal Composite</li></ul> |
+| Energized Heat Sink | +50% Energy Usage, -15% Heat |![Energized Heat Sink](https://cdn.discordapp.com/attachments/739536694398812230/879728778824253520/energized_heat_sink.png) | <ul><li>x4 Conductive Rods</li><li>x3 Blue Ice</li></ul> |
+| Passive Heat Sink | -50% Energy Usage, +15% Heat | ![Passive Heat Sink](https://cdn.discordapp.com/attachments/739536694398812230/879728799833550908/passive_heat_sink.png) | <ul><li></li>x4 Structural Rods<li>s</li><li>x3 Blue Ice</li></ul> |
