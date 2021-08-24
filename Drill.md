@@ -1,4 +1,4 @@
-The Drill is a powerful multitool capable of mining almost any block. It cannot be enchanted, but can be upgraded with Gears (ie. Iron Gear). Each gear has unique effects.
+The Drill is a powerful multitool capable of mining almost any block. It cannot be enchanted, but can be upgraded with Gears (ie. Iron Gear). Each gear has unique effects. While the Drill is unbreakable, the Gears used to upgrade it have durability.
 
 | Item | Recipe | Items |
 |------|--------|-------|
@@ -32,4 +32,4 @@ Glowstone  |	1000	| Illuminating (Lights up dark areas)
 Quartz     |	1500	| Sharp (damage +3)
 Uranium    |	750	| Auto Smelt
 Plutonium  |	1500	| Auto Smelt
-Experience |	1000	| Repair
+Experience |	1000	| Repair (Absorbs durability damage dealt to other Gears and repairs them)
