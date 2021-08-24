@@ -77,4 +77,4 @@
 * [Auto Jukebox](https://github.com/ImCoolYeah105/Mechanization/wiki/Auto-Jukebox)
 * [Auto-Crafting](https://github.com/ImCoolYeah105/Mechanization/wiki/Auto-Crafting)
 * [Hopper Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Hopper-Upgrades)
-* [Item Transmitters](https://github.com/ImCoolYeah105/Mechanization/wiki/Item-Transmitter)
+* [Pneumatic Tubing](https://github.com/ImCoolYeah105/Mechanization/wiki/Pneumatic-Tubing)
