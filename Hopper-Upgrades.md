@@ -12,4 +12,4 @@ These hoppers will draw all items in a 12 block radius to it.
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Ender Hopper | ![Ender Hopper](https://cdn.discordapp.com/attachments/739536694398812230/879748262494625822/fast_hopper.png) | <ul><li>x4 Steel Ingots</li><li>x2 Structural Ingots</li><li>x2 Eye of Ender</li><li>x1 Hopper</li></ul> |
+| Ender Hopper | ![Ender Hopper](https://cdn.discordapp.com/attachments/739536694398812230/879748283545845781/ender_hopper.png) | <ul><li>x4 Steel Ingots</li><li>x2 Structural Ingots</li><li>x2 Eye of Ender</li><li>x1 Hopper</li></ul> |
