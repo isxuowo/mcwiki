@@ -2,4 +2,4 @@ The Centrifuge enriches nuclear fuels cells to create more powerful fuels. The h
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Centrifuge | ![Centrifuge](https://cdn.discordapp.com/attachments/739536694398812230/879558654314037308/centrifuge.png) | <ul><li>x4 Red Nether Bricks</li><li>x2 Conductive Gears</li>x1 Yellow Dye<li></li><li>x1 Hopper</li><li>x1 Tier 2 Machine Frame</li></ul> |
+| Centrifuge | ![Centrifuge](https://cdn.discordapp.com/attachments/739536694398812230/879558654314037308/centrifuge.png) | <ul><li>x4 Red Nether Bricks</li><li>x2 Conductive Gears</li><li>x1 Yellow Dye</li><li>x1 Hopper</li><li>x1 Tier 2 Machine Frame</li></ul> |
