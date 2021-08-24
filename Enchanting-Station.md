@@ -1,11 +1,11 @@
-![Disenchanter](https://i.imgur.com/9yapm0I.png?1)
+The Enchanting Station will, at the cost of power and liquid experience, add an enchantment from an enchanted book onto another item.
 
-The Disenchanter will remove enchants off an item and put it onto a book. Requires lapis to operation. Uses 2048 kW/Operation.
+| Item | Recipe | Items |
+|------|--------|-------|
+| Enchanting Station | ![Enchanting Station](https://cdn.discordapp.com/attachments/739536694398812230/879557863498997820/enchanting_station.png) | <ul><li>x4 Crying Obsidian</li><li>x2 Crystal Composite</li><li>x2 Super Conductive Gears</li><li>x1 Tier 3 Machine Frame</li></ul> |
 
 ```
-Machine Upgrade: Currently no effect
+Machine Upgrade: Allows combining some invalid enchantments- like Protection and Projectile Protection
+Ender Upgrade: Allows Disenchanting items by combining them with a regular book
+Nether Upgrade: Allows Overenchanting items, bypassing the normal level limit
 ```
-
-Recipe:
-
-![Imgur](https://i.imgur.com/NCB9hrV.png)
