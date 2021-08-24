@@ -1,57 +1,35 @@
-The Titanium Sword initially acts almost exactly like a diamond sword. However, it can be modified at the Tinker Table with custom Enhancements that make it very powerful
+The Energy Saber is a powerful melee weapon that can be upgraded with Rods (ie. Iron Rod). Each rod has unique effects. Once upgraded, it gains the ability to be thrown with right click. While the Energy Saber is unbreakable, the Rods used to upgrade it have durability. The Energy Saber can be dyed any color.
 
-Recipe:
+| Item | Recipe | Items |
+|------|--------|-------|
+| Energy Saber | ![Energy Saber](https://cdn.discordapp.com/attachments/739536694398812230/879565308141137961/energy_saber.png) | <ul><li>x2 Copper Rods</li><li>x1 Iron Gear</li><li>x1 Diamond</li><li>x1 Titanium</li></ul> |
 
-![Titanium Sword Recipe](https://i.imgur.com/Q2iPni0.png?1)
-
-# Weapon Enhancements
-
-![Weapon Enhancements](https://i.imgur.com/o54VHbV.png?1)
-
-#### Attack Damage
-
-Up to 4 Attack Damage Enhancements can be applied per weapon. Gives +2 melee damage per level.
-
-![Damage Recipe](https://i.imgur.com/y6acuwT.png?1)
-
-#### Attack Speed
-
-Up to 4 Attack Speed Enhancements can be applied per weapon. Gives +0.25 attack speed per level.
-
-![Attack Speed Recipe](https://i.imgur.com/Ie3OVlO.png?1)
-
-#### Poison
-
-Hitting something gives it poison 2 for 4 seconds.
-
-![Poison Recipe](https://i.imgur.com/Q3SPTgl.png?1)
-
-#### Wither
-
-Hitting something gives it wither 2 for 4 seconds.
-
-![Wither Recipe](https://i.imgur.com/p2jYYyA.png?1)
-
-#### Vamparic
-
-Hitting something will give the user regeneration.
-
-![Vamparic Recipe](https://i.imgur.com/PDxVfkX.png?1)
-
-#### Slowness
-
-Hitting something gives it slowness for 4 seconds.
-
-![Slowness Recipe](https://i.imgur.com/Qlrgr3H.png?1)
-
-#### Weakness
-
-Hitting something gives it weakness for 4 seconds.
-
-![Weakness Recipe](https://i.imgur.com/MKshGnv.png?1)
-
-#### Glowing
-
-Hitting something makes it glow for 4 seconds.
-
-![Glowing Recipe](https://i.imgur.com/vD3NzsA.png?1)
+| Rod Material | Durability | Base Stats | Upgrade Effect |
+|--------------|------------|------------|----------------|
+Iron           | 750	    | 4 Damage, 1 Attack Speed, 3 Throw Range    | Damage +0.5
+Tin            | 750	    | 4 Damage, 1 Attack Speed, 3 Throw Range	 | Range +1
+Copper         | 750	    | 4 Damage, 1 Attack Speed, 3 Throw Range	 | Speed +0.25
+Steel          | 1500	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | Damage +1
+Structural     | 1500	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | Range +2
+Conductive     | 1500	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | Speed +0.5
+Titanium Steel | 2500	    | 6 Damage, 1.5 Attack Speed, 7 Throw Range  | Damage +1.5
+Reinforced Structural | 2500| 6 Damage, 1.5 Attack Speed, 7 Throw Range  | Range +3
+Super Conductive | 2500	    | 6 Damage, 1.5 Attack Speed, 7 Throw Range  | Speed +0.75
+Gold	       | 128        | ---                                        | Speed +2
+Netherite      | 2000	    | 8 Damage, 1.75 Attack Speed, 9 Throw Range | ---
+Titanium       | 2000	    | 5 Damage, 1.25 Attack Speed, 5 Throw Range | Reinforced
+Ender          | 3000	    | 7 Damage, 1.5 Attack Speed, 9 Throw Range  | Looting 4 
+Nether         | 3000	    | 7 Damage, 1.5 Attack Speed, 9 Throw Range  | Damage +2
+Coal           | 750	| ---| Fire Aspect
+Obsidian       | 1500	| ---| Fire Aspect
+Emerald        | 1500	| ---| Reinforced
+Diamond        | 1500	| ---| Reinforced
+Redstone       | 750	| ---| Vampiric
+Lapis          | 750	| ---| Slowness
+Amethyst       | 750	| ---| Weakness
+Crystal Composite | 2000| ---| Looting 3
+Glowstone      | 1000	| ---| Glowing
+Quartz         | 1500	| ---| Weakness
+Uranium        | 750	| ---| Poison
+Plutonium      | 1500	| ---| Wither
+Experience     | 1000	| ---| Repair
