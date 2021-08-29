@@ -165,6 +165,13 @@ summon <new block>
 execute as @e[<new block>] at @s run function mechanization:machines/machines/liquid_pipe/add_adjacent_pipes
 ```
 
+### Breaking Liquid Pipe Connections
+
+If a machine is ever broken, run this command to disconnect adjacent pipes:
+```
+function mechanization:machines/machines/liquid_pipe/remove_adjacent_pipes
+```
+
 # Custom Pneumatic Tubing Interactions
 
 ### Extracting
