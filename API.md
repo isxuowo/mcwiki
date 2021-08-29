@@ -145,7 +145,7 @@ execute if score $temp_4 mech_data matches 0 run scoreboard players operation @s
 ```
 
 ### Connecting a Machine to Liquid Pipes
-1. Extend the function tags `liquid_pipe_can_send` and/or `liquid_pipe_can_accept`. These functions tell liquid pipes if they should pull/push liquid from the side its connected to. Use this code for each machine:
+1. Add the tag `mech_liquid_src` to have Liquid Pipes draw liquid from your block, and `mech_liquid_dest` to send liquid to your block. Them, extend the function tags `liquid_pipe_can_send` and/or `liquid_pipe_can_accept`. These functions tell liquid pipes if they should pull/push liquid from the side its connected to. Use this code for each machine:
 ```
 execute if entity @s[tag=<custom block>] if score $in_0 mech_data matches 0 run scoreboard players set $out_0 mech_data 1
 
