@@ -10,6 +10,11 @@ Ender Upgrade: Reduces the cost of Tier 2 Alloys by 10%
 Nether Upgrade: Reduces the cost of Tier 3 Alloys by 10%
 ```
 
+### Creating Alloys Overview
+
+![Alloys](https://cdn.discordapp.com/attachments/739536694398812230/883357095704018974/alloys_tutorial.png)
+
+
 ### Alloy Furnace Recipes:
 
 | Tier 2 Alloy | Recipe |
