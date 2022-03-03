@@ -2,7 +2,7 @@ The Quarry will dig a hole down to bedrock storing any broken blocks in its inve
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Steam Generator | ![Steam Generator](https://cdn.discordapp.com/attachments/739536694398812230/879439501867499580/quarry.png) | <ul><li>x2 Crystal Composite</li><li>x2 Conductive Gears</li><li>x1 Diamond Sword</li><li>x1 Diamond Pickaxe</li><li>x1 Diamond Axe</li><li>x1 Diamond Shovel</li><li>x1 Tier 1 Machine Frame</li></ul> |
+| Steam Generator | ![Steam Generator](https://cdn.discordapp.com/attachments/739536694398812230/879439501867499580/quarry.png) | <ul><li>x2 Crystal Composite</li><li>x2 Conductive Gears</li><li>x1 Diamond Sword</li><li>x1 Diamond Pickaxe</li><li>x1 Diamond Axe</li><li>x1 Diamond Shovel</li><li>x1 Tier 2 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: x2 mining speed
