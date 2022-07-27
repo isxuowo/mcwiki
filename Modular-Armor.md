@@ -7,8 +7,8 @@ Modular Armor is a powerful equipment set that, while starting out with no stats
 | Modular  Leggings | ![Modular Leggings](https://cdn.discordapp.com/attachments/739536694398812230/879568168400597062/modular_leggings.png) | <ul><li>x2 Tin Gears</li><li>x2 Iron Plates</li><li>x2 Copper Rods</li><li>x1 Titanium Ingot</li></ul> |
 | Modular Boots | ![Modular Boots](https://cdn.discordapp.com/attachments/739536694398812230/879568187618902066/modular_boots.png) | <ul><li>x2 Iron Rods</li><li>x2 Tin Plates</li><li>x1 Titanium Ingot</li></ul> |
 
-| Plate Material | Durability | Base Stats| Upgrade Effects |
-|----------------|------------|-----------|-----------------|
+| Plate Material | Durability | Armor | Armor Toughness | Effects |
+|----------------|------------|-------|-----------------|---------|
 Iron | 500 | 0.75 | 0 |  
 Tin | 500 | 0.5 | 0.25 |  
 Copper | 500 | 0.5 | 0 | shield cap +1
