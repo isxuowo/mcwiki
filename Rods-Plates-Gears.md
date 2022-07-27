@@ -1,4 +1,4 @@
-Rods, Plates, and Gears are crafting components used in most recipes in Mechanization. They can be crafted from any metal (no gems like Diamond). A Casting Basin can be used to create Rods, Plates, and Gears from metal and other minerals (can use Diamond, and when upgraded reduces the cost of creating them.
+Rods, Plates, and Gears are crafting components used in most recipes in Mechanization. They can be crafted from any metal. A Casting Basin can be used to create Rods, Plates, and Gears from metals and other minerals like diamond. Additionally, the Casting Basin can be upgraded to reduce the cost of creating Rods, Plates, and Gears.
 
 | Item | Recipe | Items |
 |------|--------|-------|
