@@ -16,8 +16,23 @@ The Multimeter is a great tool for checking up on your energy grid. Right clicki
 
 ### Vial
 
-The Vial can be used to store liquids, like a bucket. However, it can also store gasses like Steam, and can hold less than 1 bucket of liquid (if a tank has 100 mL of molten iron, the vial can pick it up). Useful for clearing out little bits of liquid stuck in machines.
+The Vial can be used to store liquids, like a bucket. However, it can also store gasses like Steam, and can hold less than 1 bucket of liquid (if a tank has 100 mL of molten iron, the vial can pick it up). Useful for clearing out little bits of liquid stuck in machines. You can also drink the contents of the vial, though that can be dangerous...
 
 | Item | Recipe | Items |
 |------|--------|-------|
 | Vial| ![Vial](https://cdn.discordapp.com/attachments/739536694398812230/879191390213517332/vial.png) | <ul><li>x2 Steel Ingot</li><li>x1 Glass</li></ul>
+
+### GPS
+
+Sneak+Right Click to store the location of the targeted block to the GPS. Then, Right Click on a machine that needs coords (like the Teleporter) to transfer the cords to that machine.
+
+| Item | Recipe | Items |
+|------|--------|-------|
+| Vial| ![Vial](
+### Vial
+
+The Vial can be used to store liquids, like a bucket. However, it can also store gasses like Steam, and can hold less than 1 bucket of liquid (if a tank has 100 mL of molten iron, the vial can pick it up). Useful for clearing out little bits of liquid stuck in machines.
+
+| Item | Recipe | Items |
+|------|--------|-------|
+| GPS | ![Vial](https://cdn.discordapp.com/attachments/739536694398812230/879191390213517332/vial.png) | <ul><li>x2 Steel Ingot</li><li>x1 Glass</li></ul>) | <ul><li>x4 Gold Ingot</li><li>x2 Copper Ingot</li><li>x1 Eye of Ender</li><li>x1 Glass</li></ul>
