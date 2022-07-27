@@ -19,6 +19,7 @@
 
 ### Age of Machines
 ***
+* [Cables](https://github.com/ImCoolYeah105/Mechanization/wiki/Cables)
 * [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
 * [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
 * [Steam Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Steam-Generator)
