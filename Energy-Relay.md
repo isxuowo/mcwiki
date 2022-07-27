@@ -1,9 +1,4 @@
-The Energy Relay is a powerful device enabling extensive customization of an energy grid. It has 4 modes that can be toggled with a machine wrench.
-
-* Transmission Mode: Sends power from a battery/capacitor to a machine within 48 blocks
-* Collection Mode: Collects energy from generators within 48 blocks and sends the power to a battery/capacitor
-* Import Mode: Collects energy from another relay set to Export mode
-* Export Mode: Sends energy to another relay set to Import mode
+The Energy Relay is a device capable of wirelessly transfering energy up to 48 blocks. Use a wrench to toggle between sending and receiving energy.
 
 | Item | Recipe | Items |
 |------|--------|-------|
