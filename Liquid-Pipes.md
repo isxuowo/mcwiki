@@ -1,4 +1,4 @@
-Liquid Pipes automatically transfer liquids between machines, such as pulling water from a Liquid Accumulator and transferring to a Steam Generator so it can produce power. Generally, the top and bottom of a machine output stored liquid, and the sides input liquid (unless a machine only inputs or outputs, then all sides do that respectively).
+Liquid Pipes automatically transfer liquids between machines, such as pulling water from a Liquid Accumulator and transferring to a Steam Generator so it can produce power. Generally, if a machine can both input and output liquid (like how the Steam Generator can input water while outputting steam), then the top and bottom of a machine output stored liquid, and the sides input liquid.
 
 | Item | Recipe | Items |
 |------|--------|-------|
