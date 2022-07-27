@@ -9,30 +9,30 @@ Modular Armor is a powerful equipment set that, while starting out with no stats
 
 | Plate Material | Durability | Base Stats| Upgrade Effects |
 |----------------|------------|-----------|-----------------|
-Iron             | 350	| 2 Armor, 0 Toughness	 | +0.5 Armor
-Tin	         | 350	| 2 Armor, 0 Toughness	 | +1 Toughness
-Copper	         | 350	| 2 Armor, 0 Toughness	 | +1 Shield Capacity (Shield used power to reduce incoming damage)
-Steel	         | 800	| 3 Armor, 0.5 Toughness | +1 Armor
-Structural	 | 800	| 3 Armor, 0.5 Toughness | +2 Toughness 
-Conductive	 | 800	| 3 Armor, 0.5 Toughness | +2 Shield Capacity
-Titanium Steel	 | 1200	| 4 Armor, 1.5 Toughness | +1.5 Armor
-Reinforced Structural	| 1200	| 4 Armor, 1.5 Toughness | +3 Toughness
-Super Conductive	| 1200	| 4 Armor, 1.5 Toughness | +3 Shield Capacity
-Gold	         | 64	|---| +0.05 Movement Speed
-Netherite	 | 1000	| 5.5 Armor, 3 Toughness | ---
-Titanium	 | 1000	| 3 Armor, 1 Toughness	 | Reinforced (Reinforced absorbs durability damage dealt to other plates)
-Ender	         | 1550	| 5 Armor, 2 Toughness	 | +1 Armor, +2 Toughness
-Nether	         | 1550	| 5 Armor, 2 Toughness	 | +4 Shield Cap 
-Coal	         | 350	| ---| +0.25 Knockback Resistance
-Obsidian	 | 800	| ---| +0.5 Knockback Resistance
-Emerald	         | 800	| ---| Reinforced (Reinforced absorbs durability damage dealt to other plates)
-Diamond	         | 800	| ---| Reinforced (Reinforced absorbs durability damage dealt to other plates)
-Redstone	 | 350	| ---| +2 Max Health
-Lapis	         | 350	| ---| +2 Max Health
-Amethyst	 | 350	| ---| +0.01 Movement Speed 
-Crystal Composite| 1000	| ---| +0.05 Movement Speed 
-Glowstone	 | 500	| ---| Illuminating (Makes you glow)
-Quartz	         | 800	| ---| +0.05% Attack Damage 
-Uranium	         | 350	| ---| +1 Shield Charge Speed
-Plutonium	 | 800	| ---| +2 Shield Charge Speed
-Experience	 | 500	| ---| Repair (Repair absorbs durability damage dealt to other plates and repairs them)
+Iron | 500 | 0.75 | 0 |  
+Tin | 500 | 0.5 | 0.25 |  
+Copper | 500 | 0.5 | 0 | shield cap +1
+Steel | 1500 | 1 | 0.25 |  
+Structural | 1500 | 0.75 | 0.5 |  
+Conductive | 1500 | 0.75 | 0.25 | shield cap +2
+Titanium Steel | 4500 | 1.5 | 0.5 |  
+Reinforced Structural | 4500 | 1 | 1 |  
+Super Conductive | 4500 | 1 | 0.5 | shield cap +3
+Gold | 125 | 0.25 | 0 | Speed +0.1
+Netherite | 3000 | 1.25 | 0.5 |  
+Titanium | 3000 | 1 | 0.5 | Health +2.5
+Ender | 4500 | 1.5 | 1 |  
+Nether | 4500 | 1 | 0.5 | shield cap +4
+Coal | 500 | 0.25 | 0 | kb resist +0.5
+Obsidian | 1500 | 0.5 | 0.25 | kb resist +1
+Emerald | 1500 | 0.5 | 0.25 | Damage +0.05
+Diamond | 1500 | 0.5 | 0.25 | Damage +0.05
+Redstone | 1500 | 0.5 | 0.25 | Health +1.5
+Lapis | 1500 | 0.5 | 0.25 | Health +1.5
+Amethyst | 1500 | 0.5 | 0.25 | Speed +0.03
+Crystal Composite | 3000 | 0.75 | 0.5 | Speed +0.05
+Glowstone | 1500 | 0.5 | 0.25 | Illuminating
+Quartz | 1500 | 0.5 | 0.25 | Damage +0.1
+Uranium | 500 | 0.25 | 0 | Shield charge +1
+Plutonium | 1500 | 0.5 | 0.25 | Shield charge +2
+Experience | 1500 | 0.5 | 0.25 | Reinforced (Prevents damage to other upgraded, at the cost of durability)
