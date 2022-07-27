@@ -28,5 +28,5 @@ Sneak+Right Click to store the location of the targeted block to the GPS. Then, 
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| GPS | ![Vial](https://cdn.discordapp.com/attachments/739536694398812230/1001985908381327471/gps.png) | <ul><li>x2 Steel Ingot</li><li>x1 Glass</li></ul>) | <ul><li>x4 Gold Ingot</li><li>x2 Copper Ingot</li><li>x1 Eye of Ender</li><li>x1 Glass</li></ul>
+| GPS | ![Vial](https://cdn.discordapp.com/attachments/739536694398812230/1001985908381327471/gps.png) | <ul><li>x4 Gold Ingot</li><li>x2 Copper Ingot</li><li>x1 Eye of Ender</li><li>x1 Glass</li></ul>
 
