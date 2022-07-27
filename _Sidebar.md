@@ -15,12 +15,12 @@
 * [Machine Crafting Table](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Crafting-Table)
 * [Rods, Plates, & Gears](https://github.com/ImCoolYeah105/Mechanization/wiki/Rods-Plates-Gears)
 * [Machine Frames](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Frames)
-* [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
-* [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
 * [Machine Upgrades](https://github.com/ImCoolYeah105/Mechanization/wiki/Machine-Upgrades)
 
 ### Age of Machines
 ***
+* [Batteries](https://github.com/ImCoolYeah105/Mechanization/wiki/Batteries)
+* [Energy Relay](https://github.com/ImCoolYeah105/Mechanization/wiki/Energy-Relay)
 * [Steam Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Steam-Generator)
 * [Thermoelectric Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Thermoelectric-Generator)
 * [Solar Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Solar-Generator)
