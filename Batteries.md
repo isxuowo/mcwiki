@@ -1,4 +1,4 @@
-Batteries are one of two options for working with power systems in Mechanization. They store power in large quantities, and also transfer power between generators and machines. Energy in Mech is completely wireless, with a Battery or Capacitor required to transfer power. There are currently 3 tiers of Batteries.
+Batteries store energy that can be used by a machine later. Great for machines that need a burst of energy, or for temporarily powering a machine that is not connected to your main energy grid.
 
 Batteries keep their energy when broken with a wrench, so feel free to move them around!
 
