@@ -32,4 +32,4 @@ Glowstone | 3000 | 2.5 | 0.3 | 1 | Glowing
 Quartz | 3000 | 2.5 | 0.3 | 1 | Weakness
 Uranium | 1000 | 2 | 0.2 | 0 | Poison
 Plutonium | 3000 | 2.5 | 0.3 | 1 | Wither
-Experience | 3000 | 2.5 | 0.3 | 1 | Reinforced
+Experience | 3000 | 2.5 | 0.3 | 1 | Reinforced (Prevents damage to other upgrades at the cost of durability)
