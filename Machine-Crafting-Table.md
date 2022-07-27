@@ -1,6 +1,6 @@
 The Machine Crafting Table is a custom crafting table used to make the machines and items in Mechanization. It differs slightly from a normal crafting table in that items remain inside when leaving the gui. Created at a Vanilla Crafting Table.
 
-Note: any smithed compatible crafting table can be used for crafting, including the default one.
+Note: any Smithed compatible crafting table can be used to craft items from Mechanization, including the default one.
 
 | Item | Recipe | Items |
 |------|--------|-------|
