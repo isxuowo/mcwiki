@@ -11,18 +11,18 @@ Modular Armor is a powerful equipment set that, while starting out with no stats
 |----------------|------------|-------|-----------------|---------|
 Iron | 500 | 0.75 | 0 |  
 Tin | 500 | 0.5 | 0.25 |  
-Copper | 500 | 0.5 | 0 | shield cap +1
+Copper | 500 | 0.5 | 0 | shield capacity +1
 Steel | 1500 | 1 | 0.25 |  
 Structural | 1500 | 0.75 | 0.5 |  
-Conductive | 1500 | 0.75 | 0.25 | shield cap +2
+Conductive | 1500 | 0.75 | 0.25 | shield capacity +2
 Titanium Steel | 4500 | 1.5 | 0.5 |  
 Reinforced Structural | 4500 | 1 | 1 |  
-Super Conductive | 4500 | 1 | 0.5 | shield cap +3
+Super Conductive | 4500 | 1 | 0.5 | shield capacity +3
 Gold | 125 | 0.25 | 0 | Speed +0.1
 Netherite | 3000 | 1.25 | 0.5 |  
 Titanium | 3000 | 1 | 0.5 | Health +2.5
 Ender | 4500 | 1.5 | 1 |  
-Nether | 4500 | 1 | 0.5 | shield cap +4
+Nether | 4500 | 1 | 0.5 | shield capacity +4
 Coal | 500 | 0.25 | 0 | kb resist +0.5
 Obsidian | 1500 | 0.5 | 0.25 | kb resist +1
 Emerald | 1500 | 0.5 | 0.25 | Damage +0.05
@@ -33,6 +33,6 @@ Amethyst | 1500 | 0.5 | 0.25 | Speed +0.03
 Crystal Composite | 3000 | 0.75 | 0.5 | Speed +0.05
 Glowstone | 1500 | 0.5 | 0.25 | Illuminating
 Quartz | 1500 | 0.5 | 0.25 | Damage +0.1
-Uranium | 500 | 0.25 | 0 | Shield charge +1
-Plutonium | 1500 | 0.5 | 0.25 | Shield charge +2
+Uranium | 500 | 0.25 | 0 | Shield charge rate +1
+Plutonium | 1500 | 0.5 | 0.25 | Shield charge rate +1
 Experience | 1500 | 0.5 | 0.25 | Reinforced (Prevents damage to other upgraded, at the cost of durability)
