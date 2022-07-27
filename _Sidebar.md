@@ -52,6 +52,7 @@
 * [Enchanting Station](https://github.com/ImCoolYeah105/Mechanization/wiki/Enchanting-Station)
 
 ### Nuclear Ascension
+WIP: nuclear ascension is undergoing a remake and is currently not available.
 ***
 * [Fuel Rods](https://github.com/ImCoolYeah105/Mechanization/wiki/Fuel-Rods)
 * [Centrifuge](https://github.com/ImCoolYeah105/Mechanization/wiki/Centrifuge)
