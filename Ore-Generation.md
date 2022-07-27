@@ -2,6 +2,6 @@
 
 Ore | Generation Height | Rarity
 ----|-------------------|-------
-Tin Ore | 24 - 48 | Common
-Uranium Ore | 1 - 24 | Rare
-Titanium Ore | 1 - 16 | Very Rare
+Tin Ore | y = -16 to 32 | Common
+Uranium Ore | y = -48 to 16 | Rare
+Titanium Ore | y = -60 to -28 | Very Rare
