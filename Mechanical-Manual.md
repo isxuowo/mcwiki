@@ -5,3 +5,4 @@ The Mechanical Manual supports loading some extra manuals from 3rd party datapac
 | Item | Recipe | Items |
 |------|--------|-------|
 | Mechanical Manual | ![Mechanical Manual](https://cdn.discordapp.com/attachments/739536694398812230/879172671873617990/mechanical_manual.png) | <ul><li>x4 Redstone</li><li>x1 Book</li></ul>
+This recipe will work in the Vanilla crafting table and the Mechanical Crafting Table.
