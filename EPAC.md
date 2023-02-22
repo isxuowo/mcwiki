@@ -5,7 +5,7 @@ Requires power from a Portable Battery.
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| EPAC| ![EPAC](https://cdn.discordapp.com/attachments/739536694398812230/879727728381808710/plasma_weapon.png) | <ul><li>x2 Titanium Steel Ingots</li><li>x2 Super Conductive Rods</li><li>x1 Reinforced Titanium Plates</li></ul> |
+| EPAC| ![EPAC](https://cdn.discordapp.com/attachments/739536694398812230/879727728381808710/plasma_weapon.png) | <ul><li>x2 Titanium Steel Ingots</li><li>x2 Super Conductive Rods</li><li>x1 Reinforced Structural Plates</li></ul> |
 
 ## Upgrades
 
