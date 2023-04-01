@@ -45,7 +45,6 @@
 * [Item Reformer](https://github.com/ImCoolYeah105/Mechanization/wiki/Item-Reformer)
 * [Mob Grinder](https://github.com/ImCoolYeah105/Mechanization/wiki/Mob-Grinder)
 * [Electric Lamp](https://github.com/ImCoolYeah105/Mechanization/wiki/Electric-Lamp)
-* [Super Piston](https://github.com/ImCoolYeah105/Mechanization/wiki/Super-Piston)
 * [Spawner Controller](https://github.com/ImCoolYeah105/Mechanization/wiki/Spawner-Controller)
 * [Spawner Mover](https://github.com/ImCoolYeah105/Mechanization/wiki/Spawner-Mover)
 * [Teleporter](https://github.com/ImCoolYeah105/Mechanization/wiki/Teleporter)
