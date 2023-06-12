@@ -2,7 +2,7 @@ The Thermoelectric Generator creates power using thermal differences between 2 l
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Thermoelectric Generator | ![Thermoelectric Generator](https://cdn.discordapp.com/attachments/739536694398812230/879390587399311390/thermoelectric_generator.png) | <ul><li>x2 Redstone</li><li>x2 Buckts</li><li>x2 Copper Gears</li><li>x2 Gold Gears</li><li>x1 Tier 1 Machine Frame</li></ul> |
+| Thermoelectric Generator | ![Thermoelectric Generator](https://cdn.discordapp.com/attachments/739536694398812230/879390587399311390/thermoelectric_generator.png) | <ul><li>x2 Redstone</li><li>x2 Buckts</li><li>x2 Copper Gear</li><li>x2 Gold Gear</li><li>x1 Tier 1 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: +50% Energy Generation
