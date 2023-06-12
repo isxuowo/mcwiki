@@ -2,7 +2,7 @@ Of the 3 machines needed to produce advanced alloys, the Alloy Furnace is the mo
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Alloy Furnace | ![Alloy Furnace](https://cdn.discordapp.com/attachments/739536694398812230/879405303614021732/alloy_furnace.png) | <ul><li>x4 Bricks</li><li>x2 Copper Plates</li><li>x1 Redstone Block</li><li>x1 Blast Furnace</li><li>x1 Tier 1 Machine Frame</li></ul> |
+| Alloy Furnace | ![Alloy Furnace](https://cdn.discordapp.com/attachments/739536694398812230/879405303614021732/alloy_furnace.png) | <ul><li>x4 Bricks</li><li>x2 Copper Plate</li><li>x1 Redstone Block</li><li>x1 Blast Furnace</li><li>x1 Tier 1 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: Enables creating Tier 3 Alloys
