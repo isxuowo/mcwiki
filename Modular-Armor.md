@@ -2,10 +2,10 @@ Modular Armor is a powerful equipment set that, while starting out with no stats
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Modular Helmet | ![Modular Helmet](https://cdn.discordapp.com/attachments/739536694398812230/879568147496173619/modular_helmet.png) | <ul><li>x2 Copper Gears</li><li>x2 Iron Plates</li><li>x1 Titanium ingot</li></ul> |
-| Modular Chestplate | ![Modular Chestplate](https://cdn.discordapp.com/attachments/739536694398812230/879568160259461120/modular_chestplate.png) | <ul><li>x4 Iron Ingots</li><li>x2 Copper Rods</li><li>x1 Tin Plate</li><li>x1 Titanium Ingot</li></ul> |
-| Modular  Leggings | ![Modular Leggings](https://cdn.discordapp.com/attachments/739536694398812230/879568168400597062/modular_leggings.png) | <ul><li>x2 Tin Gears</li><li>x2 Iron Plates</li><li>x2 Copper Rods</li><li>x1 Titanium Ingot</li></ul> |
-| Modular Boots | ![Modular Boots](https://cdn.discordapp.com/attachments/739536694398812230/879568187618902066/modular_boots.png) | <ul><li>x2 Iron Rods</li><li>x2 Tin Plates</li><li>x1 Titanium Ingot</li></ul> |
+| Modular Helmet | ![Modular Helmet](https://cdn.discordapp.com/attachments/739536694398812230/879568147496173619/modular_helmet.png) | <ul><li>x2 Copper Gear</li><li>x2 Iron Plate</li><li>x1 Titanium ingot</li></ul> |
+| Modular Chestplate | ![Modular Chestplate](https://cdn.discordapp.com/attachments/739536694398812230/879568160259461120/modular_chestplate.png) | <ul><li>x4 Iron Ingot</li><li>x2 Copper Rod</li><li>x1 Tin Plate</li><li>x1 Titanium Ingot</li></ul> |
+| Modular  Leggings | ![Modular Leggings](https://cdn.discordapp.com/attachments/739536694398812230/879568168400597062/modular_leggings.png) | <ul><li>x2 Tin Gear</li><li>x2 Iron Plate</li><li>x2 Copper Rod</li><li>x1 Titanium Ingot</li></ul> |
+| Modular Boots | ![Modular Boots](https://cdn.discordapp.com/attachments/739536694398812230/879568187618902066/modular_boots.png) | <ul><li>x2 Iron Rod</li><li>x2 Tin Plate</li><li>x1 Titanium Ingot</li></ul> |
 
 | Plate Material | Durability | Armor | Armor Toughness | Effects |
 |----------------|------------|-------|-----------------|---------|
