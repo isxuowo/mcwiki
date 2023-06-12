@@ -9,3 +9,4 @@ Machine Upgrade: x2 mining speed
 Ender Upgrade: Breaks blocks with silk touch
 Nether Upgrade: Breaks blocks with fortune 3
 ```
+![Quarry](https://cdn.discordapp.com/attachments/739536694398812230/1117830805989900308/2023-06-12_11.00.18.png)
