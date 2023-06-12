@@ -6,6 +6,6 @@ The Arc Furnace melts resources into molten forms- for example, Iron Ingots into
 
 ```
 Machine Upgrade: +25% Speed
-Ender Upgrade: +25% molten metal produced from melting raw metals
+Ender Upgrade: +33% molten metal produced from melting raw metals
 Nether Upgrade: +25% Speed and Efficiency, but can only melt non-metals
 ```
