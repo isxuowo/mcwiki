@@ -6,7 +6,7 @@ The Drive Bay houses Storage Drives for access by the Terminal. At least one is 
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Drive Bay | ![Drive Bay](https://cdn.discordapp.com/attachments/739536694398812230/879753672677003295/mss_drive_bay.png) | <ul><li>x4 Iron Bars</li><li>x2 Conductive Gears</li><li>x1 Crystal Composite</li><li>x1 Barrel</li><li>x1 Tier 2 Machine Frame</li></ul> |
+| Drive Bay | ![Drive Bay](https://cdn.discordapp.com/attachments/739536694398812230/879753672677003295/mss_drive_bay.png) | <ul><li>x4 Iron Bars</li><li>x2 Conductive Gear</li><li>x1 Crystal Composite</li><li>x1 Barrel</li><li>x1 Tier 2 Machine Frame</li></ul> |
 
 ### MSS Storage Drive
 
@@ -14,7 +14,7 @@ The Storage Drive is an item that actually holds the stored items. Holds up to 2
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Storage Drive | ![Storage Drive](https://cdn.discordapp.com/attachments/739536694398812230/879753681984192612/mss_storage_drive.png) | <ul><li>x4 Iron Titanium Steel Ingots</li><li>x2 Super Conductive Rods</li><li>x1 Nether Alloy Rod</li><li>x1 Ender Alloy Rod</li><li>x1 Unlimited Storage Unit</li></ul> |
+| Storage Drive | ![Storage Drive](https://cdn.discordapp.com/attachments/739536694398812230/879753681984192612/mss_storage_drive.png) | <ul><li>x4 Iron Titanium Steel Ingot</li><li>x2 Super Conductive Rod</li><li>x1 Nether Alloy Rod</li><li>x1 Ender Alloy Rod</li><li>x1 Unlimited Storage Unit</li></ul> |
 
 ### MSS Terminal
 
