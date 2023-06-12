@@ -18,7 +18,6 @@ Rabbit Foot | 40 seconds
 Phantom Membrane | 80 seconds
 Scute | 160 seconds
 Nautilus Shell | 240 seconds
-Any Music Disc | 500 seconds
 Heart of the Sea | 1000 seconds
 Totem of Undying | 2000 seconds
 
