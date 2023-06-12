@@ -6,8 +6,8 @@ Of the 3 machines needed to produce advanced alloys, the Alloy Furnace is the mo
 
 ```
 Machine Upgrade: Enables creating Tier 3 Alloys
-Ender Upgrade: Reduces the cost of Tier 2 Alloys by 10%
-Nether Upgrade: Reduces the cost of Tier 3 Alloys by 10%
+Ender Upgrade: 10% chance to double Tier 2 Alloys
+Nether Upgrade: 10% chance to double Tier 3 Alloys
 ```
 
 ### Creating Alloys Overview
