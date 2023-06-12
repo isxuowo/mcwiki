@@ -2,7 +2,7 @@ The Enchanting Station will, at the cost of power and liquid experience, add an 
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Enchanting Station | ![Enchanting Station](https://cdn.discordapp.com/attachments/739536694398812230/879557863498997820/enchanting_station.png) | <ul><li>x4 Crying Obsidian</li><li>x2 Crystal Composite</li><li>x2 Super Conductive Gears</li><li>x1 Tier 3 Machine Frame</li></ul> |
+| Enchanting Station | ![Enchanting Station](https://cdn.discordapp.com/attachments/739536694398812230/879557863498997820/enchanting_station.png) | <ul><li>x4 Crying Obsidian</li><li>x2 Crystal Composite</li><li>x2 Super Conductive Gear</li><li>x1 Tier 3 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: Allows combining some invalid enchantments- like Protection and Projectile Protection
