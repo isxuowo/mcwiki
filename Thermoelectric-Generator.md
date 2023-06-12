@@ -1,4 +1,4 @@
-The Thermoelectric Generator creates power using thermal differences between 2 liquids. The hotter and colder each liquid is, the more power it generates. Generates 1-52 kW.
+The Thermoelectric Generator creates power using thermal differences between 2 liquids. The hotter and colder each liquid is, the more power it generates. Generates 1-52 kW. The most basic combination is Water and Lava, but other combinations like Powder Snow and Molten Metal generate more power.
 
 | Item | Recipe | Items |
 |------|--------|-------|
