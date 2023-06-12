@@ -2,7 +2,7 @@ The Mob Grinder will kill any non-boss mob in a 5 block radius. When upgraded, k
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Mob Grinder | ![Mob Grinder](https://cdn.discordapp.com/attachments/739536694398812230/879441833279750154/mob_grinder.png) | <ul><li>x2 Diamond Sword</li><li>x2 Conductive Plates</li><li>x1 Bucket</li><li>x1 Wither Skeleton Skull</li><li>x1 Tier 2 Machine Frame</li></ul> |
+| Mob Grinder | ![Mob Grinder](https://cdn.discordapp.com/attachments/739536694398812230/879441833279750154/mob_grinder.png) | <ul><li>x2 Diamond Sword</li><li>x2 Conductive Plate</li><li>x1 Bucket</li><li>x1 Wither Skeleton Skull</li><li>x1 Tier 2 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: Collects liquid XP from mobs killed
