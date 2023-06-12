@@ -9,33 +9,6 @@ Machine Upgrade: Accepts meat as fuel
 Ender Upgrade: +50% Energy Generation (2-95 kW)
 Nether Upgrade: +100% Energy Generation (2-126 kW), x2 Fuel Consumption
 ```
-4 kW: Cactus\n
-4 kW: Melon Slice\n
-8 kW: Sugar Cane\n
-8 kW: Kelp\n
-8 kW: Bamboo\n
-12 kW: Sweet Berries\n
-12 kW: Cocoa Beans\n
-12 kW: Beetroot\n
-12 kW: Potato\n
-12 kW: Carrot\n
-16 kW: Wheat\n
-16 kW: Raw Cod\n
-16 kW: Raw Salmon\n
-16 kW: Pumpkin\n
-16 kW: Apple\n
-20 kW: Melon Block\n
-20 kW: Nether Wart\n
-20 kW: Raw Rabbit\n
-20 kW: Raw Chicken\n
-24 kW: Raw Beef\n
-24 kW: Raw Porkchop\n
-24 kW: Raw Mutton\n
-24 kW: Mushrooms\n
-24 kW: Chorus Fruit\n
-28 kW: Fungi\n
-32 kW: Hay Block\n
-32 kW: Chorus Flower
 
 Fuel | Output
 -----|-------
