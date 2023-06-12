@@ -28,7 +28,7 @@ Nether Upgrade: 10% chance to double Tier 3 Alloys
 |--------------|--------|-------|
 | Titanium Steel Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404730349154394/titanium_steel.png) | <ul><li>x4 Blaze Rod</li><li>x2 Steel Ingot</li><li>x1 Titanium Ingot</li></ul>
 | Reinforced Structural Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404786217267220/reinforced_structural_alloy.png) | <ul><li>x4 Prismarine Crystals</li><li>x2 Structural Ingot</li><li>x1 Titanium Ingot</li></ul>
-| Super Conductive Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404841615638588/super_conductive_alloy.png)
-| Nether Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404878227718154/nether_alloy.png) | <ul><li>x4 Ender Pearl</li><li>x2 Conductive Ingot</li><li>x1 Titanium Ingot</li></ul>
-| Ender Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404905549430885/ender_alloy.png) | <ul><li>x32 Chorus Fruit</li><li>x32 Dragon's Breath</li><li>x4 Titanium Ingot</li></ul>
-| Netherite Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404921940762754/netherite.png) | <ul><li>x1 Nether Star</li><li>4000L Lava (4 buckets)</li><li>x4 Titanium Ingot</li></ul>
+| Super Conductive Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404841615638588/super_conductive_alloy.png) | <ul><li>x4 Ender Pearl</li><li>x2 Conductive Ingot</li><li>x1 Titanium Ingot</li></ul>
+| Nether Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404878227718154/nether_alloy.png) | <ul><li>x32 Chorus Fruit</li><li>x32 Dragon's Breath</li><li>x4 Titanium Ingot</li></ul>
+| Ender Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404905549430885/ender_alloy.png) | <ul><li>x1 Nether Star</li><li>4000L Lava (4 buckets)</li><li>x4 Titanium Ingot</li></ul>
+| Netherite Ingot | ![Imgur](https://cdn.discordapp.com/attachments/739536694398812230/879404921940762754/netherite.png) | <ul><li>x4 Netherite Scrap</li><li>x4 Gold Ingots</li><li>10% chance to double with Nether Upgrade</li></ul>
