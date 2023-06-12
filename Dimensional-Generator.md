@@ -2,7 +2,7 @@ Appears to be able to convert items from various dimensions into raw energy at 2
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Dimensional Generator | ![Dimensional Generator](https://cdn.discordapp.com/attachments/739536694398812230/879395935904477304/dimensional_generator.png) | <ul><li>x2 Nether Bricks</li><li>x2 Purpur Blocks</li><li>x2 Super Conductive Plates</li><li>x1 Ender Alloy Ingot</li><li>x1 Nether Alloy Ingot</li><li>x1 Tier 3 Machine Frame</li></ul> |
+| Dimensional Generator | ![Dimensional Generator](https://cdn.discordapp.com/attachments/739536694398812230/879395935904477304/dimensional_generator.png) | <ul><li>x2 Nether Bricks</li><li>x2 Purpur Block</li><li>x2 Super Conductive Plate</li><li>x1 Ender Alloy Ingot</li><li>x1 Nether Alloy Ingot</li><li>x1 Tier 3 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: +100% Energy Generation (48 kW)
