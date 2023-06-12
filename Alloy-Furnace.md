@@ -22,7 +22,7 @@ Nether Upgrade: 10% chance to double Tier 3 Alloys
 | Steel Ingot | ![Steel Ingot](https://cdn.discordapp.com/attachments/739536694398812230/879404413280722994/steel.png)
 | Structural Ingot | ![Structural Ingot](https://cdn.discordapp.com/attachments/739536694398812230/879404442678607922/structural_alloy.png)
 | Conductive Ingot | ![Conductive Ingot](https://cdn.discordapp.com/attachments/739536694398812230/879404465751470120/conductive_alloy.png)
-| Crystal Composite | ![Crystal Composite](https://cdn.discordapp.com/attachments/739536694398812230/879404481022935050/crystal_composite.png)
+| Crystal Composite | ![Crystal Composite](https://cdn.discordapp.com/attachments/739536694398812230/1117824935860117614/crystal_composite.png)
 
 | Tier 3 Alloy | Recipe |
 |--------------|--------|
