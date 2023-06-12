@@ -22,4 +22,4 @@ The Terminal access drives, allowing you to add and remove items from the MSS. O
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Terminal | ![Terminal ](https://cdn.discordapp.com/attachments/739536694398812230/879753692704800798/mss_terminal.png) | <ul><li>x4 Netherite Ingots</li><li>x1 Super Conductive Gear</li><li>x1 Redstone Gear</li><li>x1 Ender Alloy Plate</li><li>x1 Nether Alloy Plate</li><li>x1 Tier 3 Machine Frame</li></ul> |
+| Terminal | ![Terminal ](https://cdn.discordapp.com/attachments/739536694398812230/879753692704800798/mss_terminal.png) | <ul><li>x4 Netherite Ingots</li><li>x1 Super Conductive Gear</li><li>x1 Crystal Composite Gear</li><li>x1 Ender Alloy Plate</li><li>x1 Nether Alloy Plate</li><li>x1 Tier 3 Machine Frame</li></ul> |
