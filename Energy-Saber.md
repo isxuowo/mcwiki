@@ -2,7 +2,7 @@ The Energy Saber is a powerful melee weapon that can be upgraded with Rods (ie. 
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Energy Saber | ![Energy Saber](https://cdn.discordapp.com/attachments/739536694398812230/879565308141137961/energy_saber.png) | <ul><li>x2 Copper Rods</li><li>x1 Iron Gear</li><li>x1 Diamond</li><li>x1 Titanium</li></ul> |
+| Energy Saber | ![Energy Saber](https://cdn.discordapp.com/attachments/739536694398812230/879565308141137961/energy_saber.png) | <ul><li>x2 Copper Rod</li><li>x1 Iron Gear</li><li>x1 Diamond</li><li>x1 Titanium</li></ul> |
 
 | Rod Material | Durability | Damage | Attack Speed | Range | Effect |
 |--------------|------------|--------|--------------|-------|--------|
