@@ -2,7 +2,7 @@ When placed below farmland, the Growth Accelerator will speed up the growth rate
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Growth Accelerator | ![Growth Accelerator](https://cdn.discordapp.com/attachments/739536694398812230/879438915570917426/growth_accelerator.png) | <ul><li>x4 Bone Block</li><li>x2 Copper Gears</li><li>x2 Gold Plates</li><li>x1 Tier 1 Machine Frame</li></ul> |
+| Growth Accelerator | ![Growth Accelerator](https://cdn.discordapp.com/attachments/739536694398812230/879438915570917426/growth_accelerator.png) | <ul><li>x4 Bone Block</li><li>x2 Copper Gear</li><li>x2 Gold Plate</li><li>x1 Tier 1 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: Enables speeding up Nether Wart, Beet Roots, Cocoa Beans, and small trees.
