@@ -28,7 +28,7 @@
 * [Dimensional Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Dimensional-Generator)
 * [Lightning Generator](https://github.com/ImCoolYeah105/Mechanization/wiki/Lightning-Generator)
 * [Fluid Pipes](https://github.com/ImCoolYeah105/Mechanization/wiki/Fluid-Pipes)
-* [Liquid Tanks](https://github.com/ImCoolYeah105/Mechanization/wiki/Liquid-Tanks)
+* [Fluid Tanks](https://github.com/ImCoolYeah105/Mechanization/wiki/Fluid-Tanks)
 * [Liquid Accumulator](https://github.com/ImCoolYeah105/Mechanization/wiki/Liquid-Accumulator)
 * [Arc Furnace](https://github.com/ImCoolYeah105/Mechanization/wiki/Arc-Furnace)
 * [Casting Basin](https://github.com/ImCoolYeah105/Mechanization/wiki/Casting-Basin)
