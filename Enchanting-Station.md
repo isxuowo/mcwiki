@@ -7,5 +7,5 @@ The Enchanting Station will, at the cost of power and liquid experience, add an 
 ```
 Machine Upgrade: Allows combining some invalid enchantments- like Protection and Projectile Protection
 Ender Upgrade: Allows Disenchanting items by combining them with a regular book
-Nether Upgrade: Allows Overenchanting items, bypassing the normal level limit
+Nether Upgrade: Allows Overenchanting items, bypassing the normal level limit. Max levels are increased from 1 - 2, depending on the Enchantment.
 ```
