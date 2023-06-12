@@ -30,6 +30,6 @@ The Dye Machine acts a bit differently. It has 2 slots. A dye goes in the top sl
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Dye Machine| ![Dye Machine](https://cdn.discordapp.com/attachments/739536694398812230/879746062036926564/dye_machine.png) | <ul><li>x2 Conductive Rods</li><li>x1 Red Dye</li><li>x1 Yellow Dye</li><li>x1 Blue Dye</li><li>x1 White Dye</li><li>x1 Green Dye</li><li>x1 Black Dye</li><li>x1 Tier 2 Machine Frame</li></ul> |
+| Dye Machine| ![Dye Machine](https://cdn.discordapp.com/attachments/739536694398812230/879746062036926564/dye_machine.png) | <ul><li>x2 Conductive Rod</li><li>x1 Red Dye</li><li>x1 Yellow Dye</li><li>x1 Blue Dye</li><li>x1 White Dye</li><li>x1 Green Dye</li><li>x1 Black Dye</li><li>x1 Tier 2 Machine Frame</li></ul> |
 
 Can Handle: Wool, Glass, Glass Panes, Terracotta, Glazed Terracotta, Concrete, Concrete Powder, Beds, Banners, and Candles.
