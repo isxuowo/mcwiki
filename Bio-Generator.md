@@ -2,7 +2,7 @@ The Bio Generator produces between 1-63 kW based on the variety of plant matter 
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Bio Generator | ![Bio Generator](https://cdn.discordapp.com/attachments/739536694398812230/879393130460352542/bio_generator.png) | <ul><li>x4 Nether Bricks</li><li>x2 Conductive Plates</li><li>x1 Hopper</li><li>x1 Smoker</li><li>x1 Tier 2 Machine Frame</li></ul> |
+| Bio Generator | ![Bio Generator](https://cdn.discordapp.com/attachments/739536694398812230/879393130460352542/bio_generator.png) | <ul><li>x4 Nether Bricks</li><li>x2 Conductive Plate</li><li>x1 Hopper</li><li>x1 Smoker</li><li>x1 Tier 2 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: Accepts meat as fuel
