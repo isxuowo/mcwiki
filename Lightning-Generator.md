@@ -1,4 +1,4 @@
-The Lightning Generator is an extremely powerful generator that requires a lightning rod to be placed on top. When struck by lightning, the Lightning Generator briefly generates an infinite amount of power. However, the power goes away after 1 second, so you have a very short time to collect it with batteries/capacitors.
+The Lightning Generator is an extremely powerful generator that requires a lightning rod to be placed on top. When struck by lightning, the Lightning Generator briefly generates an infinite amount of power. However, the power goes away after 1 second, so you have a very short time to store it with batteries. The more batteries you have, the more power that will be stored each strike.
 
 | Item | Recipe | Items |
 |------|--------|-------|
