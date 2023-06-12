@@ -1,4 +1,4 @@
-The portable battery stores up to 32000 kJ and is used to power tool, weapons, and upgrades that require power. Must be in hotbar top provide power. Can be charged in the Charging Station.
+The Portable Battery stores up to 32000 kJ and is used to power tool, weapons, and upgrades that require power. Must be in your inventory to provide power. Can be charged in the Charging Station.
 
 | Item | Recipe | Items |
 |------|--------|-------|
