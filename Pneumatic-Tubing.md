@@ -4,9 +4,9 @@ Pneumatic Tubing will only insert/extract items in correct slots- for example, i
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Pneumatic Tubing | ![Pneumatic Tubing](https://cdn.discordapp.com/attachments/739536694398812230/879748926943686696/item_pipe.png) | <ul><li>x2 Steel Ingots</li><li>x1 Structural Ingots</li></ul> |
-| Pneumatic Entry-Point | ![Pneumatic Tubing](https://cdn.discordapp.com/attachments/739536694398812230/879748944018673714/item_extractor.png) | <ul><li>x2 Steel Ingots</li><li>x1 Conductive Rod</li><li>x1 Crystal Composite</li><li>x1 Pneumatic Tubing</li></ul> |
-| Pneumatic Exit-Point | ![Pneumatic Tubing](https://cdn.discordapp.com/attachments/739536694398812230/879748952755429396/item_inserter.png) | <ul><li>x2 Steel Ingots</li><li>x1 Structural Rod</li><li>x1 Crystal Composite</li><li>x1 Pneumatic Tubing</li></ul> |
+| Pneumatic Tubing | ![Pneumatic Tubing](https://cdn.discordapp.com/attachments/739536694398812230/879748926943686696/item_pipe.png) | <ul><li>x2 Steel Ingot</li><li>x1 Structural Ingot</li></ul> |
+| Pneumatic Entry-Point | ![Pneumatic Tubing](https://cdn.discordapp.com/attachments/739536694398812230/879748944018673714/item_extractor.png) | <ul><li>x2 Steel Ingot</li><li>x1 Conductive Rod</li><li>x1 Crystal Composite</li><li>x1 Pneumatic Tubing</li></ul> |
+| Pneumatic Exit-Point | ![Pneumatic Tubing](https://cdn.discordapp.com/attachments/739536694398812230/879748952755429396/item_inserter.png) | <ul><li>x2 Steel Ingot</li><li>x1 Structural Rod</li><li>x1 Crystal Composite</li><li>x1 Pneumatic Tubing</li></ul> |
 
 ### Item Filter
 
