@@ -4,7 +4,7 @@ Tip: use a Liquid Accumulator to collect water and pump it into the Steam Genera
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Steam Generator | ![Steam Generator](https://cdn.discordapp.com/attachments/739536694398812230/879387111772553267/steam_generator.png) | <ul><li>x4 Terracotta</li><li>x2 Copper Gears</li><li>x1 Bucket</li><li>x1 Furnace</li><li>x1 Tier 1 Machine Frame</li></ul> |
+| Steam Generator | ![Steam Generator](https://cdn.discordapp.com/attachments/739536694398812230/879387111772553267/steam_generator.png) | <ul><li>x4 Terracotta</li><li>x2 Copper Gear</li><li>x1 Bucket</li><li>x1 Furnace</li><li>x1 Tier 1 Machine Frame</li></ul> |
 
 ```
 Machine Upgrade: +50% Energy Generation (18 kW)
