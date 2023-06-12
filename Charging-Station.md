@@ -1,4 +1,4 @@
-The charging station charges Portable Batteries and other equipment that can store power at a rate of 256 kW. Insert chargable items by right clicking them on the black square on top of the charging station.
+The charging station charges Portable Batteries and other equipment that can store power at a rate of 256 kW. Right click to insert/remove an item.
 
 | Item | Recipe | Items |
 |------|--------|-------|
