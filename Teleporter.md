@@ -2,5 +2,5 @@ Store a location in the Teleporter using a [GPS](https://github.com/ImCoolYeah10
 
 | Item | Recipe | Items |
 |------|--------|-------|
-| Teleporter | ![Teleporter](https://cdn.discordapp.com/attachments/739536694398812230/879556999635943495/teleporter.png) | <ul><li>x4 Eye of Ender</li><li>x2 Super Conductive Plates</li><li>x1 Crystal Composite</li><li>x1 Ender Alloy Gear</li><li>x1 Tier 3 Machine Frame</li></ul> |
+| Teleporter | ![Teleporter](https://cdn.discordapp.com/attachments/739536694398812230/879556999635943495/teleporter.png) | <ul><li>x4 Eye of Ender</li><li>x2 Super Conductive Plate</li><li>x1 Crystal Composite</li><li>x1 Ender Alloy Gear</li><li>x1 Tier 3 Machine Frame</li></ul> |
 
