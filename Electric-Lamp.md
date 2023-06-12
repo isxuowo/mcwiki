@@ -1,4 +1,4 @@
-The Electric Lamp produces light in a 30 block radius- double that of glowstone. Requires redstone to activate. Uses 8 kW.
+The Electric Lamp produces light in a 30 block radius- double that of glowstone. Uses 8 kW. Can be controlled by redstone, but the Redstone Control State needs to be toggled with the Multimeter.
 
 | Item | Recipe | Items |
 |------|--------|-------|
