@@ -1,4 +1,11 @@
-The Grinder can process various materials into alternative forms, including ores and ingots -> raw metal, logs -> planks, blaze rods -> blaze powder, bones -> bonemeal, cobblestone -> sand, stone -> gravel, gravel -> flint. Uses: 60 kW.
+The Grinder can uses: 60 kW to process various materials into alternative forms, including 
+* ores and ingots -> raw metal
+* logs -> planks
+* blaze rods -> blaze powder
+* bones -> bonemeal
+* cobblestone -> sand
+* stone -> gravel
+* gravel -> flint. 
 
 | Item | Recipe | Items |
 |------|--------|-------|
